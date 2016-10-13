@@ -1,0 +1,8 @@
+# Place-name Translations for things on the range/in the world.
+
+# Zones
+m.dry_reef = Dry Reef
+m.quarry = Quarry
+
+# Teleporters
+m.teleporter.ranch = Ranch

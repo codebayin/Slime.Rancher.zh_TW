@@ -1,0 +1,112 @@
+# Contents of starmail in the game.
+
+m.subj.welcome = Welcome to the Far, Far Range
+m.from.welcome = The 7Zee Corporation
+m.body.welcome = Ms LeBeaux, \n\n\
+	The 7Zee Corporation would like to welcome you to the Far, Far Range and extend our support in your \
+	bold new venture as a slime rancher. We look forward to you supplying us with a steady flow of plorts for which \
+	we will pay handsomely. \n\n\
+	We would also like to request that you exercise caution in your first few days on the range. Until you get more \
+	familiar with your surroundings, traveling at night is not advisable. \n\n\
+	Lastly, should you require any additional tools for your vacpack the 7Zee Corporation would be pleased to provide \
+	them to you from the shop located just outside your ranch house. \n\n\
+	Good luck to you, Ms LeBeaux. \n\
+	- The 7Zee Corporation
+
+### Upgrade emails
+m.subj.upgrade_jetpack_efficiency = Air Drive Available
+m.from.upgrade_jetpack_efficiency = The 7Zee Corporation
+m.body.upgrade_jetpack_efficiency = This item is now available in the upgrade shop.
+
+m.subj.upgrade_health_2 = Heart Module Mk II Available
+m.from.upgrade_health_2 = The 7Zee Corporation
+m.body.upgrade_health_2 = This item is now available in the upgrade shop.
+
+m.subj.upgrade_health_3 = Heart Module Mk III Available
+m.from.upgrade_health_3 = The 7Zee Corporation
+m.body.upgrade_health_3 = This item is now available in the upgrade shop.
+
+m.subj.upgrade_energy_2 = Power Core Mk II Available
+m.from.upgrade_energy_2 = The 7Zee Corporation
+m.body.upgrade_energy_2 = This item is now available in the upgrade shop.
+
+m.subj.upgrade_energy_3 = Power Core Mk III Available
+m.from.upgrade_energy_3 = The 7Zee Corporation
+m.body.upgrade_energy_3 = This item is now available in the upgrade shop.
+
+m.subj.upgrade_ammo_2 = Tank Booster Mk II Available
+m.from.upgrade_ammo_2 = The 7Zee Corporation
+m.body.upgrade_ammo_2 = This item is now available in the upgrade shop.
+
+m.subj.upgrade_ammo_3 = Tank Booster Mk III Available
+m.from.upgrade_ammo_3 = The 7Zee Corporation
+m.body.upgrade_ammo_3 = This item is now available in the upgrade shop.
+
+m.subj.upgrade_run_efficiency = Dash Boots Available
+m.from.upgrade_run_efficiency = The 7Zee Corporation
+m.body.upgrade_run_efficiency = This item is now available in the upgrade shop.
+
+m.subj.upgrade_air_burst = Pulse Wave Available
+m.from.upgrade_air_burst = The 7Zee Corporation
+m.body.upgrade_air_burst = This item is now available in the upgrade shop.
+
+
+
+### Exchange Intro mails
+m.subj.exchangeintro_thora = Welcome to the Range Exchange!
+m.from.exchangeintro_thora = Thora West
+m.body.exchangeintro_thora = Hi there, Beatrix! The name's Thora West. I'll keep my introduction short on account that we all got work to do: I'm a long-time rancher here on the Far, Far Range and head of the welcome wagon for your local Range Exchange.\n\n\
+  The Range Exchange is a network of ranchers just like yourself who are looking to trade what they got for what they need: slimes, plorts, food- whatever. All you need to do is check out the Range Exchange machine daily and be sure to get your trade completed by noon.\n\n\
+  As more ranchers get added to your network, you should receive a hearty hello from them so check your inbox.\n\n\
+  Well, enough jawin,' we've both got slimes to wrangle.\n\n\
+  Adios, Beatrix.\n\n\
+  - Thora\n\n\n\n\
+  P.S. - Since ol' Hobson's Range Exchange link went dead years ago, I assumed he broke the dang thing like everything else on that ranch. I'll bet you have your hands full. In any case I arranged for another to be shipped to you, free of charge. Should have arrived last night, so check it out!
+
+m.subj.exchangeintro_viktor = Salutations, Ms. LeBeaux
+m.from.exchangeintro_viktor = Viktor Humphries
+m.body.exchangeintro_viktor = Allow me to introduce myself. I am Viktor Humphries; professional slime rancher, slime scientist, and amateur musician. My understanding is that Ms West has already informed you of how the Range Exchange works so I will spare you any further education.\n\n\
+  Instead, I'll illuminate you on what you can expect from my own requests. As a slime scientist/rancher I have a tremendous interest in the liquiform legion that we share this vast range with, the slimes. My studies often keep me from venturing out on the range daily and when I find myself short of a particular species, I use the Range Exchange to fill that gap. Don't worry though, I will reimburse you handsomely for your efforts.\n\n\
+  Good luck in your new venture, Ms LeBeaux. I look forward to seeing life breathed once again into the former Twillgers Ranch.\n\n\
+  Sincerely,\n\
+  Viktor Humphries\n\n\
+  P.S. - I once lost my most favorite fiddle while fleeing a feral boom slime. Its value is only sentimental but should you find it, I'd very much love to be able to play it again.
+
+m.subj.exchangeintro_ogden = Hiya Beatrix!
+m.from.exchangeintro_ogden = Ogden Ortiz
+m.body.exchangeintro_ogden = The name's Ogden Ortiz. I'm a slime rancher much like yourself but I mostly fancy myself as a farmer. I came to the Far, Far Range to grow fruits and veggies the way we used to back on earth: by getting down into the soil and getting your hands dirty.\n\n\
+  Did you know that carrots improve your night vision? Yeah, seriously, they do! I don't see why all ranchers aren't just gobbling them down every chance they get. Being lost out on the range at night can be so dangerous...\n\n\
+  Well don't let me ramble on ya here. We'll be in touch via the Range Exchange. I tend to only raise slimes that eat fruits and veggies, so expect those kinds of requests from me.\n\n\
+  Lookin forward to doing business with ya!\n\n\
+  O.O.\n\n\
+  P.S. - Ever hear of gilded ginger? It's a mythical veggie that is said to be the favorite food of the equally mythical gold slime. But some say that neither of them actually exist!
+
+m.subj.exchangeintro_mochi = (no subject)
+m.from.exchangeintro_mochi = Mochi Miles
+m.body.exchangeintro_mochi = Well, well it seems like another wannabe rancher has signed up for a lonely existence on a faraway space rock. Congrats Beatrix!\n\n\
+  I'm Mochi Miles. That's 'Miles' as in Tatsuya Miles, the billionaire. I'm here to do important business for my dad but that doesn't mean I won't make all the rest of these backwater types out here look bad in the process. No one conquers the plort market like I do: day in, day out.\n\n\
+  My dad gives me the inside track so look forward to my requesting plorts that I know will make me huge profits later on.\n\n\
+  So I wish you the best of luck, Beatrix. Maybe you'll even reach second place! And at the very least you can tell your friends that you helped out the great Mochi Miles in her conquest of the Far, Far Range!\n\n\
+  Later, tater.\n\n\
+  Mochi Miles, Top Rancher
+
+m.subj.exchangeintro_bob = helloooo
+m.from.exchangeintro_bob = BOb
+m.body.exchangeintro_bob = Hello,,\n\
+  hellohellooo......chickeNs.\n\
+  helloCHickens.\n\
+  chICKEN.\n\n\
+  hello,\n\
+  BOb\n\n\
+  PSs.-- chickKn
+
+
+### Personal mails
+#m.subj.casey_1 = Casey Mail 1
+#m.from.casey_1 = TBD
+#m.body.casey_1 = TBD
+
+#m.subj.casey_2 = Casey Mail 2
+#m.from.casey_2 = TBD
+#m.body.casey_2 = TBD
+

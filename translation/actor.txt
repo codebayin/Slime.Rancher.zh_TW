@@ -1,0 +1,102 @@
+# Names of the identifiable actors in the game.
+
+l.rad_slime = Rad Slime
+l.rock_slime = Rock Slime
+l.pink_slime = Pink Slime
+l.boom_slime = Boom Slime
+l.phosphor_slime = Phosphor Slime
+l.honey_slime = Honey Slime
+l.tabby_slime = Tabby Slime
+l.hunter_slime = Hunter Slime
+l.puddle_slime = Puddle Slime
+l.crystal_slime = Crystal Slime
+
+l.tarr_slime = Tarr Slime
+l.gold_slime = Gold Slime
+l.lucky_slime = Lucky Slime
+
+l.pink_rock_largo = Pink Rock Largo
+l.rad_rock_largo = Rad Rock Largo
+l.pink_rad_largo = Pink Rad Largo
+l.pink_boom_largo = Pink Boom Largo
+l.boom_rock_largo = Boom Rock Largo
+l.boom_rad_largo = Boom Rad Largo
+l.phosphor_rock_largo = Phosphor Rock Largo
+l.boom_phosphor_largo = Boom Phosphor Largo
+l.phosphor_rad_largo = Phosphor Rad Largo
+l.pink_phosphor_largo = Pink Phosphor Largo
+l.pink_tabby_largo = Pink Tabby Largo
+l.boom_tabby_largo = Boom Tabby Largo
+l.rad_tabby_largo = Rad Tabby Largo
+l.rock_tabby_largo = Rock Tabby Largo
+l.phosphor_tabby_largo = Phosphor Tabby Largo
+l.pink_hunter_largo = Pink Hunter Largo
+l.boom_hunter_largo = Boom Hunter Largo
+l.rad_hunter_largo = Rad Hunter Largo
+l.rock_hunter_largo = Rock Hunter Largo
+l.phosphor_hunter_largo = Phosphor Hunter Largo
+l.tabby_hunter_largo = Tabby Hunter Largo
+l.pink_honey_largo = Pink Honey Largo
+l.honey_hunter_largo = Honey Hunter Largo
+l.honey_boom_largo = Honey Boom Largo
+l.honey_rad_largo = Honey Rad Largo
+l.honey_rock_largo = Honey Rock Largo
+l.honey_phosphor_largo = Honey Phosphor Largo
+l.honey_tabby_largo = Honey Tabby Largo
+l.pink_crystal_largo = Pink Crystal Largo
+l.rock_crystal_largo = Rock Crystal Largo
+l.tabby_crystal_largo = Tabby Crystal Largo
+l.phosphor_crystal_largo = Phosphor Crystal Largo
+l.boom_crystal_largo = Boom Crystal Largo
+l.rad_crystal_largo = Rad Crystal Largo
+l.honey_crystal_largo = Honey Crystal Largo
+l.hunter_crystal_largo = Hunter Crystal Largo
+
+l.rad_plort = Rad Plort
+l.rock_plort = Rock Plort
+l.pink_plort = Pink Plort
+l.boom_plort = Boom Plort
+l.phosphor_plort = Phosphor Plort
+l.honey_plort = Honey Plort
+l.tabby_plort = Tabby Plort
+l.hunter_plort = Hunter Plort
+l.puddle_plort = Puddle Plort
+l.crystal_plort = Crystal Plort
+
+l.gold_plort = Gold Plort
+
+l.cuberry_fruit = Cuberry
+l.mango_fruit = Mint Mango
+l.pear_fruit = Prickle Pear
+l.pogo_fruit = Pogofruit
+
+l.carrot_veggie = Carrot
+l.ocaoca_veggie = Oca Oca
+l.parsnip_veggie = Silver Parsnip
+l.beet_veggie = Heart Beet
+l.onion_veggie = Odd Onion
+
+l.hen = Hen Hen
+l.rooster = Roostro
+l.chick = Chickadoo
+l.elder_hen = Elder Hen
+l.elder_rooster = Elder Roostro
+l.stony_hen = Stony Hen
+l.stony_chick = Stony Chick
+l.briar_hen = Briar Hen
+l.briar_chick = Briar Chick
+
+l.water_liquid = Water
+
+l.primordy_oil_craft = Primordy Oil
+l.deep_brine_craft = Deep Brine
+l.spiral_steam_craft = Spiral Steam
+l.lava_dust_craft = Lava Dust
+l.buzz_wax_craft = Buzz Wax
+l.wild_honey_craft = Wild Honey
+l.hexacomb_craft = Hexacomb
+l.royal_jelly_craft = Royal Jelly
+l.jellystone_craft = Jellystone
+l.indigonium_craft = Indigonium
+l.slime_fossil_craft = Slime Fossil
+l.strange_diamond_craft = Strange Diamond

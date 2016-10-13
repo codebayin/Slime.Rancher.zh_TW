@@ -1,0 +1,446 @@
+
+# Watermark
+l.version_watermark = Slime Rancher Early Access v {0}
+l.version_full_watermark = Version: {0} ({1})
+l.version = v {0}
+
+# Slimepedia pages (Note: for per-topic info, see pedia.txt)
+t.pedia = Slimepedia
+m.new_pedia_entry = New Slimepedia Entry:
+b.vacpack = Vacpack
+b.slimes = Slimes
+b.resources = Resources
+b.ranch = Ranch
+b.world = World
+
+l.favored_by = Favored By:
+l.instructions = Instructions:
+l.diet = Diet:
+l.favorite = Favorite:
+l.biology = Slimeology:
+l.risks = Rancher Risks:
+l.plorts = Plortonomics:
+l.upgrades = Upgrades:
+l.resource_type = Type:
+l.about = About:
+l.how_to_use = On the Ranch:
+
+m.pedia_hint = {0}: Slimepedia
+
+m.hudinfo_diet = Diet: {0}
+m.hudinfo_type = Food Type: {0}
+m.hudinfo_plort = Type: Plort
+
+m.foodgroup.veggies = Veggie
+m.foodgroup.fruit = Fruit
+m.foodgroup.meat = Meat
+m.foodgroup.none = None
+m.foodgroup.all = Everything
+m.foodgroup.nonblackgold_slimes = Slimes
+m.foodgroup.tarr = Slimes, Meat, and Ranchers
+m.foodgroup.water = Water
+
+# General bits
+b.ok = OK
+b.cancel = Cancel
+b.retry = Retry
+
+# Main UI
+m.day = Day {0}
+
+# Ammo Slot
+l.empty = EMPTY
+l.ammo = x {0}
+
+# General Ranch UIs
+t.access_door = Ranch Expansion
+b.unlock = Unlock
+b.open_door = Open
+b.close_door = Close
+
+m.press_to_activate = Press {0} to activate
+m.press_to_activate.pre_gamepad = Press
+m.press_to_activate.post_gamepad = to activate
+m.press_to_use_key = Press {0} to use a Slime Key
+m.press_to_use_key.pre_gamepad = Press
+m.press_to_use_key.post_gamepad = to use a Slime Key
+m.needs_key = Requires a Slime Key to open
+m.ranch_house_unavailable = Ranch House unavailable in demo
+
+b.purchase = Purchase
+b.sold_out = Sold Out
+
+# Plot screens
+l.cost = Cost:
+m.upgrades = Upgrades:
+b.demolish = Demolish
+b.demolish_pair = Demolish Linked Pair
+m.desc.demolish = Clear some space to make room for some new gear.
+m.desc.demolish_pair = Clear out this item and its linked partner item elsewhere on the Range.
+e.insuf_coins = Insufficient coins.
+m.select_option = Select an option for details.
+e.already_has_upgrade = Upgrade already purchased.
+
+t.empty_plot = Empty Ranch Plot
+
+t.coop = Coop
+b.walls = Walls
+b.feeder = Feeder
+b.vitamizer = Vitamizer
+
+t.corral = Corral
+b.music_box = Music Box
+
+t.garden = Garden
+b.nutrient_soil = Nutrient Soil
+b.sprinkler = Sprinkler
+b.scareslime = Scareslime
+b.clear_crop = Remove Crops
+m.desc.clear_crop = Remove the existing crops to plant something new.
+l.remaining_harvest_time = Remaining Harvest Time:
+l.growing = Growing:
+
+t.silo = Silo
+m.empty = Empty
+b.extra_storage = Extra Storage
+
+t.incinerator = Incinerator
+
+t.pond = Pond
+
+t.teleporter = Teleporter
+
+# Upgrade Store
+t.personal_upgrades = Vacpack Upgrades
+e.already_has_personal_upgrade = You already have this upgrade.
+e.ineligible_for_personal_upgrade = This upgrade is not yet available.
+
+# Main House
+t.ranch_house = Ranch House
+b.sleep_until_morning = Sleep Until Morning
+b.mail = StarMail
+b.leave_to_ranch = Return to Ranch
+m.select_mail = Select a starmail message on the left.
+
+# Main Menu/Game loading bits
+t.new_game = Create New Game
+t.load_game = Load Game
+b.new_game = New Game
+b.start_game = Play
+b.delete_game = Delete
+b.continue = Continue
+b.confirm = Confirm
+b.load = Load
+b.quit = Quit
+b.back = Back
+m.default_game_name = Game{0}
+e.game_name_exists = A game of that name already exists.
+e.letters_nums_only = Game names should only contain letters and numbers.
+e.no_spaces = Spaces not allowed in game names currently.
+m.game_name = Game Name:
+l.five_day_challenge = Five Day Rush
+l.loading = Loading
+l.unknown = Unknown
+t.confirm_delete = Delete File
+m.confirm_delete = Are you sure you wish to permanently delete this game?
+l.select_game_icon = Choose a Save Icon:
+l.select_game_mode = Select Game Mode:
+l.pedia_count = Discoveries: {0}
+m.no_saved_games = No Saved Games Available
+
+m.gamemode_classic = Adventure
+m.desc.gamemode_classic = Live the life of a Slime Rancher and explore the wonders of the Far, Far Range at your own pace.
+m.gamemode_time_limit = Five Day Rush
+m.desc.gamemode_time_limit = A mad sprint for the most newbucks you can earn in 5 days. Bragging is encouraged!
+
+
+b.resume = Resume
+b.restart = Restart
+b.screenshot = Screenshot
+b.save_and_quit = Save & Quit
+b.emergency_return = Emergency Return
+m.emergency_return = WARNING: This feature allows you to knock yourself out in order to return home. You will lose everything in your vac tanks and sleep until the next day. Do not use unless you are truly stuck!
+
+# Expo-mode specific
+b.expo_play = Play
+b.expo_gamepad = Gamepad
+b.expo_quit = Quit
+b.expo_change_gamepad_settings = Change Settings
+
+# Options
+t.options = Options
+t.expo_options = Gamepad
+b.video = Video
+b.audio = Audio
+b.input = Input
+b.gamepad = Gamepad
+b.other = Other
+l.reset_defaults = Reset Defaults
+l.quality = Master Graphics Quality:
+l.disable_camera_bob = Disable Camera Bob
+l.buffer_for_gif = Buffer Video for Gif Capture
+l.lock_vac = Enable Toggle Grip
+l.sprint_hold = Hold to Sprint
+l.disable_tutorials = Disable Tutorials
+
+l.quality_lowest = Lowest
+l.quality_low = Low
+l.quality_default = Default
+l.quality_high = High
+l.quality_very_high = Very High
+l.quality_custom = Custom
+
+l.lighting = Lighting:
+l.lighting_low = Low
+l.lighting_medium = Medium
+l.lighting_high = High
+l.lighting_highest = Highest
+
+l.textures = Textures:
+l.textures_low = Low
+l.textures_medium = Medium
+l.textures_high = High
+
+l.particles = Particles:
+l.particles_low = Low
+l.particles_medium = Medium
+l.particles_high = High
+
+l.shadows = Shadows:
+l.shadows_none = None
+l.shadows_low = Low
+l.shadows_medium = Medium
+l.shadows_high = High
+
+l.antialiasing = Antialiasing:
+l.antialiasing_none = None
+l.antialiasing_multisampling_2x = 2x Multi-sampling
+l.antialiasing_multisampling_4x = 4x Multi-sampling
+l.antialiasing_multisampling_8x = 8x Multi-sampling
+
+l.model_detail = Slime Quality:
+l.model_detail_low = Low
+l.model_detail_medium = Medium
+l.model_detail_high = High
+
+l.water_detail = Water Quality:
+l.water_detail_low = Low
+l.water_detail_medium = Medium
+l.water_detail_high = High
+
+l.ambient_occlusion = Ambient Occlusion:
+l.bloom = Bloom:
+l.fov = Field of View:
+
+l.resolution = Resolution:
+l.fullscreen = Fullscreen:
+m.resolution = {0}x{1}
+m.resolution_refresh = {0}x{1} @ {2}Hz
+m.keep_settings = Keep these settings?
+
+b.mods = Mods
+l.mod_vampiric_chickens = Cluckula
+l.mod_night_tarr_slimes = Bad Moon Rising
+l.mod_random_plorts = The Gambler
+l.mod_increased_slime_spawns = Gobs of Globs
+l.mod_slime_hunger = The Hunger
+l.mod_unstable_plorts = Unstable Plorts
+
+# Audio
+l.master = Master:
+l.music = Music:
+l.sfx = Effects:
+
+# Controls
+dir.horizontal = Horizontal
+dir.vertical = Vertical
+key.forward = Forward
+key.back = Back
+key.left = Left
+key.right = Right
+
+key.shoot = Shoot
+key.vac = Vac
+key.slimefilter = Slime Filter
+key.burst = Pulse
+key.jump = Jump
+key.run = Sprint
+key.interact = Interact
+key.flashlight = Flashlight
+key.radar = Radar
+
+key.reportissue = Report Issue
+key.screenshot = Screenshot
+key.recordgif = Record Gif
+key.pedia = Slimepedia
+
+key.slot_1 = Slot 1
+key.slot_2 = Slot 2
+key.slot_3 = Slot 3
+key.slot_4 = Slot 4
+key.slot_5 = Slot 5
+key.prev_slot = Prev Slot
+key.next_slot = Next Slot
+
+m.keys.0 = -
+m.keys.1 = {0}
+m.keys.2 = {0}
+m.slot_indicator = {0}
+m.press_key = Press Key...
+
+t.gamepad_settings = Gamepad Settings
+l.sensitivity = Mouse Sensitivity:
+l.swap_sticks = Swap Analog Sticks
+l.x_look_sensitivity = Look Sensitivity X
+l.y_look_sensitivity = Look Sensitivity Y
+l.invert_gamepad_look_y = Invert Look Y Axis
+l.invert_mouse_look_y = Invert Mouse Look Y Axis
+l.disable_gamepad = Disable Gamepad/Joystick Input\n\
+  (May fix some issues with camera spin)
+m.gamepad_button = {0}: {1}
+m.gamepad_button_pause = {0}: Pause
+m.gamepad_stick = {0}: {1}\nPush: {2}
+l.move = Move
+l.view = Look
+
+b.reset_profile = Reset Options & Achievements
+m.confirm_reset_profile = Permanently reset your settings and achievement progress?
+
+# Bug Report
+t.report_issue = Report an Issue
+l.description = Describe the issue:
+b.submit = Submit
+m.summary = Summary
+l.placeholder_summary = Summary (required)...
+m.description = Detailed Description
+l.placeholder_description = Detailed Description (optional)...
+m.reporter = Email
+l.placeholder_reporter = Your Email (optional)...
+e.require_summary = Please include a summary of the issue.
+m.sending_report = Sending report...
+
+# Market
+t.market = Plort Market
+l.loading_prices = Loading Market Prices...
+l.daily_bonus = Daily Bonus!
+
+# Exchange
+t.range_exchange = Range Exchange
+t.special_exchange = Hello, Beatrix!
+l.time_hours_mins = {0}:{1}
+l.time_hours_mins_unset = --:--
+l.exchange_progress = {0}/{1}
+l.no_offers_available = Range Exchange\nOffline...
+l.request = Trade Me:
+l.receive = And Receive:
+l.exchange_directions = Shoot the requested items into the depositor to complete the trade.
+
+# Screenshot
+m.gif_screenshot_confirm = Save GIF of last several seconds?
+m.no_buffer_for_gif = No video has been buffered to save as a GIF.
+m.gif_storing = Saving GIF
+
+# Achievements
+t.achievements = Achievements
+m.achievement_unlocked = Achievement Unlocked!
+m.achieve_progress = {0} / {1}
+m.achieve_overall_progress = Overall: {0} / {1}
+
+m.knocked_out1 = You've Been Knocked Out!
+m.knocked_out2 = (But a day's rest should fix you right up...)
+
+# Save errors
+e.savefile_inaccessible = The save file is inaccessible and cannot be written: {0}
+e.savefile_invalid_name = The save file name is invalid and cannot be written: {0}
+e.savefile_dir_not_found = The save file directory was not found: {0}
+e.savefile_unknown = An unknown error prevented writing the save file: {0}
+
+# End game UI
+b.take_screenshot = Take Screenshot
+m.slime_rancher = Slime Rancher
+l.total = Total:
+l.most_profitable_plorts = Most Profitable Plorts:
+m.plort_amount = x{0}
+l.knockouts = Knockouts:
+l.spent = Spent:
+m.none = None
+
+# About
+b.about = About
+t.about = About Slime Rancher
+l.game_design = Original Concept and Game Design
+l.programming = Programming
+l.art = Art
+l.music_sfx = Music and Sound Effects
+l.copyright = Slime Rancher is developed by Monomi Park. Copyright © 2014-2016 Monomi Park, LLC
+
+# Expo load screen
+l.select_expo_game = Select a special demo save file:
+b.expo_start = Fresh Start
+b.expo_advanced = Advanced Ranch
+b.expo_range = Out on the Range
+m.desc.expo_start = Begin on a brand-new ranch and learn the ropes with a handy tutorial.
+m.desc.expo_advanced = Experience a ranch that's decked-out with all kinds of awesome features, packed with slimes, \
+    and ready for ranching!
+m.desc.expo_range = For the adventurous, begin somewhere out in the untamed wilds of the Far, Far Range.
+
+# XBox FAQ screen
+b.faq = FAQ
+t.xbox_faq = Xbox One Version FAQ
+l.xbox_faq_q_achievements = Will Slime Rancher have Xbox Achievements?
+l.xbox_faq_a_achievements = Xbox achievements will be enabled after Slime Rancher leaves Game Preview. At that time, \
+    all achievements earned in-game will instantly become Xbox achievements!
+l.xbox_faq_q_versions = Are the PC and Xbox One versions of Slime Rancher the same?
+l.xbox_faq_a_versions = Yes, our aim is to keep both versions in sync. However, at any given time there may be a few \
+    days difference during Xbox build certification.
+l.xbox_faq_q_whats_next = What’s next for Slime Rancher?
+l.xbox_faq_a_whats_next = We’ve got a lot of great content in development, including new zones to explore, slimes to \
+    wrangle, and brand-new features like Slime Science! Learn more on our public roadmap:\n\
+    slimerancher.com/roadmap
+
+# Gadget screens
+t.place_gadget = Place Gadget
+t.fabricate_gadget = Fabricate Gadget
+t.purchase_blueprint = Purchase Blueprint
+t.refinery = Refinery
+b.pick_up = Pick Up
+m.desc.pick_up = Return this item to your inventory.
+m.gadget_pair = {0} x2
+m.new_blueprint = Blueprint Learned!
+
+l.requires = Requires:
+m.count_of_required = {0} / {1}
+
+e.insuf_craft_resources = Not enough resources to craft item.
+e.cannot_add_gadget = You cannot produce another of that gadget.
+e.cannot_destroy_gadget = That gadget cannot be destroyed.
+e.cannot_pickup_gadget = That gadget cannot be picked up.
+
+# Tips
+m.loadingtip.0 = A well-fed slime is a happy slime.
+m.loadingtip.1 = Never turn your back on a chicken.
+m.loadingtip.2 = Create largos out of pink slimes: they’ll eat anything!
+m.loadingtip.3 = Rumor has it that Thora and Hobson were once in love... until he broke her heart.
+m.loadingtip.4 = Rumor has it Ogden used to be the CEO of a major insta-food conglomerate.
+m.loadingtip.5 = Rumor has it Viktor invented a plort-cloning technology, and then destroyed it.
+m.loadingtip.6 = Rumor has it Mochi Miles hasn’t spoken to her father in years.
+m.loadingtip.7 = rOOmr hAZ eet BOb hOomin. plS chIKKn?
+m.loadingtip.8 = No one has seen Hobson in years. Some say he is traveling to the furthest reaches of the Far, Far Range.
+m.loadingtip.9 = Use silos to store plorts until they are in high demand on the plort market.
+m.loadingtip.10 = You’ll need to purchase a water tank before you can vac up fresh water.
+m.loadingtip.11 = The vile tarr are formed when a largo eats a plort unlike its own. Watch out!
+m.loadingtip.12 = The tarr are more common and survive longer at night. Be careful.
+m.loadingtip.13 = The Indigo Quarry is a great place to discover rare veggies.
+m.loadingtip.14 = The Moss Blanket has more fruit trees than anywhere else on the range.
+m.loadingtip.15 = Fresh water can prevent tarr from cloning and eventually, destroy them.
+m.loadingtip.16 = No one knows who or what created the ancient slime gates that are found on the range.
+m.loadingtip.17 = A gordo slime will eat until it bursts.
+m.loadingtip.18 = Mochi Miles claims she once caught a gold slime.
+m.loadingtip.19 = Feeding a slime their favorite food results in double the plorts!
+m.loadingtip.20 = A crazy slime scientist once proposed creating cube-shaped slimes. But that’s just silly.
+
+l.lang_en = English
+l.lang_de = Deutsch (German)
+l.lang_es = Español (Spanish)
+l.lang_fr = Français (French)
+l.lang_ru = Русский (Russian)

@@ -1,0 +1,116 @@
+# Achievement translations
+
+t.sell_plorts_a = Plort Peddler
+m.reqmt.sell_plorts_a = Sell 100 plorts at the Plort Market
+t.sell_plorts_b = Transplorter
+m.reqmt.sell_plorts_b = Sell 500 plorts at the Plort Market
+t.sell_plorts_c = Plort Authority
+m.reqmt.sell_plorts_c = Sell 1,000 plorts at the Plort Market
+t.sell_plorts_d = Plort Powerhouse
+m.reqmt.sell_plorts_d = Sell 2,500 plorts at the Plort Market
+t.sell_plorts_e = Plort Tycoon
+m.reqmt.sell_plorts_e = Sell 5,000 plorts at the Plort Market
+
+t.feed_slimes_chickens = Buck Buck Bagu-
+m.reqmt.feed_slimes_chickens = Feed 100 chickens to slimes on the Ranch
+
+t.fruit_tree_types = Fruit Cocktail
+m.reqmt.fruit_tree_types = Have 3 different fruit trees on the Ranch at the same time
+t.veggie_patch_types = Salad Bar
+m.reqmt.veggie_patch_types = Have 3 different veggie gardens on the Ranch at the same time
+
+t.earn_currency_a = Fortunate
+m.reqmt.earn_currency_a = Earn over 5,000 newbucks
+t.earn_currency_b = Well-Off Rancher
+m.reqmt.earn_currency_b = Earn over 25,000 newbucks
+t.earn_currency_c = Upper Crust
+m.reqmt.earn_currency_c = Earn over 100,000 newbucks
+t.day_currency = A Quick Newbuck
+m.reqmt.day_currency = Earn 5,000 newbucks in a single day
+
+t.awake_until_morning = Up All Night
+m.reqmt.awake_until_morning = Stay awake from 6 AM to 6 AM the next day
+
+t.knockout_morning = Not My Morning
+m.reqmt.knockout_morning = Be knocked out before 10 AM
+
+t.away_from_ranch = While You Were Away
+m.reqmt.away_from_ranch = Return to the Ranch after more than 24 hours
+
+t.feed_airborne = Catch!
+m.reqmt.feed_airborne = Shoot food into an airborne slime's mouth
+
+t.pink_slimes_food_types = Omnivorous
+m.reqmt.pink_slimes_food_types = Feed pink slimes on the Ranch 10 different types of food
+
+t.feed_favorites = Tasty!
+m.reqmt.feed_favorites = Feed 50 slimes on the Ranch their favorite food
+
+t.discovered_quarry = Mine, All Mine
+m.reqmt.discovered_quarry = Discover the Indigo Quarry
+t.discovered_moss = On The Other Side
+m.reqmt.discovered_moss = Discover the Moss Blanket
+t.discovered_desert = Smoke, Fire, and Mirrors
+m.reqmt.discovered_desert = Discover the Glass Desert
+
+t.burst_gordo = Jelly Belly Burst
+m.reqmt.burst_gordo = Burst a gordo slime
+t.open_slime_gate = Open Says Me
+m.reqmt.open_slime_gate = Open a slime gate
+
+t.incinerate_elder_chicken = Carousel
+m.reqmt.incinerate_elder_chicken = Incinerate an elder chicken
+
+t.incinerate_chick = You... Monster!
+m.reqmt.incinerate_chick = Send an adorable chick to a fiery end, the same place you're now destined to go
+
+t.filled_silo = Burstin' at the Seams
+m.reqmt.filled_silo = Completely fill a fully-upgraded silo
+
+t.ranch_upgraded_storage = Fully Loaded
+m.reqmt.ranch_upgraded_storage = Have a maximally upgraded corral, coop, and silo on the Ranch
+
+t.fulfill_exchange_early = Hasty Exchange
+m.reqmt.fulfill_exchange_early = Fulfill a Range Exchange request between Noon and 2 PM
+
+t.day_collect_plorts = Free Rangin'
+m.reqmt.day_collect_plorts = Collect 50 plorts on the Range in a single day
+
+t.gold_slime_triple_plort = Hat Trick
+m.reqmt.gold_slime_triple_plort = Obtain at least 3 gold plorts from a single gold slime
+
+t.extended_rad_exposure = That Only Works in Comic Books
+m.reqmt.extended_rad_exposure = Stand inside a rad aura for at least 15 seconds
+
+t.extended_tarr_hold = Once Bitten, Twice... Bitten
+m.reqmt.extended_tarr_hold = Hold onto a tarr for 15 seconds
+
+t.tabby_headbutt = Boop!
+m.reqmt.tabby_headbutt = Let a tabby slime headbutt you right on the nose
+
+t.launched_boom_explode = Fireworks
+m.reqmt.launched_boom_explode = Shoot a boom slime largo into the air that explodes before landing
+
+t.many_slimes_in_vac = Controlling the Chaos
+m.reqmt.many_slimes_in_vac = Constrain more than 15 slimes in your vac stream at once while on the range
+
+t.corral_slime_types = Six Pack
+m.reqmt.corral_slime_types = Have at least 6 different types of slimes in the same corral
+t.corral_largo_types = Risky Business
+m.reqmt.corral_largo_types = Have at least 3 different types of largos in the same corral
+t.pond_slime_types = Pool Party
+m.reqmt.pond_slime_types = Fill a pond on your ranch with at least 5 different types of slimes
+t.ranch_largo_types = Diversification
+m.reqmt.ranch_largo_types = Have at least 10 types of largos on the Ranch
+
+t.entered_corral_slimes = Ball Pit
+m.reqmt.entered_corral_slimes = Jump into a corral containing at least 40 slimes
+
+t.time_limit_currency_a = 5-Day Challenger
+m.reqmt.time_limit_currency_a = Reach at least 10,000 newbucks at the end of a 5-Day Rush
+
+t.time_limit_currency_b = 5-Day Champion
+m.reqmt.time_limit_currency_b = Reach at least 25,000 newbucks at the end of a 5-Day Rush
+
+t.time_limit_currency_c = 5-Day Plortmaster
+m.reqmt.time_limit_currency_c = Reach at least 50,000 newbucks at the end of a 5-Day Rush

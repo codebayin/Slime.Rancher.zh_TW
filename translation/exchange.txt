@@ -1,0 +1,42 @@
+# Translations for the various bits that are specific to Range Exchange offers
+
+# Rancher names
+m.rancher.thora = Thora West
+m.rancher.viktor = Viktor Humphries
+m.rancher.ogden = Ogden Ortiz
+m.rancher.mochi = Mochi Miles
+m.rancher.bob = BOb
+
+# Mission flavortext
+m.offer_1.thora = What're the odds the greenhorn beats y'all to this one?
+m.offer_2.thora = Don't suppose you also got a cup a sugar kicking around too?
+m.offer_3.thora = Up too late last night, need a few things.
+m.offer_4.thora = Best part of the range? You hear all those cars and people? Yeah, I don't either.
+m.offer_5.thora = You ever try to lasso a slime? Makes the whole vacpack thing pretty obvious.
+m.bonusoffer.thora = Drinks are on me if you can get me these things in a hurry!
+
+m.offer_1.viktor = If possible, please acquire the following for a future study. My thanks.
+m.offer_2.viktor = Are rad slimes a natural evolution or result of exposure to foreign matter?
+m.offer_3.viktor = Have you ever seen a Django's Tiger? Of course not, you can only hear it. Pardon me, that was a joke.
+m.offer_4.viktor = If you listen very closely, you can hear a boom slime's cells vibrate. But don't listen for long.
+m.bonusoffer.viktor = I'm afraid that one of my studies has gone a bit, well, please just get me these things at once!
+
+m.offer_1.ogden = I'm working on a new recipe. Help me out?
+m.offer_2.ogden = Eating carrots help you see in the dark!
+m.offer_3.ogden = The best part of an orange is the peel. But the inside's pretty good too.
+m.offer_4.ogden = Sometimes I like to take a nap in the Moss Blanket. But those darn boom slimes always wake me up!
+m.offer_5.ogden = Ogden's Party Punch: 1 part pogofruit juice, 1 parts prickle pear juice, 2 parts starfire rum. Gets you dancing!
+m.bonusoffer.ogden = I'm in a real pickle here!
+
+m.offer_1.mochi = I need these plorts post-haste, whatever that means.
+m.offer_2.mochi = The last thing I want to do is make you look bad. But it's still on the list.
+m.offer_3.mochi = I promise you this is a good deal, banana peel.
+m.offer_4.mochi = My ranching skills are gonna make you squirm, wiggle worm!
+m.offer_5.mochi = Let's make a trade, lemonade.
+m.bonusoffer.mochi = My toast is in a jam here! Help out a pal, yeah?
+
+m.offer_1.bob = cHickeN? chicckens.
+m.offer_2.bob = askjhsfdkjh!!
+m.offer_3.bob = hallOO. chikkEN. OKs?
+m.offer_4.bob = ok oKok OK, OK!!  chiCKEn ok?
+m.bonusoffer.bob = CHICKKENN! askjasdljhsdfjkhasdlasdlkajs!!!!!

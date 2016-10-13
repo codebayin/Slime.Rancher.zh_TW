@@ -1,0 +1,91 @@
+# Tutorial Entries Text
+
+t.basic_movement = Let's get moving!
+m.input.basic_movement.1 = W
+m.inputdesc.basic_movement.1 = move forward
+m.input.basic_movement.2 = A
+m.inputdesc.basic_movement.2 = move left
+m.input.basic_movement.3 = S
+m.inputdesc.basic_movement.3 = move backward
+m.input.basic_movement.4 = D
+m.inputdesc.basic_movement.4 = move right
+m.input.gamepad.basic_movement.1 = Move
+m.inputdesc.gamepad.basic_movement.1 = move
+
+t.jumping = Hop to it!
+m.input.jumping.1 = Spacebar
+m.inputdesc.jumping.1 = jump
+m.input.jumping.2 = Hold Shift
+m.inputdesc.jumping.2 = sprint
+m.input.gamepad.jumping.1 = Jump
+m.inputdesc.gamepad.jumping.1 = jump
+m.input.gamepad.jumping.2 = Run
+m.inputdesc.gamepad.jumping.2 = sprint
+
+t.vaccing = How to vac like a rancher
+m.text.vaccing = Your vacpack can vac things up and store them in a vac tank.
+m.input.vaccing.1 = Hold Right Mouse
+m.inputdesc.vaccing.1 = vac
+m.input.gamepad.vaccing.1 = Vac
+m.inputdesc.gamepad.vaccing.1 = vac
+
+t.shooting = You vac'd a slime!
+m.text.shooting = Slimes are key to your success. Shoot slimes THROUGH a corral barrier into the corral on the ranch.
+m.input.shooting.1 = Mouse Wheel
+m.inputdesc.shooting.1 = select vac tank
+m.input.shooting.2 = Hold Left Mouse
+m.inputdesc.shooting.2 = shoot
+m.input.gamepad.shooting.1 = PrevSlot
+m.inputdesc.gamepad.shooting.1 = select prev vac tank
+m.input.gamepad.shooting.2 = NextSlot
+m.inputdesc.gamepad.shooting.2 = select next vac tank
+m.input.gamepad.shooting.3 = Attack
+m.inputdesc.gamepad.shooting.3 = shoot
+
+t.food = Tasty food acquired!
+m.text.food = Food like fruits, veggies, or chickens are used to feed slimes. Try shooting food at a pink slime; they'll eat anything.
+m.input.food.1 = Mouse Wheel
+m.inputdesc.food.1 = select vac tank
+m.input.food.2 = Hold Left Mouse
+m.inputdesc.food.2 = shoot
+m.input.gamepad.food.1 = PrevSlot
+m.inputdesc.gamepad.food.1 = select prev vac tank
+m.input.gamepad.food.2 = NextSlot
+m.inputdesc.gamepad.food.2 = select next vac tank
+m.input.gamepad.food.3 = Attack
+m.inputdesc.gamepad.food.3 = shoot
+
+t.plort = You acquired a slime plort!
+m.text.plort = When slimes eat they make plorts.\n\n\
+  Head on over to the Plort Market to cash in your plort.
+
+t.market = The Plort Market
+m.text.market = The Plort Market gives you newbucks for your hard-earned plorts.\n\n\
+  Shoot a plort into the Plort Market and earn some cash!
+m.input.market.1 = Mouse Wheel
+m.inputdesc.market.1 = select vac tank
+m.input.market.2 = Hold Left Mouse
+m.inputdesc.market.2 = shoot
+m.input.gamepad.market.1 = PrevSlot
+m.inputdesc.gamepad.market.1 = select prev vac tank
+m.input.gamepad.market.2 = NextSlot
+m.inputdesc.gamepad.market.2 = select next vac tank
+m.input.gamepad.market.3 = Attack
+m.inputdesc.gamepad.market.3 = shoot
+
+t.death = Welcome back...
+m.text.death = When you're knocked out you'll rest at least 12 hours in order to recover. If you're not careful, you \
+  might wake up to a mob of hungry, unruly slimes on your ranch!
+
+t.garden = You built a garden!
+m.text.garden = Shoot a fruit or veggie into the depositor to begin growing more of that type!
+
+t.largo = Oh my largo!
+m.text.largo = Largo slimes are large slime hybrids formed when a slime eats a plort unlike its own.\n\
+  \n\
+  Vac to keep them on your nozzle, or shoot to send them flying!
+
+t.explore = That about covers the basics!
+m.text.explore = You've learned the fundamentals, now it's time to get out there and explore!\n\
+  \n\
+  Remember, the best way to become a pro rancher is to experiment. Nothing ventured, nothing gained!
