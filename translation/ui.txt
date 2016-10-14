@@ -1,446 +1,446 @@
 
 # Watermark
-l.version_watermark = Slime Rancher Early Access v {0}
+l.version_watermark = 
 l.version_full_watermark = Version: {0} ({1})
-l.version = v {0}
+l.version = v{0}
 
 # Slimepedia pages (Note: for per-topic info, see pedia.txt)
-t.pedia = Slimepedia
-m.new_pedia_entry = New Slimepedia Entry:
-b.vacpack = Vacpack
-b.slimes = Slimes
-b.resources = Resources
-b.ranch = Ranch
-b.world = World
+t.pedia = 史萊姆百科
+m.new_pedia_entry = 新史萊姆百科條目：
+b.vacpack = 吸取器
+b.slimes = 史萊姆
+b.resources = 資源
+b.ranch = 牧場
+b.world = 世界
 
-l.favored_by = Favored By:
-l.instructions = Instructions:
-l.diet = Diet:
-l.favorite = Favorite:
-l.biology = Slimeology:
-l.risks = Rancher Risks:
-l.plorts = Plortonomics:
-l.upgrades = Upgrades:
-l.resource_type = Type:
-l.about = About:
-l.how_to_use = On the Ranch:
+l.favored_by = 喜愛者：
+l.instructions = 操作說明：
+l.diet = 食物：
+l.favorite = 喜愛：
+l.biology = 史萊姆生物學：
+l.risks = 牧場主風險：
+l.plorts = 結晶經濟學：
+l.upgrades = 升級：
+l.resource_type = 類型：
+l.about = 關於：
+l.how_to_use = 牧場用途：
 
-m.pedia_hint = {0}: Slimepedia
+m.pedia_hint = {0}：史萊姆百科
 
-m.hudinfo_diet = Diet: {0}
-m.hudinfo_type = Food Type: {0}
-m.hudinfo_plort = Type: Plort
+m.hudinfo_diet = 食物：{0}
+m.hudinfo_type = 食物類型：{0}
+m.hudinfo_plort = 類型：結晶
 
-m.foodgroup.veggies = Veggie
-m.foodgroup.fruit = Fruit
-m.foodgroup.meat = Meat
-m.foodgroup.none = None
-m.foodgroup.all = Everything
-m.foodgroup.nonblackgold_slimes = Slimes
-m.foodgroup.tarr = Slimes, Meat, and Ranchers
-m.foodgroup.water = Water
+m.foodgroup.veggies = 蔬菜
+m.foodgroup.fruit = 水果
+m.foodgroup.meat = 肉類
+m.foodgroup.none = 無
+m.foodgroup.all = 雜食
+m.foodgroup.nonblackgold_slimes = 史萊姆
+m.foodgroup.tarr = 史萊姆、肉類、牧場主
+m.foodgroup.water = 水
 
 # General bits
-b.ok = OK
-b.cancel = Cancel
-b.retry = Retry
+b.ok = 確定
+b.cancel = 取消
+b.retry = 重試
 
 # Main UI
-m.day = Day {0}
+m.day = 第 {0} 天
 
 # Ammo Slot
-l.empty = EMPTY
+l.empty = 空
 l.ammo = x {0}
 
 # General Ranch UIs
-t.access_door = Ranch Expansion
-b.unlock = Unlock
-b.open_door = Open
-b.close_door = Close
+t.access_door = 擴張牧場
+b.unlock = 解鎖
+b.open_door = 開門
+b.close_door = 關門
 
-m.press_to_activate = Press {0} to activate
-m.press_to_activate.pre_gamepad = Press
-m.press_to_activate.post_gamepad = to activate
-m.press_to_use_key = Press {0} to use a Slime Key
-m.press_to_use_key.pre_gamepad = Press
-m.press_to_use_key.post_gamepad = to use a Slime Key
-m.needs_key = Requires a Slime Key to open
-m.ranch_house_unavailable = Ranch House unavailable in demo
+m.press_to_activate = 按 {0} 互動
+m.press_to_activate.pre_gamepad = 按
+m.press_to_activate.post_gamepad = 互動
+m.press_to_use_key = 按 {0} 使用史萊姆鑰匙
+m.press_to_use_key.pre_gamepad = 按
+m.press_to_use_key.post_gamepad = 使用史萊姆鑰匙
+m.needs_key = 需要一把史萊姆鑰匙以開啟
+m.ranch_house_unavailable = 試完版不能使用牧場小屋
 
-b.purchase = Purchase
-b.sold_out = Sold Out
+b.purchase = 購買
+b.sold_out = 售完
 
 # Plot screens
-l.cost = Cost:
-m.upgrades = Upgrades:
-b.demolish = Demolish
-b.demolish_pair = Demolish Linked Pair
-m.desc.demolish = Clear some space to make room for some new gear.
-m.desc.demolish_pair = Clear out this item and its linked partner item elsewhere on the Range.
-e.insuf_coins = Insufficient coins.
-m.select_option = Select an option for details.
-e.already_has_upgrade = Upgrade already purchased.
+l.cost = 費用：
+m.upgrades = 升級：
+b.demolish = 拆除
+b.demolish_pair = 拆除關聯設施
+m.desc.demolish = 清出一些空間給新設施。
+m.desc.demolish_pair = 清除此設施和其遠端的關聯設施。
+e.insuf_coins = 金額不足。
+m.select_option = 選擇一個選項以查看詳細訊息。
+e.already_has_upgrade = 已經購買升級。
 
-t.empty_plot = Empty Ranch Plot
+t.empty_plot = 牧場空地
 
-t.coop = Coop
-b.walls = Walls
-b.feeder = Feeder
-b.vitamizer = Vitamizer
+t.coop = 雞舍
+b.walls = 高牆
+b.feeder = 餵食器
+b.vitamizer = 維他命燈
 
-t.corral = Corral
-b.music_box = Music Box
+t.corral = 圍欄
+b.music_box = 音樂盒
 
-t.garden = Garden
-b.nutrient_soil = Nutrient Soil
-b.sprinkler = Sprinkler
-b.scareslime = Scareslime
-b.clear_crop = Remove Crops
-m.desc.clear_crop = Remove the existing crops to plant something new.
-l.remaining_harvest_time = Remaining Harvest Time:
-l.growing = Growing:
+t.garden = 果園
+b.nutrient_soil = 營養土壤
+b.sprinkler = 灑水器
+b.scareslime = 恐懼史萊姆
+b.clear_crop = 清除作物
+m.desc.clear_crop = 清除目前作物以重新栽種其它作物。
+l.remaining_harvest_time = 剩餘收割時間：
+l.growing = 栽種：
 
-t.silo = Silo
-m.empty = Empty
-b.extra_storage = Extra Storage
+t.silo = 筒倉
+m.empty = 空
+b.extra_storage = 額外儲存空間
 
-t.incinerator = Incinerator
+t.incinerator = 焚化爐
 
-t.pond = Pond
+t.pond = 池塘
 
-t.teleporter = Teleporter
+t.teleporter = 傳送器
 
 # Upgrade Store
-t.personal_upgrades = Vacpack Upgrades
-e.already_has_personal_upgrade = You already have this upgrade.
-e.ineligible_for_personal_upgrade = This upgrade is not yet available.
+t.personal_upgrades = 吸取器升級
+e.already_has_personal_upgrade = 你已經擁有此升級。
+e.ineligible_for_personal_upgrade = 此升級尚未開放。
 
 # Main House
-t.ranch_house = Ranch House
-b.sleep_until_morning = Sleep Until Morning
-b.mail = StarMail
-b.leave_to_ranch = Return to Ranch
-m.select_mail = Select a starmail message on the left.
+t.ranch_house = 牧場小屋
+b.sleep_until_morning = 睡到天亮
+b.mail = 星際郵件
+b.leave_to_ranch = 返回牧場
+m.select_mail = 從左側選擇一封星際郵件。
 
 # Main Menu/Game loading bits
-t.new_game = Create New Game
-t.load_game = Load Game
-b.new_game = New Game
-b.start_game = Play
-b.delete_game = Delete
-b.continue = Continue
-b.confirm = Confirm
-b.load = Load
-b.quit = Quit
-b.back = Back
+t.new_game = 創建新遊戲
+t.load_game = 載入遊戲
+b.new_game = 新遊戲
+b.start_game = 開始
+b.delete_game = 刪除
+b.continue = 繼續
+b.confirm = 確認
+b.load = 載入
+b.quit = 離開
+b.back = 返回
 m.default_game_name = Game{0}
-e.game_name_exists = A game of that name already exists.
-e.letters_nums_only = Game names should only contain letters and numbers.
-e.no_spaces = Spaces not allowed in game names currently.
-m.game_name = Game Name:
-l.five_day_challenge = Five Day Rush
-l.loading = Loading
-l.unknown = Unknown
-t.confirm_delete = Delete File
-m.confirm_delete = Are you sure you wish to permanently delete this game?
-l.select_game_icon = Choose a Save Icon:
-l.select_game_mode = Select Game Mode:
-l.pedia_count = Discoveries: {0}
-m.no_saved_games = No Saved Games Available
+e.game_name_exists = 遊戲名稱已存在。
+e.letters_nums_only = 遊戲名稱只能包含英文字母和數字。
+e.no_spaces = 遊戲名稱不允許包含空白字元。
+m.game_name = 遊戲名稱：
+l.five_day_challenge = 五日挑戰模式
+l.loading = 載入中
+l.unknown = 未知
+t.confirm_delete = 刪除存檔
+m.confirm_delete = 你確定要永久刪除此存檔嗎？
+l.select_game_icon = 選擇存檔圖示：
+l.select_game_mode = 選擇遊戲模式：
+l.pedia_count = 發現數：{0}
+m.no_saved_games = 沒有存檔
 
-m.gamemode_classic = Adventure
-m.desc.gamemode_classic = Live the life of a Slime Rancher and explore the wonders of the Far, Far Range at your own pace.
-m.gamemode_time_limit = Five Day Rush
-m.desc.gamemode_time_limit = A mad sprint for the most newbucks you can earn in 5 days. Bragging is encouraged!
+m.gamemode_classic = 冒險模式
+m.desc.gamemode_classic = 依自己的步調享受史萊姆牧場主的生活，並探索遙遠的奇妙之地。
+m.gamemode_time_limit = 五日挑戰模式
+m.desc.gamemode_time_limit = 衝吧，在五日內盡一切所能地賺錢吧！
 
 
-b.resume = Resume
-b.restart = Restart
-b.screenshot = Screenshot
-b.save_and_quit = Save & Quit
-b.emergency_return = Emergency Return
-m.emergency_return = WARNING: This feature allows you to knock yourself out in order to return home. You will lose everything in your vac tanks and sleep until the next day. Do not use unless you are truly stuck!
+b.resume = 繼續
+b.restart = 重新開始
+b.screenshot = 擷圖
+b.save_and_quit = 儲存並離開
+b.emergency_return = 緊急返回
+m.emergency_return = 警告：此功能可讓你擊倒自己並被送回牧場小屋。你將會失去身上的所有物品並睡到隔天。除非真的卡死，否則請勿使用！
 
 # Expo-mode specific
-b.expo_play = Play
-b.expo_gamepad = Gamepad
-b.expo_quit = Quit
-b.expo_change_gamepad_settings = Change Settings
+b.expo_play = 開始遊戲
+b.expo_gamepad = 手把
+b.expo_quit = 離開
+b.expo_change_gamepad_settings = 變更配置
 
 # Options
-t.options = Options
-t.expo_options = Gamepad
-b.video = Video
-b.audio = Audio
-b.input = Input
-b.gamepad = Gamepad
-b.other = Other
-l.reset_defaults = Reset Defaults
-l.quality = Master Graphics Quality:
-l.disable_camera_bob = Disable Camera Bob
-l.buffer_for_gif = Buffer Video for Gif Capture
-l.lock_vac = Enable Toggle Grip
-l.sprint_hold = Hold to Sprint
-l.disable_tutorials = Disable Tutorials
+t.options = 選項
+t.expo_options = 手把
+b.video = 視頻
+b.audio = 音頻
+b.input = 輸入
+b.gamepad = 手把
+b.other = 其它
+l.reset_defaults = 恢復預設配置
+l.quality = 圖像品質：
+l.disable_camera_bob = 停用鏡頭晃動
+l.buffer_for_gif = 緩衝視頻以錄製GIF
+l.lock_vac = 啟用切換抓住
+l.sprint_hold = 按住以衝刺
+l.disable_tutorials = 停用教學
 
-l.quality_lowest = Lowest
-l.quality_low = Low
-l.quality_default = Default
-l.quality_high = High
-l.quality_very_high = Very High
-l.quality_custom = Custom
+l.quality_lowest = 最低
+l.quality_low = 低
+l.quality_default = 預設
+l.quality_high = 高
+l.quality_very_high = 極高
+l.quality_custom = 自訂
 
-l.lighting = Lighting:
-l.lighting_low = Low
-l.lighting_medium = Medium
-l.lighting_high = High
-l.lighting_highest = Highest
+l.lighting = 打光：
+l.lighting_low = 低
+l.lighting_medium = 中
+l.lighting_high = 高
+l.lighting_highest = 最高
 
-l.textures = Textures:
-l.textures_low = Low
-l.textures_medium = Medium
-l.textures_high = High
+l.textures = 材質：
+l.textures_low = 低
+l.textures_medium = 中
+l.textures_high = 高
 
-l.particles = Particles:
-l.particles_low = Low
-l.particles_medium = Medium
-l.particles_high = High
+l.particles = 粒子系統：
+l.particles_low = 低
+l.particles_medium = 中
+l.particles_high = 高
 
-l.shadows = Shadows:
-l.shadows_none = None
-l.shadows_low = Low
-l.shadows_medium = Medium
-l.shadows_high = High
+l.shadows = 陰影：
+l.shadows_none = 無
+l.shadows_low = 低
+l.shadows_medium = 中
+l.shadows_high = 高
 
-l.antialiasing = Antialiasing:
-l.antialiasing_none = None
-l.antialiasing_multisampling_2x = 2x Multi-sampling
-l.antialiasing_multisampling_4x = 4x Multi-sampling
-l.antialiasing_multisampling_8x = 8x Multi-sampling
+l.antialiasing = 反鋸齒：
+l.antialiasing_none = 無
+l.antialiasing_multisampling_2x = 2x 多重採樣
+l.antialiasing_multisampling_4x = 4x 多重採樣
+l.antialiasing_multisampling_8x = 8x 多重採樣
 
-l.model_detail = Slime Quality:
-l.model_detail_low = Low
-l.model_detail_medium = Medium
-l.model_detail_high = High
+l.model_detail = 史萊姆品質：
+l.model_detail_low = 低
+l.model_detail_medium = 中
+l.model_detail_high = 高
 
-l.water_detail = Water Quality:
-l.water_detail_low = Low
-l.water_detail_medium = Medium
-l.water_detail_high = High
+l.water_detail = 水面品質：
+l.water_detail_low = 低
+l.water_detail_medium = 中
+l.water_detail_high = 高
 
-l.ambient_occlusion = Ambient Occlusion:
-l.bloom = Bloom:
-l.fov = Field of View:
+l.ambient_occlusion = 環境光遮蔽：
+l.bloom = 全螢幕泛光：
+l.fov = 視野：
 
-l.resolution = Resolution:
-l.fullscreen = Fullscreen:
+l.resolution = 解析度：
+l.fullscreen = 全螢幕：
 m.resolution = {0}x{1}
 m.resolution_refresh = {0}x{1} @ {2}Hz
-m.keep_settings = Keep these settings?
+m.keep_settings = 是否保留這些設定？
 
-b.mods = Mods
-l.mod_vampiric_chickens = Cluckula
-l.mod_night_tarr_slimes = Bad Moon Rising
-l.mod_random_plorts = The Gambler
-l.mod_increased_slime_spawns = Gobs of Globs
-l.mod_slime_hunger = The Hunger
-l.mod_unstable_plorts = Unstable Plorts
+b.mods = 模組
+l.mod_vampiric_chickens = 德古拉雞
+l.mod_night_tarr_slimes = 惡月升起
+l.mod_random_plorts = 賭徒
+l.mod_increased_slime_spawns = 大量膠團
+l.mod_slime_hunger = 飢餓
+l.mod_unstable_plorts = 不穩定結晶
 
 # Audio
-l.master = Master:
-l.music = Music:
-l.sfx = Effects:
+l.master = 主音量：
+l.music = 音樂音量：
+l.sfx = 音效音量：
 
 # Controls
-dir.horizontal = Horizontal
-dir.vertical = Vertical
-key.forward = Forward
-key.back = Back
-key.left = Left
-key.right = Right
+dir.horizontal = 水平
+dir.vertical = 垂直
+key.forward = 前進
+key.back = 後退
+key.left = 左移
+key.right = 右移
 
-key.shoot = Shoot
-key.vac = Vac
-key.slimefilter = Slime Filter
-key.burst = Pulse
-key.jump = Jump
-key.run = Sprint
-key.interact = Interact
-key.flashlight = Flashlight
-key.radar = Radar
+key.shoot = 發射
+key.vac = 吸取
+key.slimefilter = 史萊姆過濾器
+key.burst = 脈衝
+key.jump = 跳躍
+key.run = 衝刺
+key.interact = 互動
+key.flashlight = 手電筒
+key.radar = 雷達
 
-key.reportissue = Report Issue
-key.screenshot = Screenshot
-key.recordgif = Record Gif
-key.pedia = Slimepedia
+key.reportissue = 回報問題
+key.screenshot = 擷圖
+key.recordgif = 錄製GIF
+key.pedia = 史萊姆百科
 
-key.slot_1 = Slot 1
-key.slot_2 = Slot 2
-key.slot_3 = Slot 3
-key.slot_4 = Slot 4
-key.slot_5 = Slot 5
-key.prev_slot = Prev Slot
-key.next_slot = Next Slot
+key.slot_1 = 槽位1
+key.slot_2 = 槽位2
+key.slot_3 = 槽位3
+key.slot_4 = 槽位4
+key.slot_5 = 槽位5
+key.prev_slot = 上一個槽位
+key.next_slot = 下一個槽位
 
 m.keys.0 = -
 m.keys.1 = {0}
 m.keys.2 = {0}
 m.slot_indicator = {0}
-m.press_key = Press Key...
+m.press_key = 按任意鍵...
 
-t.gamepad_settings = Gamepad Settings
-l.sensitivity = Mouse Sensitivity:
-l.swap_sticks = Swap Analog Sticks
-l.x_look_sensitivity = Look Sensitivity X
-l.y_look_sensitivity = Look Sensitivity Y
-l.invert_gamepad_look_y = Invert Look Y Axis
-l.invert_mouse_look_y = Invert Mouse Look Y Axis
-l.disable_gamepad = Disable Gamepad/Joystick Input\n\
-  (May fix some issues with camera spin)
-m.gamepad_button = {0}: {1}
-m.gamepad_button_pause = {0}: Pause
-m.gamepad_stick = {0}: {1}\nPush: {2}
-l.move = Move
-l.view = Look
+t.gamepad_settings = 手把配置
+l.sensitivity = 滑鼠靈敏度：
+l.swap_sticks = 對調類比搖桿
+l.x_look_sensitivity = 鏡頭X軸靈敏度
+l.y_look_sensitivity = 鏡頭Y軸靈敏度
+l.invert_gamepad_look_y = 反轉鏡頭Y軸
+l.invert_mouse_look_y = 反轉滑鼠Y軸
+l.disable_gamepad = 停用手把/搖桿輸入\n\
+  （或許能解決某些鏡頭旋轉的問題）
+m.gamepad_button = {0}：{1}
+m.gamepad_button_pause = {0}：暫停
+m.gamepad_stick = {0}：{1}\n按壓：{2}
+l.move = 移動
+l.view = 觀看
 
-b.reset_profile = Reset Options & Achievements
-m.confirm_reset_profile = Permanently reset your settings and achievement progress?
+b.reset_profile = 重置選項與成就
+m.confirm_reset_profile = 是否永久重置選項設定和成就進度？
 
 # Bug Report
-t.report_issue = Report an Issue
-l.description = Describe the issue:
-b.submit = Submit
-m.summary = Summary
-l.placeholder_summary = Summary (required)...
-m.description = Detailed Description
-l.placeholder_description = Detailed Description (optional)...
-m.reporter = Email
-l.placeholder_reporter = Your Email (optional)...
-e.require_summary = Please include a summary of the issue.
-m.sending_report = Sending report...
+t.report_issue = 回報問題
+l.description = 請描述問題：
+b.submit = 提交
+m.summary = 摘要
+l.placeholder_summary = 摘要（必填）...
+m.description = 詳細說明
+l.placeholder_description = 詳細說明（選填）...
+m.reporter = 電子郵件
+l.placeholder_reporter = 你的電子郵件（選填）...
+e.require_summary = 請填寫問題的摘要。
+m.sending_report = 發送回報中...
 
 # Market
-t.market = Plort Market
-l.loading_prices = Loading Market Prices...
-l.daily_bonus = Daily Bonus!
+t.market = 結晶市場
+l.loading_prices = 載入市場價格中...
+l.daily_bonus = 每日獎勵！
 
 # Exchange
-t.range_exchange = Range Exchange
-t.special_exchange = Hello, Beatrix!
+t.range_exchange = 遙遠之地交易所
+t.special_exchange = 你好，碧翠絲！
 l.time_hours_mins = {0}:{1}
 l.time_hours_mins_unset = --:--
 l.exchange_progress = {0}/{1}
-l.no_offers_available = Range Exchange\nOffline...
-l.request = Trade Me:
-l.receive = And Receive:
-l.exchange_directions = Shoot the requested items into the depositor to complete the trade.
+l.no_offers_available = 遙遠之地交易所\n離線...
+l.request = 與我交易：
+l.receive = 你會獲得：
+l.exchange_directions = 將所需的物品射入寄存機以完成交易。
 
 # Screenshot
-m.gif_screenshot_confirm = Save GIF of last several seconds?
-m.no_buffer_for_gif = No video has been buffered to save as a GIF.
-m.gif_storing = Saving GIF
+m.gif_screenshot_confirm = 儲存最後數秒的GIF？
+m.no_buffer_for_gif = 無視頻緩衝資料以儲存GIF。
+m.gif_storing = 儲存GIF中
 
 # Achievements
-t.achievements = Achievements
-m.achievement_unlocked = Achievement Unlocked!
-m.achieve_progress = {0} / {1}
-m.achieve_overall_progress = Overall: {0} / {1}
+t.achievements = 成就
+m.achievement_unlocked = 已解鎖成就！
+m.achieve_progress = {0}/{1}
+m.achieve_overall_progress = 總數：{0}/{1}
 
-m.knocked_out1 = You've Been Knocked Out!
-m.knocked_out2 = (But a day's rest should fix you right up...)
+m.knocked_out1 = 你被擊倒了！
+m.knocked_out2 = （但休息一天應該可以完全恢復...）
 
 # Save errors
-e.savefile_inaccessible = The save file is inaccessible and cannot be written: {0}
-e.savefile_invalid_name = The save file name is invalid and cannot be written: {0}
-e.savefile_dir_not_found = The save file directory was not found: {0}
-e.savefile_unknown = An unknown error prevented writing the save file: {0}
+e.savefile_inaccessible = 存檔無法寫入：{0}
+e.savefile_invalid_name = 存檔名稱無效，無法寫入：{0}
+e.savefile_dir_not_found = 找不到存檔資料夾：{0}
+e.savefile_unknown = 寫入存檔時發生一個未知的錯誤：{0}
 
 # End game UI
-b.take_screenshot = Take Screenshot
-m.slime_rancher = Slime Rancher
-l.total = Total:
-l.most_profitable_plorts = Most Profitable Plorts:
+b.take_screenshot = 擷圖
+m.slime_rancher = 史萊姆牧場
+l.total = 總計：
+l.most_profitable_plorts = 收益最多的結晶：
 m.plort_amount = x{0}
-l.knockouts = Knockouts:
-l.spent = Spent:
-m.none = None
+l.knockouts = 擊倒數：
+l.spent = 花費：
+m.none = 無
 
 # About
-b.about = About
-t.about = About Slime Rancher
-l.game_design = Original Concept and Game Design
-l.programming = Programming
-l.art = Art
-l.music_sfx = Music and Sound Effects
+b.about = 關於
+t.about = 關於《史萊姆牧場》
+l.game_design = 原始概念和遊戲設計
+l.programming = 程式
+l.art = 美術
+l.music_sfx = 音樂和音效
 l.copyright = Slime Rancher is developed by Monomi Park. Copyright © 2014-2016 Monomi Park, LLC
 
 # Expo load screen
-l.select_expo_game = Select a special demo save file:
-b.expo_start = Fresh Start
-b.expo_advanced = Advanced Ranch
-b.expo_range = Out on the Range
-m.desc.expo_start = Begin on a brand-new ranch and learn the ropes with a handy tutorial.
-m.desc.expo_advanced = Experience a ranch that's decked-out with all kinds of awesome features, packed with slimes, \
-    and ready for ranching!
-m.desc.expo_range = For the adventurous, begin somewhere out in the untamed wilds of the Far, Far Range.
+l.select_expo_game = 選擇一個特殊的試完版存檔：
+b.expo_start = 全新開始
+b.expo_advanced = 進階牧場
+b.expo_range = 超出範圍
+m.desc.expo_start = 開始一個全新的牧場並透過教學熟悉遊戲。
+m.desc.expo_advanced = 體驗完整功能的牧場，滿滿的史萊姆， \
+    並準備開始經營牧場吧！
+m.desc.expo_range = 專為冒險者設計，從遙遠之地的原始荒野展開冒險。
 
 # XBox FAQ screen
-b.faq = FAQ
-t.xbox_faq = Xbox One Version FAQ
-l.xbox_faq_q_achievements = Will Slime Rancher have Xbox Achievements?
-l.xbox_faq_a_achievements = Xbox achievements will be enabled after Slime Rancher leaves Game Preview. At that time, \
-    all achievements earned in-game will instantly become Xbox achievements!
-l.xbox_faq_q_versions = Are the PC and Xbox One versions of Slime Rancher the same?
-l.xbox_faq_a_versions = Yes, our aim is to keep both versions in sync. However, at any given time there may be a few \
-    days difference during Xbox build certification.
-l.xbox_faq_q_whats_next = What’s next for Slime Rancher?
-l.xbox_faq_a_whats_next = We’ve got a lot of great content in development, including new zones to explore, slimes to \
-    wrangle, and brand-new features like Slime Science! Learn more on our public roadmap:\n\
+b.faq = 常見問答集
+t.xbox_faq = Xbox One常見問答集
+l.xbox_faq_q_achievements = 《史萊姆牧場》會有Xbox成就嗎？
+l.xbox_faq_a_achievements = Xbox成就將會在《史萊姆牧場》結束遊戲預覽之後開放。 \
+    到時在遊戲中已獲得的成就將會立即解開Xbox成就！
+l.xbox_faq_q_versions = PC版和Xbox One版的《史萊姆牧場》內容一樣嗎？
+l.xbox_faq_a_versions = 是的，我們目標讓兩個版本保持一致。不過，在Xbox建置認證期間， \
+    可能會有幾天的差異。
+l.xbox_faq_q_whats_next = 《史萊姆牧場》下一步有什麼計畫？
+l.xbox_faq_a_whats_next = 我們有大量的內容正在開發，包含可探索的新區域、可放牧的史萊姆， \
+    還有全新的功能，例如：史萊姆科學！請至我們的網站了解更多：\n\
     slimerancher.com/roadmap
 
 # Gadget screens
-t.place_gadget = Place Gadget
-t.fabricate_gadget = Fabricate Gadget
-t.purchase_blueprint = Purchase Blueprint
-t.refinery = Refinery
-b.pick_up = Pick Up
-m.desc.pick_up = Return this item to your inventory.
+t.place_gadget = 放置裝置
+t.fabricate_gadget = 製作裝置
+t.purchase_blueprint = 購買藍圖
+t.refinery = 精鍊場
+b.pick_up = 撿取
+m.desc.pick_up = 將此物品收回物品欄。
 m.gadget_pair = {0} x2
-m.new_blueprint = Blueprint Learned!
+m.new_blueprint = 已獲得藍圖！
 
-l.requires = Requires:
-m.count_of_required = {0} / {1}
+l.requires = 需要：
+m.count_of_required = {0}/{1}
 
-e.insuf_craft_resources = Not enough resources to craft item.
-e.cannot_add_gadget = You cannot produce another of that gadget.
-e.cannot_destroy_gadget = That gadget cannot be destroyed.
-e.cannot_pickup_gadget = That gadget cannot be picked up.
+e.insuf_craft_resources = 製作物品的材料不足。
+e.cannot_add_gadget = 此裝置不能製作兩個。
+e.cannot_destroy_gadget = 此裝置不能銷毀。
+e.cannot_pickup_gadget = 此裝置不能撿取。
 
 # Tips
-m.loadingtip.0 = A well-fed slime is a happy slime.
-m.loadingtip.1 = Never turn your back on a chicken.
-m.loadingtip.2 = Create largos out of pink slimes: they’ll eat anything!
-m.loadingtip.3 = Rumor has it that Thora and Hobson were once in love... until he broke her heart.
-m.loadingtip.4 = Rumor has it Ogden used to be the CEO of a major insta-food conglomerate.
-m.loadingtip.5 = Rumor has it Viktor invented a plort-cloning technology, and then destroyed it.
-m.loadingtip.6 = Rumor has it Mochi Miles hasn’t spoken to her father in years.
-m.loadingtip.7 = rOOmr hAZ eet BOb hOomin. plS chIKKn?
-m.loadingtip.8 = No one has seen Hobson in years. Some say he is traveling to the furthest reaches of the Far, Far Range.
-m.loadingtip.9 = Use silos to store plorts until they are in high demand on the plort market.
-m.loadingtip.10 = You’ll need to purchase a water tank before you can vac up fresh water.
-m.loadingtip.11 = The vile tarr are formed when a largo eats a plort unlike its own. Watch out!
-m.loadingtip.12 = The tarr are more common and survive longer at night. Be careful.
-m.loadingtip.13 = The Indigo Quarry is a great place to discover rare veggies.
-m.loadingtip.14 = The Moss Blanket has more fruit trees than anywhere else on the range.
-m.loadingtip.15 = Fresh water can prevent tarr from cloning and eventually, destroy them.
-m.loadingtip.16 = No one knows who or what created the ancient slime gates that are found on the range.
-m.loadingtip.17 = A gordo slime will eat until it bursts.
-m.loadingtip.18 = Mochi Miles claims she once caught a gold slime.
-m.loadingtip.19 = Feeding a slime their favorite food results in double the plorts!
-m.loadingtip.20 = A crazy slime scientist once proposed creating cube-shaped slimes. But that’s just silly.
+m.loadingtip.0 = 營養充足的史萊姆就是快樂的史萊姆。
+m.loadingtip.1 = 不要背對雞。
+m.loadingtip.2 = 把混種史萊姆與粉紅史萊姆分開飼養：牠們什麼都吃！
+m.loadingtip.3 = 謠傳索拉和哈博森曾經相戀……直到他傷了她的心。
+m.loadingtip.4 = 謠傳奧格登曾經是一家快餐連鎖集團的執行長。
+m.loadingtip.5 = 謠傳維克特發明了結晶克隆技術，然後摧毀了它。
+m.loadingtip.6 = 謠傳摩奇．麥兒思已經好幾年沒跟父親說話了。
+m.loadingtip.7 = 謠傳鮑勃非人。給我雞？
+m.loadingtip.8 = 多年來沒有人見過哈博森。有些人說他正在最偏遠的遙遠之地旅行中。
+m.loadingtip.9 = 使用筒倉囤放結晶，直到結晶市場的價格上升再出售。
+m.loadingtip.10 = 你必須購買水槽才能吸取乾淨的水。
+m.loadingtip.11 = 惡劣的焦油史萊姆是混種史萊姆吃了與自身不同的結晶所形成的，要小心喔！
+m.loadingtip.12 = 焦油史萊姆在夜晚容易出沒且存活時間更長，請多加小心。
+m.loadingtip.13 = 靛藍礦場是一個挖掘稀有蔬菜的好地方。
+m.loadingtip.14 = 苔蘚地毯擁有的果樹比遙遠之地的其它地方還多。
+m.loadingtip.15 = 乾淨的水能阻止焦油史萊姆繁殖並消滅牠們。
+m.loadingtip.16 = 無人知曉到底是何方神聖建立了在遙遠之地發現的遠古史萊姆之門。
+m.loadingtip.17 = 胖胖史萊姆會吃到撐炸。
+m.loadingtip.18 = 摩琪．麥兒思聲稱她曾經抓過黃金史萊姆。
+m.loadingtip.19 = 餵食史萊姆喜愛的食物可獲得雙倍的結晶！
+m.loadingtip.20 = 瘋狂的史萊姆科學曾經計劃創造方形史萊姆，那簡直是個笑話。
 
 l.lang_en = English
-l.lang_de = Deutsch (German)
-l.lang_es = Español (Spanish)
-l.lang_fr = Français (French)
-l.lang_ru = Русский (Russian)
+l.lang_de = Deutsch (德文)
+l.lang_es = Español (西班牙文)
+l.lang_fr = Français (法文)
+l.lang_ru = Русский (俄文)
