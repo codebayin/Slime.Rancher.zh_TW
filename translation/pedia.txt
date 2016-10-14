@@ -2,7 +2,7 @@
 
 # Special
 t.locked = ???
-m.intro.locked = Discover this item to add it to your Slimepedia.
+m.intro.locked = 探索這個物品來將它加入史萊姆百科
 m.desc.locked = ???
 m.diet.locked = ???
 m.favorite.locked = ???
@@ -14,121 +14,121 @@ m.how_to_use.locked = ???
 m.resource_type.locked = ???
 
 # Intro
-t.splash = Welcome to Slime Rancher!
-m.intro.splash = Please remember to not share screenshots or video outside of the Monomi Park forums.
-m.desc.splash = You're playing Slime Rancher Pre-Alpha Ver 3. As the plucky Beatrix LeBeau, you have set out for a \
-life on the Far, Far Range to stake your claim in the exciting world of slime ranching. \n\
+t.splash = 歡迎來到史萊姆牧場
+m.intro.splash = 請別在 Monomi Park 論壇之外分享遊戲截圖或影片。
+m.desc.splash = 你正在遊玩 史萊姆牧場 初期測試版 3. \
+身為勇敢的 Beatrix LeBeau， 你得在這令人興奮的史萊姆世界裡經營自己的牧場\n\
 \n\
-You'll earn cash by ranching slimes, feeding them and collecting plorts. Cash those plorts in at the Plort Market \
-and use that cash to upgrade your ranch into a plort-making powerhouse! \n\
+你可以透過養殖史萊姆，餵食他們並獲得結晶來賺錢，將結晶賣到結晶市場， \
+並透過獲得的金錢來將你的牧場升級成強力的結晶製造所 \n\
 \n\
-A few important notes: \n\
-- This is a very early version of the game so there's lots of exposed wires, temp graphics, imbalanced features, \
-	etc. Please pardon our dust. \n\
-- The Range is a much more dangerous place at night. Press F to use the flashlight. \n\
-- There is currently no more level content beyond the Indigo Quarry. \n\
-- Press F2 to report a bug. \n\
-- Please visit forums.monomipark.com to give us feedback on your experience. \n\
+一些重要的事項: \n\
+- 這是非常早期版本的遊戲，所以有很多exposed wires，暫時的圖像，不平衡的內容等等…… \
+	 請多多包容體諒。 \n\
+- the Range在晚上是十分危險的. 按F來使用手電筒。 \n\
+- 目前在 Indigo Quarry 之後沒有更多關卡 \n\
+- 按F2來回報問題 \n\
+- 請拜訪 forums.monomipark.com 來給我們你的遊玩回饋 \n\
 \n\
-Thanks for helping us test Slime Rancher!
+感謝您幫忙測試@Slime Rancher
 
 # General
-t.basics = Basic Player Controls
-m.intro.basics = Get a move on.
-m.instructions.basics = Movement (Default: W,A,S,D keys) can be sped up by sprinting (Default: Shift key), \
-	but this will consume energy. \n\
+t.basics = 基本玩家操作
+m.intro.basics = 開始移動吧！
+m.instructions.basics = 移動 （預設: W、A、S、D 鍵）可透過衝刺來加速 （預設: Shift 鍵）， \
+	但這會消耗能量。 \n\
 \n\
-Jump (Default: Space key) to reach higher areas, or because it's good exercise. Hold jump to travel further.\n\
+跳躍 （預設: 空白鍵） 來到達更高的地方， 又因為這是個好的運動，所以按住跳躍來跑得更遠。 \n\
 \n\
-You can interact with some objects (Default: E key) when prompted. If you don't see a prompt, assume the object is just shy.
-m.instructions.gamepad.basics = Movement (Default: Left stick) can be sped up by sprinting (Default: Push Left Stick), \
-	but this will consume energy. \n\
+你可以在提示跳出時和某些物件互動（預設: E 鍵），如果你沒有看到提示的話，就當作那個物件害羞了。
+m.instructions.gamepad.basics = 移動 （預設: 左類比搖桿） 可透過衝刺來加速 （預設: 按下左類比搖桿）, \
+	但這會消耗能量。 \n\
 \n\
-Jump (Default: A) to reach higher areas, or because it's good exercise. Hold jump to travel further.\n\
+跳躍 （預設: A） 來到達更高的地方， 又因為這是個好的運動，所以按住跳躍來跑得更遠。\n\
 \n\
-You can interact with some objects (Default: X) when prompted. If you don't see a prompt, assume the object is just shy.
+你可以在提示跳出時和某些物件互動 （預設: X） ，如果你沒有看到提示的話，就當作那個物件害羞了。
 m.desc.basics =
 
-t.vacing = Vacpack Basics: Vac-ing
-m.intro.vacing = Your first step to becoming a master rancher.
-m.instructions.vacing = Press and hold the vac key (Default: Right Mouse Button) to vacuum slimes or other objects. \n\
+t.vacing = 基本壓縮背包操作： 吸取
+m.intro.vacing = 成為高超牧場主人的第一步。
+m.instructions.vacing = 按壓預設的壓縮鍵 （預設: 滑鼠右鍵） 來吸取史萊姆或其他物品 \n\
 \n\
-Larger objects will be held at the nozzle and can be dropped by releasing vac or fired by pressing shoot.
-m.instructions.gamepad.vacing = Press and hold the vac key (Default: Left Trigger) to vacuum slimes or other objects. \n\
+太大的物品會被吸取在管口，並透過按下射擊鍵來解除壓力並放下。
+m.instructions.gamepad.vacing = 按壓預設的壓縮鍵 （預設: LT） 來吸取史萊姆或其他物品 \n\
 \n\
-Larger objects will be held at the nozzle and can be dropped by releasing vac or fired by pressing shoot.
+太大的物品會被吸取在管口，並透過按下射擊鍵來解除壓力並放下。
 m.desc.vacing =
 
-t.shooting = Vacpack Basics: Shooting
+t.shooting = 基本壓縮背包操作： 射擊
 m.intro.shooting = Ever spray a hose full of chickens? Yes, it's as awesome as it sounds.
-m.instructions.shooting = Press the shoot key (Default: Left Mouse Button) to shoot a slime or other object from \
-	the selected vac tank. \n\
+m.instructions.shooting =  按壓射擊鍵（預設: 滑鼠左鍵） 來從指定的壓縮倉 \
+	射出史萊姆或物品 \n\
 	\n\
-	Hold the shoot key to continuously shoot.
-m.instructions.gamepad.shooting = Press the shoot key (Default: Right Trigger) to shoot a slime or other object from \
-	the selected vac tank. \n\
-	\n\
-	Hold the shoot key to continuously shoot.
+	按住射擊鍵來持續射出
+m.instructions.gamepad.shooting = 按壓射擊鍵（預設: RT） 來從指定的壓縮倉 \
+    射出史萊姆或物品 \n\
+    \n\
+    按住射擊鍵來持續射出
 m.desc.shooting =
 
-t.capturetanks = Vacpack Basics: Vac Tanks
-m.intro.capturetanks = Nanotechnology makes everything possible, and everything smaller.
-m.instructions.capturetanks = Select a vac tank by pressing the corresponding vac tank key \
-	(Default: 1,2,3,4 keys) or cycle through them (Default: Mouse Scroll Wheel).
-m.instructions.gamepad.capturetanks = Select a vac tank by cycling through them (Default: Left Bumper/Right Bumper).
+t.capturetanks = 基本壓縮背包操作： 壓縮倉
+m.intro.capturetanks = 有了奈米科技，任何事情都可能發生，任何東西都能夠再更小
+m.instructions.capturetanks =  按壓對應的按鍵（預設： 1、2、3、4 鍵）來選取壓縮倉 \
+    	 或用來滑鼠滾輪來切換 .
+m.instructions.gamepad.capturetanks = 透過按鍵（預設：LB／RB） 來切換壓縮倉
 m.desc.capturetanks =
 
-t.energy = Vacpack Basics: Energy
-m.intro.energy = Everything has a cost.
-m.instructions.energy = Monitor your energy level with the Energy Meter on the HUD.
+t.energy = 基本壓縮背包操作： 能量
+m.intro.energy = 有得必有失。
+m.instructions.energy = 透過螢幕上的能量計來監控你的能量。
 m.desc.energy =
 
 # Slimes
-t.pink_slime = Pink Slime
-m.intro.pink_slime = Their coral hue is scientifically proven to be the color of cheer.
-m.diet.pink_slime = Fruit, Veggies, Meat
-m.favorite.pink_slime = (none)
-m.slimeology.pink_slime = Pink Slimes are the most common slime found on the Far, Far Range. They’re cheerful, docile, \
-	and the easiest of all slimes to ranch. A pink slime will eat anything you put in front of it, though they have \
-	no favorite food, and their plorts are the least valuable of all slimes.
-m.risks.pink_slime = Not much to worry about with a pink slime. They're soft, squishy, very happy to be around a \
-	rancher, and found all over the Range. But because of this, a rancher won't go far without finding a few pink \
-	plorts, which can lead to largos, and then...
-m.plortonomics.pink_slime = Pink Plorts are an excellent 'multipurpose generic substance' used to manufacture \
-	everything from food products to household cleaners. All over earth, people are eating burgers, sweetening their \
-	coffees or scrubbing their floors with pink plort products. That's some serious versatility!
+t.pink_slime = 粉紅萊姆
+m.intro.pink_slime = 科學已證明他們的粉紅是微笑的顏色。
+m.diet.pink_slime = 水果，蔬菜，肉類
+m.favorite.pink_slime = （無）
+m.slimeology.pink_slime = 粉紅萊姆是 the Range 裡最常見的史萊姆，他們很快樂、溫馴，是 \
+	最好養的史萊姆。 粉紅萊姆會吃下放在他們面前的所有食物，因此沒有特別愛好的食物。 \
+	他們的結晶在所有史萊姆結晶中是最便宜的。
+m.risks.pink_slime = 不必太過擔心粉紅萊姆。他們柔軟、黏糊糊、喜歡環繞在牧場主人身旁。 \
+	能在 the Range 的各個角落發現他們。也因此，牧場主人能到處發現容易產生巨型萊姆的粉紅結晶 \
+	然後......
+m.plortonomics.pink_slime = 粉紅結晶是優異的 「多重用途物質」，可以用來製造 \
+	任何東西，像食物、清潔劑... 在地球上的任何角落，人們用粉紅結晶製品來製造漢堡、替咖啡提味  \
+	或清潔地板。由此可見它的多用途！
 
-t.rock_slime = Rock Slime
-m.intro.rock_slime = These slimes ore totally metal.
-m.diet.rock_slime = Veggies
-m.favorite.rock_slime = Heart Beet
-m.slimeology.rock_slime = Rock slimes earned their name from the rocky crown of sharp spikes atop their slimy bodies. \
-	But their affection for minerals doesn't end with their appearance: rock slimes are strict vegetarians, favoring \
-	the satisfying crunch of the heart beet most of all.
-m.risks.rock_slime = The dangers of a rock slime should be fairly obvious: their rocky crown is sharp enough to pierce \
-	straight through a rancher's boots. But it's not all about watching where you're stepping as these rocks are always \
-	rolling. When you see a rock slime revving up for a tumble, it's best to get out of the way.
-m.plortonomics.rock_slime = Rock plorts are prized for being a key component in the production of 'blue metal,' an \
-    amazing alloy that's stronger than titanium and lighter than plastic. Because of its amazing strength, blue metal \
-    is often a key component in the hulls of light-speed capable starships, synthetic appendages, and protective \
-    holophone cases.
+t.rock_slime = 岩石萊姆
+m.intro.rock_slime = 他們含有真正的金屬！
+m.diet.rock_slime = 蔬菜
+m.favorite.rock_slime = 甜心菜
+m.slimeology.rock_slime = 岩石萊姆之所以稱為岩石萊姆，是因史萊姆本體上的石質尖刺皇冠\
+	But their affection for minerals doesn't end with their appearance: 岩石萊姆是徹底的素食主義者 \
+	他們特愛甜心菜咬起來嘎吱嘎吱的聲音。
+m.risks.rock_slime = 很顯然的，岩石萊姆的危險來自於他們尖銳的石質皇冠能穿透牧場主人的靴子。 \
+	但僅關注你的腳邊並不夠，因為這些岩石萊姆們總是在旋轉翻滾著。 \
+	當你看到他們正在加速旋轉之時，最好離他們遠一點。
+m.plortonomics.rock_slime = 岩石結晶被稱為生產「藍金屬」的重要元素。 藍金屬是 \
+    是一種驚人的合金，能比鈦金屬還堅固，但卻比塑膠還輕，因其驚人的強度 \
+    它通常作為生產光速星艦的船身、人造器官和全像投影器保護殼 \
+    的關鍵元素。
 
-t.tabby_slime = Tabby Slime
-m.intro.tabby_slime = Those stripes, that tail, that wiggle, wiggle, wiggle.
-m.diet.tabby_slime = Meat
-m.favorite.tabby_slime = Stony Hen
-m.slimeology.tabby_slime = Tabby slimes share many curious similarities to domesticated house cats of Earth. With \
-    their perky ears, striped backs, and swaying tails, you'd almost mistake them for a true feline... if they weren't \
-    made entirely of gooey slime, of course.
-m.risks.tabby_slime = A tabby slime generally doesn't mean any harm to a rancher, but like their spiritual Earth cat \
-    cousins, often causes a great deal of chaos anyway. Tabby slimes love to steal things they don't eat, like fruits \
-    and veggies, resulting in lots of unintended largo transformations on the Range.
-m.plortonomics.tabby_slime = Tabby plorts are a key ingredient in a variety of 'performance enhancing' products that \
-    grant the consumer a surge of the tabby slime's signature energy and exuberance. And while athletes the world \
-    over take them to gain an edge, prolonged use often results in 'uncontrollable butt wiggles,' another (less \
-    desirable) signature of the tabby slime.
+t.tabby_slime = 斑貓萊姆
+m.intro.tabby_slime = 斑紋、尾巴、搖搖搖
+m.diet.tabby_slime = 肉類
+m.favorite.tabby_slime = 岩地母雞
+m.slimeology.tabby_slime = 十分奇妙地，斑貓萊姆和地球上被馴養的家貓有許多相似處，像是 \
+    那漂亮的耳朵、條紋後背和那不斷擺動的尾巴。 如果他們沒有那黏稠的史萊姆身體，你幾乎\
+    會將他們和貓科動物搞混。
+m.risks.tabby_slime = 斑貓萊姆通常不會對牧場主人造成威脅，但就像他們在地球上的斑貓親戚一樣， \
+    他們經常製造大混亂，像是他們喜歡偷拿不吃的水果、蔬菜之類的， \
+    導致 the Range 裡發生許多的巨型萊姆轉換。
+m.plortonomics.tabby_slime = 斑貓結晶在許多的「效能強化」製品裡是十分重要的關鍵材料 ，\
+    能夠湧出豐富的斑貓萊姆能量.。而正當世界各處的運動員們都過度使用它來提升自我極限， \
+    才發現經常性的使用會造成「不可控制的搖屁股」—另一個 \
+    （較不受歡迎的）斑貓萊姆能量效果。
 
-t.phosphor_slime = Phosphor Slime
+t.phosphor_slime =  磷光萊姆
 m.intro.phosphor_slime = The softly glowing heralds of starlight.
 m.diet.phosphor_slime = Fruit
 m.favorite.phosphor_slime = Cuberry
