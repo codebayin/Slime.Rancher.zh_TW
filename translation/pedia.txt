@@ -75,7 +75,7 @@ t.capturetanks = 基本壓縮背包操作： 壓縮倉
 m.intro.capturetanks = 有了奈米科技，任何事情都可能發生，任何東西都能夠再更小
 m.instructions.capturetanks =  按壓對應的按鍵（預設： 1、2、3、4 鍵）來選取壓縮倉 \
     	 或用來滑鼠滾輪來切換 .
-m.instructions.gamepad.capturetanks = 透過按鍵（預設：LB／RB） 來切換壓縮倉
+m.instructions.gamepad.capturetanks = 透過按鍵（預設：LB/RB） 來切換壓縮倉
 m.desc.capturetanks =
 
 t.energy = 基本壓縮背包操作： 能量
@@ -84,49 +84,49 @@ m.instructions.energy = 透過螢幕上的能量計來監控你的能量。
 m.desc.energy =
 
 # Slimes
-t.pink_slime = 粉紅萊姆
+t.pink_slime = 粉紅史萊姆
 m.intro.pink_slime = 科學已證明他們的粉紅是微笑的顏色。
 m.diet.pink_slime = 水果，蔬菜，肉類
 m.favorite.pink_slime = （無）
-m.slimeology.pink_slime = 粉紅萊姆是 the Range 裡最常見的史萊姆，他們很快樂、溫馴，是 \
-	最好養的史萊姆。 粉紅萊姆會吃下放在他們面前的所有食物，因此沒有特別愛好的食物。 \
+m.slimeology.pink_slime = 粉紅史萊姆是 the Range 裡最常見的史萊姆，他們很快樂、溫馴，是 \
+	最好養的史萊姆。 粉紅史萊姆會吃下放在他們面前的所有食物，因此沒有特別愛好的食物。 \
 	他們的結晶在所有史萊姆結晶中是最便宜的。
-m.risks.pink_slime = 不必太過擔心粉紅萊姆。他們柔軟、黏糊糊、喜歡環繞在牧場主人身旁。 \
-	能在 the Range 的各個角落發現他們。也因此，牧場主人能到處發現容易產生巨型萊姆的粉紅結晶 \
+m.risks.pink_slime = 不必太過擔心粉紅史萊姆。他們柔軟、黏糊糊、喜歡環繞在牧場主人身旁。 \
+	能在 the Range 的各個角落發現他們。也因此，牧場主人能到處發現容易產生巨型史萊姆的粉紅結晶 \
 	然後......
 m.plortonomics.pink_slime = 粉紅結晶是優異的 「多重用途物質」，可以用來製造 \
 	任何東西，像食物、清潔劑... 在地球上的任何角落，人們用粉紅結晶製品來製造漢堡、替咖啡提味  \
 	或清潔地板。由此可見它的多用途！
 
-t.rock_slime = 岩石萊姆
+t.rock_slime = 岩石史萊姆
 m.intro.rock_slime = 他們含有真正的金屬！
 m.diet.rock_slime = 蔬菜
 m.favorite.rock_slime = 甜心菜
-m.slimeology.rock_slime = 岩石萊姆之所以稱為岩石萊姆，是因史萊姆本體上的石質尖刺皇冠\
-	But their affection for minerals doesn't end with their appearance: 岩石萊姆是徹底的素食主義者 \
+m.slimeology.rock_slime = 岩石史萊姆之所以稱為岩石史萊姆，是因史萊姆本體上的石質尖刺皇冠\
+	But their affection for minerals doesn't end with their appearance: 岩石史萊姆是徹底的素食主義者 \
 	他們特愛甜心菜咬起來嘎吱嘎吱的聲音。
-m.risks.rock_slime = 很顯然的，岩石萊姆的危險來自於他們尖銳的石質皇冠能穿透牧場主人的靴子。 \
-	但僅關注你的腳邊並不夠，因為這些岩石萊姆們總是在旋轉翻滾著。 \
+m.risks.rock_slime = 很顯然的，岩石史萊姆的危險來自於他們尖銳的石質皇冠能穿透牧場主人的靴子。 \
+	但僅關注你的腳邊並不夠，因為這些岩石史萊姆們總是在旋轉翻滾著。 \
 	當你看到他們正在加速旋轉之時，最好離他們遠一點。
 m.plortonomics.rock_slime = 岩石結晶被稱為生產「藍金屬」的重要元素。 藍金屬是 \
     是一種驚人的合金，能比鈦金屬還堅固，但卻比塑膠還輕，因其驚人的強度 \
     它通常作為生產光速星艦的船身、人造器官和全像投影器保護殼 \
     的關鍵元素。
 
-t.tabby_slime = 斑貓萊姆
+t.tabby_slime = 斑貓史萊姆
 m.intro.tabby_slime = 斑紋、尾巴、搖搖搖
 m.diet.tabby_slime = 肉類
 m.favorite.tabby_slime = 岩地母雞
-m.slimeology.tabby_slime = 十分奇妙地，斑貓萊姆和地球上被馴養的家貓有許多相似處，像是 \
+m.slimeology.tabby_slime = 十分奇妙地，斑貓史萊姆和地球上被馴養的家貓有許多相似處，像是 \
     那漂亮的耳朵、條紋後背和那不斷擺動的尾巴。 如果他們沒有那黏稠的史萊姆身體，你幾乎\
     會將他們和貓科動物搞混。
-m.risks.tabby_slime = 斑貓萊姆通常不會對牧場主人造成威脅，但就像他們在地球上的斑貓親戚一樣， \
+m.risks.tabby_slime = 斑貓史萊姆通常不會對牧場主人造成威脅，但就像他們在地球上的斑貓親戚一樣， \
     他們經常製造大混亂，像是他們喜歡偷拿不吃的水果、蔬菜之類的， \
-    導致 the Range 裡發生許多的巨型萊姆轉換。
+    導致 the Range 裡發生許多的巨型史萊姆轉換。
 m.plortonomics.tabby_slime = 斑貓結晶在許多的「效能強化」製品裡是十分重要的關鍵材料 ，\
-    能夠湧出豐富的斑貓萊姆能量.。而正當世界各處的運動員們都過度使用它來提升自我極限， \
+    能夠湧出豐富的斑貓史萊姆能量.。而正當世界各處的運動員們都過度使用它來提升自我極限， \
     才發現經常性的使用會造成「不可控制的搖屁股」—另一個 \
-    （較不受歡迎的）斑貓萊姆能量效果。
+    （較不受歡迎的）斑貓史萊姆能量效果。
 
 t.phosphor_slime =  磷光萊姆
 m.intro.phosphor_slime = The softly glowing heralds of starlight.
