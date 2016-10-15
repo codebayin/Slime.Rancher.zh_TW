@@ -1,91 +1,90 @@
 # Tutorial Entries Text
 
-t.basic_movement = Let's get moving!
+t.basic_movement = 動起來吧！
 m.input.basic_movement.1 = W
-m.inputdesc.basic_movement.1 = move forward
+m.inputdesc.basic_movement.1 = 前進
 m.input.basic_movement.2 = A
-m.inputdesc.basic_movement.2 = move left
+m.inputdesc.basic_movement.2 = 左移
 m.input.basic_movement.3 = S
-m.inputdesc.basic_movement.3 = move backward
+m.inputdesc.basic_movement.3 = 後退
 m.input.basic_movement.4 = D
-m.inputdesc.basic_movement.4 = move right
-m.input.gamepad.basic_movement.1 = Move
-m.inputdesc.gamepad.basic_movement.1 = move
+m.inputdesc.basic_movement.4 = 右移
+m.input.gamepad.basic_movement.1 = 移動
+m.inputdesc.gamepad.basic_movement.1 = 移動
 
-t.jumping = Hop to it!
-m.input.jumping.1 = Spacebar
-m.inputdesc.jumping.1 = jump
-m.input.jumping.2 = Hold Shift
-m.inputdesc.jumping.2 = sprint
-m.input.gamepad.jumping.1 = Jump
-m.inputdesc.gamepad.jumping.1 = jump
-m.input.gamepad.jumping.2 = Run
-m.inputdesc.gamepad.jumping.2 = sprint
+t.jumping = 追趕跑跳碰！
+m.input.jumping.1 = 空白鍵
+m.inputdesc.jumping.1 = 跳躍
+m.input.jumping.2 = 按住 Shift
+m.inputdesc.jumping.2 = 衝刺
+m.input.gamepad.jumping.1 = 跳躍
+m.inputdesc.gamepad.jumping.1 = 跳躍
+m.input.gamepad.jumping.2 = 奔跑
+m.inputdesc.gamepad.jumping.2 = 衝刺
 
-t.vaccing = How to vac like a rancher
-m.text.vaccing = Your vacpack can vac things up and store them in a vac tank.
-m.input.vaccing.1 = Hold Right Mouse
-m.inputdesc.vaccing.1 = vac
-m.input.gamepad.vaccing.1 = Vac
-m.inputdesc.gamepad.vaccing.1 = vac
+t.vaccing = 像個牧場主一樣吸吸吸
+m.text.vaccing = 你的吸取器可以吸入東西並存放在吸取槽。
+m.input.vaccing.1 = 按住滑鼠右鍵
+m.inputdesc.vaccing.1 = 吸取
+m.input.gamepad.vaccing.1 = 吸取
+m.inputdesc.gamepad.vaccing.1 = 吸取
 
-t.shooting = You vac'd a slime!
-m.text.shooting = Slimes are key to your success. Shoot slimes THROUGH a corral barrier into the corral on the ranch.
-m.input.shooting.1 = Mouse Wheel
-m.inputdesc.shooting.1 = select vac tank
-m.input.shooting.2 = Hold Left Mouse
-m.inputdesc.shooting.2 = shoot
-m.input.gamepad.shooting.1 = PrevSlot
-m.inputdesc.gamepad.shooting.1 = select prev vac tank
-m.input.gamepad.shooting.2 = NextSlot
-m.inputdesc.gamepad.shooting.2 = select next vac tank
-m.input.gamepad.shooting.3 = Attack
-m.inputdesc.gamepad.shooting.3 = shoot
+t.shooting = 你吸入了史萊姆！
+m.text.shooting = 史萊姆是你致富的關鍵。將史萊姆對著圍欄的障壁射擊，可使其「穿過」障壁進入圍欄。
+m.input.shooting.1 = 滑鼠滾輪
+m.inputdesc.shooting.1 = 選擇吸取槽
+m.input.shooting.2 = 按住滑鼠左鍵
+m.inputdesc.shooting.2 = 射擊
+m.input.gamepad.shooting.1 = 上一個槽位
+m.inputdesc.gamepad.shooting.1 = 選擇上一個吸取槽
+m.input.gamepad.shooting.2 = 下一個槽位
+m.inputdesc.gamepad.shooting.2 = 選擇下一個吸取槽
+m.input.gamepad.shooting.3 = 攻擊
+m.inputdesc.gamepad.shooting.3 = 射擊
 
-t.food = Tasty food acquired!
-m.text.food = Food like fruits, veggies, or chickens are used to feed slimes. Try shooting food at a pink slime; they'll eat anything.
-m.input.food.1 = Mouse Wheel
-m.inputdesc.food.1 = select vac tank
-m.input.food.2 = Hold Left Mouse
-m.inputdesc.food.2 = shoot
-m.input.gamepad.food.1 = PrevSlot
-m.inputdesc.gamepad.food.1 = select prev vac tank
-m.input.gamepad.food.2 = NextSlot
-m.inputdesc.gamepad.food.2 = select next vac tank
-m.input.gamepad.food.3 = Attack
-m.inputdesc.gamepad.food.3 = shoot
+t.food = 你獲得了美味的食物！
+m.text.food = 像水果、蔬菜或雞這類的食物可用來餵食史萊姆。試著把食物射向粉紅史萊姆吧；牠們什麼都吃。
+m.input.food.1 = 滑鼠滾輪
+m.inputdesc.food.1 = 選擇吸取槽
+m.input.food.2 = 按住滑鼠左鍵
+m.inputdesc.food.2 = 射擊
+m.input.gamepad.food.1 = 上一個槽位
+m.inputdesc.gamepad.food.1 = 選擇上一個吸取槽
+m.input.gamepad.food.2 = 下一個槽位
+m.inputdesc.gamepad.food.2 = 選擇下一個吸取槽
+m.input.gamepad.food.3 = 攻擊
+m.inputdesc.gamepad.food.3 = 射擊
 
-t.plort = You acquired a slime plort!
-m.text.plort = When slimes eat they make plorts.\n\n\
-  Head on over to the Plort Market to cash in your plort.
+t.plort = 你獲得了史萊姆結晶！
+m.text.plort = 史萊姆進食後會產出結晶。\n\n\
+  前往結晶市場用你的結晶來兌換現金吧。
 
-t.market = The Plort Market
-m.text.market = The Plort Market gives you newbucks for your hard-earned plorts.\n\n\
-  Shoot a plort into the Plort Market and earn some cash!
-m.input.market.1 = Mouse Wheel
-m.inputdesc.market.1 = select vac tank
-m.input.market.2 = Hold Left Mouse
-m.inputdesc.market.2 = shoot
-m.input.gamepad.market.1 = PrevSlot
-m.inputdesc.gamepad.market.1 = select prev vac tank
-m.input.gamepad.market.2 = NextSlot
-m.inputdesc.gamepad.market.2 = select next vac tank
-m.input.gamepad.market.3 = Attack
-m.inputdesc.gamepad.market.3 = shoot
+t.market = 結晶市場
+m.text.market = 結晶市場能把你得來不易的結晶兌換成現金。\n\n\
+  將結晶射入結晶市場來獲得現金吧！
+m.input.market.1 = 滑鼠滾輪
+m.inputdesc.market.1 = 選擇吸取槽
+m.input.market.2 = 按住滑鼠左鍵
+m.inputdesc.market.2 = 射擊
+m.input.gamepad.market.1 = 上一個槽位
+m.inputdesc.gamepad.market.1 = 選擇上一個吸取槽
+m.input.gamepad.market.2 = 下一個槽位
+m.inputdesc.gamepad.market.2 = 選擇下一個吸取槽
+m.input.gamepad.market.3 = 攻擊
+m.inputdesc.gamepad.market.3 = 射擊
 
-t.death = Welcome back...
-m.text.death = When you're knocked out you'll rest at least 12 hours in order to recover. If you're not careful, you \
-  might wake up to a mob of hungry, unruly slimes on your ranch!
+t.death = 歡迎回來……
+m.text.death = 你被擊倒後至少需要休息12個小時來恢復。如果不夠謹慎，你醒來時可能會被牧場上一群飢餓不受控制的史萊姆圍攻！
 
-t.garden = You built a garden!
-m.text.garden = Shoot a fruit or veggie into the depositor to begin growing more of that type!
+t.garden = 你建造了一座果園！
+m.text.garden = 將水果或蔬菜射入機器以開始栽種更多該品種的食物！
 
-t.largo = Oh my largo!
-m.text.largo = Largo slimes are large slime hybrids formed when a slime eats a plort unlike its own.\n\
+t.largo = 天啊，混種！
+m.text.largo = 混種史萊姆是一種史萊姆吃了與自身不同的結晶所形成的大型配種。\n\
   \n\
-  Vac to keep them on your nozzle, or shoot to send them flying!
+  按吸取把牠們吸在吸嘴上，或按射擊把牠們射飛！
 
-t.explore = That about covers the basics!
-m.text.explore = You've learned the fundamentals, now it's time to get out there and explore!\n\
+t.explore = 以上就是所有的基礎入門！
+m.text.explore = 你已經學會了基本知識，現在是時候出去探索了！\n\
   \n\
-  Remember, the best way to become a pro rancher is to experiment. Nothing ventured, nothing gained!
+  記住，要成為一位專業牧場主的最佳途徑是勇於嘗試。沒有冒險就沒有收穫！

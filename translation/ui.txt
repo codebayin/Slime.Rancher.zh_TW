@@ -259,7 +259,7 @@ key.back = 後退
 key.left = 左移
 key.right = 右移
 
-key.shoot = 發射
+key.shoot = 射擊
 key.vac = 吸取
 key.slimefilter = 史萊姆過濾器
 key.burst = 脈衝
@@ -333,7 +333,7 @@ l.exchange_progress = {0}/{1}
 l.no_offers_available = 遙遠之地交易所\n離線...
 l.request = 與我交易：
 l.receive = 你會獲得：
-l.exchange_directions = 將所需的物品射入寄存機以完成交易。
+l.exchange_directions = 將所需的物品射入機器以完成交易。
 
 # Screenshot
 m.gif_screenshot_confirm = 儲存最後數秒的GIF？
@@ -426,7 +426,7 @@ m.loadingtip.5 = 謠傳維克特發明了結晶克隆技術，然後摧毀了它
 m.loadingtip.6 = 謠傳摩奇．麥兒思已經好幾年沒跟父親說話了。
 m.loadingtip.7 = 謠傳鮑勃非人。給我雞？
 m.loadingtip.8 = 多年來沒有人見過哈博森。有些人說他正在最偏遠的遙遠之地旅行中。
-m.loadingtip.9 = 使用筒倉囤放結晶，直到結晶市場的價格上升再出售。
+m.loadingtip.9 = 使用筒倉囤放結晶，直到結晶市場的價格上升再兌換現金。
 m.loadingtip.10 = 你必須購買水槽才能吸取乾淨的水。
 m.loadingtip.11 = 惡劣的焦油史萊姆是混種史萊姆吃了與自身不同的結晶所形成的，要小心喔！
 m.loadingtip.12 = 焦油史萊姆在夜晚容易出沒且存活時間更長，請多加小心。

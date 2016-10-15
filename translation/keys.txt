@@ -3,7 +3,7 @@
 
 # Keyboard code translations
 
-m.None = None
+m.None = 無
 
 m.Key0 = 0
 m.Key1 = 1
@@ -16,22 +16,22 @@ m.Key7 = 7
 m.Key8 = 8
 m.Key9 = 9
 
-m.Pad0 = Num0
-m.Pad1 = Num1
-m.Pad2 = Num2
-m.Pad3 = Num3
-m.Pad4 = Num4
-m.Pad5 = Num5
-m.Pad6 = Num6
-m.Pad7 = Num7
-m.Pad8 = Num8
-m.Pad9 = Num9
+m.Pad0 = 數字鍵0
+m.Pad1 = 數字鍵1
+m.Pad2 = 數字鍵2
+m.Pad3 = 數字鍵3
+m.Pad4 = 數字鍵4
+m.Pad5 = 數字鍵5
+m.Pad6 = 數字鍵6
+m.Pad7 = 數字鍵7
+m.Pad8 = 數字鍵8
+m.Pad9 = 數字鍵9
 
-m.LeftButton = MouseLeft
-m.RightButton = MouseRight
-m.MiddleButton = MouseMid
-m.PositiveScrollWheel = ScrollUp
-m.NegativeScrollWheel = ScrollDown
+m.LeftButton = 滑鼠左鍵
+m.RightButton = 滑鼠右鍵
+m.MiddleButton = 滑鼠中鍵
+m.PositiveScrollWheel = 滑鼠滾輪向上
+m.NegativeScrollWheel = 滑鼠滾輪向下
 
 #Gamepad
 
@@ -43,13 +43,13 @@ m.LeftTrigger = LT
 m.LeftBumper = LB
 m.RightTrigger = RT
 m.RightBumper = RB
-m.DPadUp = Up
-m.DPadDown = Down
-m.DPadLeft = Left
-m.DPadRight = Right
-m.Back = Back
-m.Start = Start
-m.LeftStickButton = Left Stick
-m.RightStickButton = Right Stick
-m.View = View
-m.Menu = Menu
+m.DPadUp = 上
+m.DPadDown = 下
+m.DPadLeft = 左
+m.DPadRight = 右
+m.Back = BACK
+m.Start = START
+m.LeftStickButton = 左搖桿
+m.RightStickButton = 右搖桿
+m.View = 查看
+m.Menu = 選單

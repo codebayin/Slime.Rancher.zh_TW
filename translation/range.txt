@@ -1,8 +1,8 @@
 # Place-name Translations for things on the range/in the world.
 
 # Zones
-m.dry_reef = Dry Reef
-m.quarry = Quarry
+m.dry_reef = 旱礁
+m.quarry = 礦場
 
 # Teleporters
-m.teleporter.ranch = Ranch
+m.teleporter.ranch = 牧場
