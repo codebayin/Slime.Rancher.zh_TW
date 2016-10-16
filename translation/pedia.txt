@@ -133,7 +133,7 @@ m.intro.phosphor_slime = The softly glowing heralds of starlight.
 m.diet.phosphor_slime = 水果
 m.favorite.phosphor_slime = 方梅
 m.slimeology.phosphor_slime = 磷光史萊姆只在夜晚現身，揮動著他那半透明的翅膀在月光的沐浴下飛翔。 \
-    他有一顆散發著柔光的史萊姆核心， 也使他們十分容易被發現。 \
+    他有一顆散發著柔光的史萊姆核心，也使他們十分容易被發現。 \
     也因此牧場主們有時稱他為「矮空中的星芒」。
 m.risks.phosphor_slime = 和其他種史萊姆比起來，磷光史萊姆有特別的需求，他們和他們的結晶 \
     若接觸到陽光便會快速的消逝，代表如果牧場主沒注意的話，整欄的磷光史萊姆會快速的消失。 \

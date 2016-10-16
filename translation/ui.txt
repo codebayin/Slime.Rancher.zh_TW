@@ -65,7 +65,7 @@ m.press_to_use_key = 按 {0} 使用史萊姆鑰匙
 m.press_to_use_key.pre_gamepad = 按
 m.press_to_use_key.post_gamepad = 使用史萊姆鑰匙
 m.needs_key = 需要一把史萊姆鑰匙以開啟
-m.ranch_house_unavailable = 試完版不能使用牧場小屋
+m.ranch_house_unavailable = 試玩版不能使用牧場小屋
 
 b.purchase = 購買
 b.sold_out = 售完
@@ -375,7 +375,7 @@ l.music_sfx = 音樂和音效
 l.copyright = Slime Rancher is developed by Monomi Park. Copyright © 2014-2016 Monomi Park, LLC
 
 # Expo load screen
-l.select_expo_game = 選擇一個特殊的試完版存檔：
+l.select_expo_game = 選擇一個特殊的試玩版存檔：
 b.expo_start = 全新開始
 b.expo_advanced = 進階牧場
 b.expo_range = 超出範圍
