@@ -26,7 +26,7 @@ m.desc.splash = 你正在遊玩 史萊姆牧場 初期測試版 3. \
 - 這是非常早期版本的遊戲，所以有很多exposed wires，暫時的圖像，不平衡的內容等等…… \
 	 請多多包容體諒。 \n\
 - 遙遠之地在晚上是十分危險的. 按F來使用手電筒。 \n\
-- 目前在 Indigo Quarry 之後沒有更多關卡 \n\
+- 目前在靛藍礦場之外沒有更多關卡 \n\
 - 按F2來回報問題 \n\
 - 請拜訪 forums.monomipark.com 來給我們你的遊玩回饋 \n\
 \n\
@@ -50,7 +50,7 @@ m.instructions.gamepad.basics = 移動 （預設: 左類比搖桿） 可透過�
 m.desc.basics =
 
 t.vacing = 吸取器入門： 吸取
-m.intro.vacing = 成為高超牧場主人的第一步。
+m.intro.vacing = 成為高超牧場主的第一步。
 m.instructions.vacing = 按壓預設的壓縮鍵 （預設: 滑鼠右鍵） 來吸取史萊姆或其他物品 \n\
 \n\
 太大的物品會被吸取在管口，並透過按下射擊鍵來解除壓力並放下。
@@ -91,8 +91,8 @@ m.favorite.pink_slime = （無）
 m.slimeology.pink_slime = 粉紅史萊姆是遙遠之地裡最常見的史萊姆，他們很快樂、溫馴，是 \
 	最好養的史萊姆。 粉紅史萊姆會吃下放在他們面前的所有食物，因此沒有特別愛好的食物。 \
 	他們的結晶在所有史萊姆結晶中是最便宜的。
-m.risks.pink_slime = 不必太過擔心粉紅史萊姆。他們柔軟、黏糊糊、喜歡環繞在牧場主人身旁。 \
-	能在遙遠之地的各個角落發現他們。也因此，牧場主人能到處發現容易產生巨型史萊姆的粉紅結晶 \
+m.risks.pink_slime = 不必太過擔心粉紅史萊姆。他們柔軟、黏糊糊、喜歡環繞在牧場主身旁。 \
+	能在遙遠之地的各個角落發現他們。也因此，牧場主能到處發現容易產生混種史萊姆的粉紅結晶 \
 	然後......
 m.plortonomics.pink_slime = 粉紅結晶是優異的 「多重用途物質」，可以用來製造 \
 	任何東西，像食物、清潔劑... 在地球上的任何角落，人們用粉紅結晶製品來製造漢堡、替咖啡提味  \
@@ -105,7 +105,7 @@ m.favorite.rock_slime = 甜心菜
 m.slimeology.rock_slime = 岩石史萊姆之所以稱為岩石史萊姆，是因史萊姆本體上的石質尖刺皇冠\
 	But their affection for minerals doesn't end with their appearance: 岩石史萊姆是徹底的素食主義者 \
 	他們特愛甜心菜咬起來嘎吱嘎吱的聲音。
-m.risks.rock_slime = 很顯然的，岩石史萊姆的危險來自於他們尖銳的石質皇冠能穿透牧場主人的靴子。 \
+m.risks.rock_slime = 很顯然的，岩石史萊姆的危險來自於他們尖銳的石質皇冠能穿透牧場主的靴子。 \
 	但僅關注你的腳邊並不夠，因為這些岩石史萊姆們總是在旋轉翻滾著。 \
 	當你看到他們正在加速旋轉之時，最好離他們遠一點。
 m.plortonomics.rock_slime = 岩石結晶被稱為生產「藍金屬」的重要元素。 藍金屬是 \
@@ -120,7 +120,7 @@ m.favorite.tabby_slime = 岩地母雞
 m.slimeology.tabby_slime = 十分奇妙地，斑貓史萊姆和地球上被馴養的家貓有許多相似處，像是 \
     那漂亮的耳朵、條紋後背和那不斷擺動的尾巴。 如果他們沒有那黏稠的史萊姆身體，你幾乎\
     會將他們和貓科動物搞混。
-m.risks.tabby_slime = 斑貓史萊姆通常不會對牧場主人造成威脅，但就像他們在地球上的斑貓親戚一樣， \
+m.risks.tabby_slime = 斑貓史萊姆通常不會對牧場主造成威脅，但就像他們在地球上的斑貓親戚一樣， \
     他們經常製造大混亂，像是他們喜歡偷拿不吃的水果、蔬菜之類的， \
     導致遙遠之地裡發生許多的巨型史萊姆轉換。
 m.plortonomics.tabby_slime = 斑貓結晶在許多的「效能強化」製品裡是十分重要的關鍵材料 ，\
@@ -131,124 +131,124 @@ m.plortonomics.tabby_slime = 斑貓結晶在許多的「效能強化」製品裡
 t.phosphor_slime =  磷光史萊姆
 m.intro.phosphor_slime = The softly glowing heralds of starlight.
 m.diet.phosphor_slime = 水果
-m.favorite.phosphor_slime = Cuberry
-m.slimeology.phosphor_slime = Phosphor slimes come out at night, flying about the moonlit range upon their translucent \
-    wings. Phosphor slimes have a luminescent slime core that pulses with a soft glow, making them easy to spot. It's \
-    for this reason ranchers sometimes refer to them as 'low stars.'
-m.risks.phosphor_slime = Phosphor slimes have special needs compared to your typical slime. A phosphor slime and its \
-    plorts will quickly vanish if exposed to sunlight, meaning a rancher could quickly lose an entire corral's worth \
-    of phosphor slimes if they're not careful. Ranchers must either vac them up before daybreak or keep phosphor slimes in a \
-    place that is perpetually dark, like a cave.
-m.plortonomics.phosphor_slime = The luminescent compound found within phosphor plorts can produce light for over 100 \
-    years, making it an incredibly eco-friendly form of illumination on Earth. Cities across the globe are slowly \
-    switching over to phosphor lights, saving trillions of gigawatts of energy daily. Plus if you rub the stuff in your \
-    hair, it glows and looks really cool.
+m.favorite.phosphor_slime = 方梅
+m.slimeology.phosphor_slime = 磷光史萊姆只在夜晚現身，揮動著他那半透明的翅膀在月光的沐浴下飛翔。 \
+    他有一顆散發著柔光的史萊姆核心， 也使他們十分容易被發現。 \
+    也因此牧場主們有時稱他為「矮空中的星芒」。
+m.risks.phosphor_slime = 和其他種史萊姆比起來，磷光史萊姆有特別的需求，他們和他們的結晶 \
+    若接觸到陽光便會快速的消逝，代表如果牧場主沒注意的話，整欄的磷光史萊姆會快速的消失。 \
+    牧場主們必須在拂曉前將他們吸取或放置在陰暗處 \
+    像是：洞穴。
+m.plortonomics.phosphor_slime = 在磷光結晶中發現的複合物能持續發亮超過100年 \
+   ，這能作為地球上極度不可思議的環境友善光源。 全球各個都市正在逐漸 \
+    將燈光改為磷光結晶複合物，這使得他們每天能夠省下數兆瓩電能. 順帶一提， \
+    如果你將磷光結晶複合物塗抹在頭髮上，它會使你看起來非常酷。
 
-t.rad_slime = Rad Slime
-m.intro.rad_slime = Its radiance is so lovely it makes you sick.
-m.diet.rad_slime = Veggies
+t.rad_slime = 輻射史萊姆
+m.intro.rad_slime = 他們的輻射既可愛卻又能使你不舒服 。
+m.diet.rad_slime = 蔬菜
 m.favorite.rad_slime = Oca Oca
 m.slimeology.rad_slime = It's unknown if rad slimes, sometimes called 'raddies,' came to be from external radiation \
     sources or from something naturally ocurring within the Far, Far Range. Regardless, rad slimes emit such a potent \
     aura of radiation they glow in the dark!
-m.risks.rad_slime = A rad slime's radioactive aura can induce rad poisoning in a rancher if they remain within it for \
-    too long. Ranchers are advised to monitor their rad exposure levels when handling these green globs of gamma goo \
-    as extended exposure can cause serious bodily harm, or worse.
+m.risks.rad_slime = 如果牧場主在輻射史萊姆的輻射光環裡待太久，會造成中毒。 \
+    當在處理這些發綠光的小東西時，我們強烈建議牧場主監控自身的的輻射指數 \
+    ，以免產生不可抹滅的肉體傷害。
 m.plortonomics.rad_slime = Given that raddies are basically mobile batteries, it’s no surprise that corporations value \
     rad plorts for their incredible energy-producing capabilities. Most rad plorts get turned into ‘plortonium’ and \
     everything from the latest holophone to a radwave microcook system runs on the stuff.
 
-t.boom_slime = Boom Slime
-m.intro.boom_slime = Careful, these slimes have been known to expl-
-m.diet.boom_slime = Meat
-m.favorite.boom_slime = Briar Hen
-m.slimeology.boom_slime = Boom slimes are often heard before they're seen. The slime cells of a boom slime are \
-    constantly vibrating, causing their slime to increasingly crackle with energy before ultimately exploding. \
-    However, the boom slime always comes out unscathed, though always a little dazed.
-m.risks.boom_slime = Boom slimes are constantly building toward an inevitable explosion, making them quite hazardous \
-    to ranchers. In addition to those explosions causing bodily harm, they also have the capacity to send all nearby \
-    slimes flying into the air, making them a hard slime to corral.
-m.plortonomics.boom_slime = Highly volatile boom plorts have all sorts of applications, including powering rocket \
-    thrusters and demolitions. Military organizations value their highly destructive capabilities for ‘medical \
-    technology and other research.’ Imagine that!
+t.boom_slime = 砰砰史萊姆
+m.intro.boom_slime = 小心點，這些史萊姆會ㄅㄠˋ……
+m.diet.boom_slime = 肉類
+m.favorite.boom_slime = 棘地母雞
+m.slimeology.boom_slime = 通常在你看見砰砰史萊姆前你會先聽到他們的聲音。 砰砰史萊姆的細胞 \
+    會不斷的震動，導致他們會在爆炸前發出逐漸變大的霹哩啪啦聲。 \
+    雖然如此，在砰砰史萊姆爆炸後他們總是毫髮無傷，雖然他們總會看起來有點昏沉。
+m.risks.boom_slime = 無可避免地，砰砰史萊姆總是不斷的爆炸，這也代表對於牧場主而言他們 \
+    可是極度危險的。 除此之外，他們還能讓附近的史萊姆通通飛到半空中。\
+    砰砰史萊姆可不是那麼好養的。
+m.plortonomics.boom_slime = 具有高度揮發性的砰砰結晶有著各式各樣的應用，像是： \
+    火箭推進器和破壞器。 軍方對它們評價是「對於醫療科技和 \
+    其他研究具有高度破壞性」，想像一下砰砰結晶的威力到底有多大吧！
 
-t.honey_slime = Honey Slime
-m.intro.honey_slime = 'Nothing is sweeter than (a recently produced plort of) honey.'
-m.diet.honey_slime = Fruit
-m.favorite.honey_slime = Mint Mango
-m.slimeology.honey_slime = Honey slimes are an odd breed of slime composed of a hyper-sweet slime compound. Most slime \
-    scientists believe this to be the result of their slime cells replicating the natural sugars found in the fruits \
-    and floral nectars of the Far, Far Range. Most ranchers agree their plorts taste great on cereal.
-m.risks.honey_slime = The greatest danger a honey slime poses is found in their plorts. Honey plorts are the sweetest, \
-    most delicious plorts known on the Far, Far Range. Other slimes can detect them from much further away than a normal \
-    plort and will do everything in their means to get them. A rancher with honey slimes needs to be careful about \
-    unintended largos, or worse...
-m.plortonomics.honey_slime = Honey plorts are highly prized by food manufacturers. Though the plorts are naturally \
-    incredibly sweet, the discovery that they could be further refined into an even sweeter substance made their \
-    demand soar. These refined honey plorts are said to score an unprecedented 867 on the Werner-Thompkins-Hong \
-    sacchrino scale, just a few points shy of 'not fit for human consumption.'
+t.honey_slime = 蜜蜜史萊姆
+m.intro.honey_slime = 「沒有什麼東西能比（剛製成的）蜜蜜結晶還更甜了」
+m.diet.honey_slime = 水果
+m.favorite.honey_slime = 薄荷芒果
+m.slimeology.honey_slime = 蜜蜜史萊姆是由高甜度史萊姆細胞組合而成的奇異品種。大部分的 \
+    史萊姆學家認為是因為他們的細胞複製了在遙遠之地發現的水果和花蜜裡的糖分。 \
+    此外，大多的牧場主認同蜜蜜結晶和麥片是絕配。
+m.risks.honey_slime = 蜜蜜史萊姆最大的危險來自於他們的結晶。在遙遠之地裡，蜜蜜結晶是 \
+    最甜、最美味的結晶。相較於一般結晶，其他史萊姆們能遠遠的就發現蜜蜜結晶的香氣 \
+    並且為了得到它不擇手段。擁有蜜蜜史萊姆的牧場主應該留意不小心產生的 \
+    混種史萊姆，或者更糟的……
+m.plortonomics.honey_slime = 蜜蜜結晶十分受到食品製造商的喜愛。雖然些天然的蜜蜜結晶已經\
+    不可思議的甜了,但他們發現還能再精製成更甜的物質來滿足他們的需求。 \
+    這些被精製過的蜜蜜結晶在 “Werner-Thompkins-Hong” 上獲得空前絕後的867  \
+    甜度, 只因為「不適合人類攝取」而被扣了一點。
 
-t.hunter_slime = Hunter Slime
-m.intro.hunter_slime = Nevermind the rabbit, have you seen any chickens?
-m.diet.hunter_slime = Meat
-m.favorite.hunter_slime = Roostro
-m.slimeology.hunter_slime = The hunter slime is the wild cousin of the tabby slime. A much more capable creature than \
-    the playful tabbies, the hunter slime excels at stalking the chickens of the Far, Far Range.\n\
+t.hunter_slime = 獵手史萊姆
+m.intro.hunter_slime = 別管兔子了，怎麼都沒有看到雞？
+m.diet.hunter_slime = 肉類
+m.favorite.hunter_slime = 公雞
+m.slimeology.hunter_slime = 獵手史萊姆是斑貓史萊姆的表親。 但他們卻比調皮的斑貓史萊姆 \
+    有能力多了，他們尤其擅長於捕捉遙遠之地裡的公雞。 \n\
     \n\
-    A hunter slime's slimological makeup allows for a natural cloaking ability that renders it almost completely \
-    invisible. Their only tell is in their giant, almond eyes, which can often be seen hovering in the dark. This \
-    effect is often described by unsuspecting ranchers as 'aaaahhhhHHH!'
-m.risks.hunter_slime = A hunter slime has keen senses and can detect its prey from great distances. This makes \
-    finding a good location for their corrals challenging.\n\
+    獵手史萊姆的史萊姆偽裝術讓他們能幾乎完全隱蔽在大自然之中。 \
+    唯一能暴露蹤跡的就是他們那一雙掩蓋在黑夜裡的黃褐大眼。 這也使得 \
+    牧場主們經常出乎意料的「啊啊啊啊啊」大叫。
+m.risks.hunter_slime = 獵手史萊姆對於獵物的敏感度很高，能在遠處發現目標。 這使得 \
+    找到一個好飼養牠們的圍欄這件事具有挑戰性\n\
     \n\
-    Additionally, the wild nature of the hunter is also passed on to any largos formed form its plorts. A newly \
-    created hunter largo will always be feral! A prepared rancher knows that breeding hunter largos should always be \
-    done slowly, with a few chickens on hand to calm them down.
-m.plortonomics.hunter_slime = Amazingly, a serum can be made from hunter slime plorts that can actually render a person \
-    invisible! The effect only lasts for about a day, but this serum is nonetheless incredibly popular back on Earth \
-    as many people find its effects very soothing.\n\
+    除此之外，由獵手史萊姆組成的混種史萊姆會繼承到他的野蠻本性。 新產生的 \
+    獵手混種史萊姆總是會很兇狠！ 每個準備好的牧場主都知道獵手混種史萊姆的繁衍必須 \
+    慢慢來，帶點雞來餵使他們冷靜。
+m.plortonomics.hunter_slime = 令人驚訝的，從獵手結晶提煉出來的漿液能使人 \
+    隱形！ 雖然效果只能持續一天，但這些漿液在地球上仍是十分受歡迎， \
+    因為許多人發現它的效果能撫慰人心。\n\
     \n\
-    Sometimes you feel like you just want to disappear for a while. But then about a day goes by and you realize that \
-    not only did you miss being seen, but others missed seeing you too.
+    有時你想要消失一會兒，但約一天後你會體悟到 \
+    不僅僅只有你想要出現在眾人目光之前，也會有人想要見到你。
 
-t.puddle_slime = Puddle Slime
-m.intro.puddle_slime = Keep one in your boot and you'll always stay cool. But it's weird.
-m.diet.puddle_slime = Water
-m.favorite.puddle_slime = (none)
-m.slimeology.puddle_slime = Puddle slimes are a rare species of slime that live in fresh water pools found on the \
-    range. These slimes don't eat fruits, veggies, or meat like most other slimes. Instead, puddle slimes absorb water \
-    into their bodies while they sit on the surface of a pool.\n\
+t.puddle_slime = 水窪史萊姆
+m.intro.puddle_slime = 放一隻在你的鞋子裡能使你常保涼爽，縱然這有點奇怪。
+m.diet.puddle_slime = 水
+m.favorite.puddle_slime = （無）
+m.slimeology.puddle_slime = 在遙遠之地裡，水窪史萊姆是種非常稀有的品種，他們必須生存在 \
+    水池裡。他們不像其他史萊姆一樣吃肉、蔬菜或水果。取而代之，當水窪史萊姆在水池裡時 \
+    他們會將水分吸收進體內。\n\
     \n\
-    Puddle slimes need fresh water to survive and will quickly evaporate if left on any other surface for too long.
-m.risks.puddle_slime = Puddle slimes aren't risky to manage, they just require a fair bit of maintenance. A rancher \
-    needs a pool of fresh water, like a pond, available for a puddle slime to sit in as they will evaporate if away \
-    from water. Additionally, puddle plorts burst as soon as they touch anything but fresh water.\n\
+    水窪史萊姆需要新鮮的水，而且他們處在其他表面上時，會快速的揮發。
+m.risks.puddle_slime = 水窪史萊姆並不危險，只是在處理他們時必須多費點心力。牧場主 \
+    需要一些新鮮的水，像是池塘，來讓他們坐在其中以免快速揮發。 \
+    除此之外，當水窪結晶碰觸到水以外的表面時會迅速的破裂。\n\
     \n\
-    Finally, puddle slimes are exceptionally shy and will not produce plorts if they are in close proximity to more \
-    than 3 other slimes.\n\
+    最後，水窪史萊姆極度害羞，當他們靠近超過3個以上的史萊姆時，他們不會 \
+    產出任何結晶。\n\
     \n\
-    Overall, a puddle slime is a better fit for a more experienced rancher, not one still wet behind the ears.
-m.plortonomics.puddle_slime = Puddle plorts are made almost entirely from an incredible hydro compound known by \
-    chemists across the galaxy as H2Ohhhhh. This compound is used to create an absurdly expensive brand of bottled \
-    drinking water that is sought after by the elite back on Earth. While some people argue that there is little \
-    difference in taste between it and tap water, those people seriously are not getting it.
+    總而言之，水窪史萊姆適合較有經驗的牧場主，而不是一個「水」臭未乾的菜逼八。
+m.plortonomics.puddle_slime = 水窪結晶幾乎全是由一種銀河系科學家發現的神奇水化合物，淼， \
+    組合而成。「淼」通常用來製成極度昂貴的瓶裝水，用以 \
+    提供地球上的上層社會飲用。 雖然有些人認為「淼」和 \
+    自來水的味道沒什麼不同，那些人一定是沒有喝過它。
 
-t.crystal_slime = Crystal Slime
-m.intro.crystal_slime = It's as clear as shiny, transparent rocks that these slimes are dangerous.
-m.diet.crystal_slime = Veggies
-m.favorite.crystal_slime = Odd Onion
-m.slimeology.crystal_slime = Believed to be a cousin of the rock slime, the crystal slime is covered in a crown of \
-	shimmering, crystal spikes. These spikes seem to form from the crystal slime generating a tremendous amount of \
-	internal heat and warping the minerals around them; a truly alien behavior.
-m.risks.crystal_slime = The sharp crystals adorned on the crystal slime's crown will cause a great deal of harm if \
-	touched. Worse still, the crystal slime routinely creates large patches of hazardous crystals in the \
-	environment around them. Thought to be a means of expelling internal heat, these crystal patches are ultra-hot, \
-	and can be shattered if splashed with water.
-m.plortonomics.crystal_slime = Though the crystals prouduced by a crystal slime are highly unstable, a crystal plort, \
-	like all plorts, is far more pure and can be used by slime scientists to engineer a variety of metals that are \
-	completely transparent. This innovation has led to metropolitan areas on Earth completely transforming visually, \
-	allowing more light to reach the streets and the space as a whole a chance to 'breathe.' Architects often describe \
-	these transparent metals as 'so totally cooler than normal, boring metals.'
+t.crystal_slime = 水晶史萊姆
+m.intro.crystal_slime = 這些史萊姆的危險度和他那閃耀清澈的水晶一樣清楚。
+m.diet.crystal_slime = 蔬菜
+m.favorite.crystal_slime = 古怪洋蔥
+m.slimeology.crystal_slime = 他們普遍被認為是岩石史萊姆的近親，但水晶史萊姆頭上是戴著閃閃發光的 \
+	水晶尖刺。這些尖刺看起來是由發自水晶史萊姆體內的 \
+	大量熱氣使他們周遭的礦物變形而來的，這絕對是個徹底的外星人行為！
+m.risks.crystal_slime = 若碰到他們頭上尖銳的水晶頭冠，會造成大量的傷害。\
+	更糟的是，水晶史萊姆會經常在他們周遭產生出大量的水晶碎片。  \
+	這舉動通常被認為是為了驅趕體內的熱氣，這些水晶碎片極度高溫， \
+    當水晶碎片碰到水時會馬上碎裂。
+m.plortonomics.crystal_slime = 雖然游水晶史萊姆產出的水晶碎片極度不穩定，但水晶結晶 \
+	像其他結晶一樣，純度高了很多，且能夠讓史萊姆學家們用來製造各式各樣完全透明的 \
+	金屬。這個創新使得地球上的都市區能夠變得完全透明 \
+	，能讓更多光到達街道和太空，變得更加「透氣」。建築學家們常說 \
+    這些半透明金屬「比傳統無聊金屬更酷」。
 
 
 t.tarr_slime = The Tarr
@@ -313,7 +313,7 @@ m.plortonomics.lucky_slime = A lucky slime isn't known to produce plorts of any 
     an abnormal tabby slime: one whose color has faded as a result of ingesting so many coins. It is perhaps this very \
     change that also led to ceasing plort production.
 
-t.largo_slime = Largo Slimes
+t.largo_slime = 混種史萊姆
 m.intro.largo_slime = There's just more to love.
 m.diet.largo_slime = (source slime's diet)
 m.favorite.largo_slime = (source slime's favorite)
