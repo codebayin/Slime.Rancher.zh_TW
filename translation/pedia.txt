@@ -242,13 +242,13 @@ m.slimeology.crystal_slime = 他們普遍被認為是岩石史萊姆的近親，
 	大量熱氣使他們周遭的礦物變形而來的，這絕對是個徹底的外星人行為！
 m.risks.crystal_slime = 若碰到他們頭上尖銳的水晶頭冠，會造成大量的傷害。\
 	更糟的是，水晶史萊姆會經常在他們周遭產生出大量的水晶碎片。  \
-	environment around them. Thought to be a means of expelling internal heat, these crystal patches are ultra-hot, \
-	and can be shattered if splashed with water.
-m.plortonomics.crystal_slime = Though the crystals prouduced by a crystal slime are highly unstable, a crystal plort, \
-	like all plorts, is far more pure and can be used by slime scientists to engineer a variety of metals that are \
-	completely transparent. This innovation has led to metropolitan areas on Earth completely transforming visually, \
-	allowing more light to reach the streets and the space as a whole a chance to 'breathe.' Architects often describe \
-	these transparent metals as 'so totally cooler than normal, boring metals.'
+	這舉動通常被認為是為了驅趕體內的熱氣，這些水晶碎片極度高溫， \
+    當水晶碎片碰到水時會馬上碎裂。
+m.plortonomics.crystal_slime = 雖然游水晶史萊姆產出的水晶碎片極度不穩定，但水晶結晶 \
+	像其他結晶一樣，純度高了很多，且能夠讓史萊姆學家們用來製造各式各樣完全透明的 \
+	金屬。這個創新使得地球上的都市區能夠變得完全透明 \
+	，能讓更多光到達街道和太空，變得更加「透氣」。建築學家們常說 \
+    這些半透明金屬「比傳統無聊金屬更酷」。
 
 
 t.tarr_slime = The Tarr
