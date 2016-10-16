@@ -1,42 +1,42 @@
 # Translations for the various bits that are specific to Range Exchange offers
 
 # Rancher names
-m.rancher.thora = Thora West
-m.rancher.viktor = Viktor Humphries
-m.rancher.ogden = Ogden Ortiz
-m.rancher.mochi = Mochi Miles
-m.rancher.bob = BOb
+m.rancher.thora = 索拉．威斯特
+m.rancher.viktor = 維克特．漢弗萊斯
+m.rancher.ogden = 奧格登．歐提茲
+m.rancher.mochi = 摩琪．麥兒思
+m.rancher.bob = 鮑勃
 
 # Mission flavortext
-m.offer_1.thora = What're the odds the greenhorn beats y'all to this one?
-m.offer_2.thora = Don't suppose you also got a cup a sugar kicking around too?
-m.offer_3.thora = Up too late last night, need a few things.
-m.offer_4.thora = Best part of the range? You hear all those cars and people? Yeah, I don't either.
-m.offer_5.thora = You ever try to lasso a slime? Makes the whole vacpack thing pretty obvious.
-m.bonusoffer.thora = Drinks are on me if you can get me these things in a hurry!
+m.offer_1.thora = 真稀奇，菜鳥的手腳比其他人還快？
+m.offer_2.thora = 你該不會手邊也有一杯糖吧？
+m.offer_3.thora = 昨晚熬夜了，我需要這些東西。
+m.offer_4.thora = 遙遠之地最棒的部分？你有看見車輛和人群嗎？是啊，我都沒看過。
+m.offer_5.thora = 有試過用套索抓史萊姆嗎？用過就會知道吸取器是多麼好用。
+m.bonusoffer.thora = 喝的我來付，如果你能立刻弄到這些東西給我！
 
-m.offer_1.viktor = If possible, please acquire the following for a future study. My thanks.
-m.offer_2.viktor = Are rad slimes a natural evolution or result of exposure to foreign matter?
-m.offer_3.viktor = Have you ever seen a Django's Tiger? Of course not, you can only hear it. Pardon me, that was a joke.
-m.offer_4.viktor = If you listen very closely, you can hear a boom slime's cells vibrate. But don't listen for long.
-m.bonusoffer.viktor = I'm afraid that one of my studies has gone a bit, well, please just get me these things at once!
+m.offer_1.viktor = 如果可以，請找齊下列物品以支持我未來的研究。感謝您。
+m.offer_2.viktor = 輻射史萊姆是自然演化的，還是暴露在外來物質導致的？
+m.offer_3.viktor = 你有沒有看過姜戈虎？當然沒有，你只可能聽過。抱歉，這是個玩笑。
+m.offer_4.viktor = 如果靠得很近聽，你就能聽到爆炸史萊姆的細胞在震動。不過別聽太久喔。
+m.bonusoffer.viktor = 我擔心我的研究出了點問題，呃，總之請給我這些東西，盡快！
 
-m.offer_1.ogden = I'm working on a new recipe. Help me out?
-m.offer_2.ogden = Eating carrots help you see in the dark!
-m.offer_3.ogden = The best part of an orange is the peel. But the inside's pretty good too.
-m.offer_4.ogden = Sometimes I like to take a nap in the Moss Blanket. But those darn boom slimes always wake me up!
-m.offer_5.ogden = Ogden's Party Punch: 1 part pogofruit juice, 1 parts prickle pear juice, 2 parts starfire rum. Gets you dancing!
-m.bonusoffer.ogden = I'm in a real pickle here!
+m.offer_1.ogden = 我正在研究新食譜。是否幫個忙？
+m.offer_2.ogden = 吃胡蘿蔔有助你在黑暗中能看見東西！
+m.offer_3.ogden = 橘子最好的部分就是它的皮，但裡面的果肉也不錯。
+m.offer_4.ogden = 有時我喜歡在苔蘚地毯小睡一下，但那些該死的爆炸史萊姆總是吵醒我！
+m.offer_5.ogden = 奧格登的派對雞尾酒：1份波戈果汁，1份棘梨果汁，2份星火朗姆酒。盡情狂歡跳舞吧！
+m.bonusoffer.ogden = 我這裡真的有麻煩了！
 
-m.offer_1.mochi = I need these plorts post-haste, whatever that means.
-m.offer_2.mochi = The last thing I want to do is make you look bad. But it's still on the list.
-m.offer_3.mochi = I promise you this is a good deal, banana peel.
-m.offer_4.mochi = My ranching skills are gonna make you squirm, wiggle worm!
-m.offer_5.mochi = Let's make a trade, lemonade.
-m.bonusoffer.mochi = My toast is in a jam here! Help out a pal, yeah?
+m.offer_1.mochi = 我急需這些結晶，管你怎麼弄來。
+m.offer_2.mochi = 我最不想做的事就是讓你難堪。但我還在考慮中。
+m.offer_3.mochi = 我向你保證這是一筆「滑」算的交易，香蕉皮。
+m.offer_4.mochi = 我的畜牧技術會讓你蠕動不安的，蟲子！
+m.offer_5.mochi = 我們來場交易吧，小檸檬。
+m.bonusoffer.mochi = 我陷入困境了！伙計，幫個忙好嗎？
 
-m.offer_1.bob = cHickeN? chicckens.
-m.offer_2.bob = askjhsfdkjh!!
-m.offer_3.bob = hallOO. chikkEN. OKs?
-m.offer_4.bob = ok oKok OK, OK!!  chiCKEn ok?
-m.bonusoffer.bob = CHICKKENN! askjasdljhsdfjkhasdlasdlkajs!!!!!
+m.offer_1.bob = 雞？ㄐ雞ㄐ。
+m.offer_2.bob = ㄅㄆㄇㄈ！！
+m.offer_3.bob = 你ㄏㄠ。雞。好ㄇ？
+m.offer_4.bob = 好ㄏ好ㄠ，好！！雞，好ㄇ？
+m.bonusoffer.bob = 雞ㄐ！ㄓㄍㄋㄈㄉㄅㄓ！！！！！
