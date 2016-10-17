@@ -325,12 +325,12 @@ l.loading_prices = 載入市場價格中...
 l.daily_bonus = 每日獎勵！
 
 # Exchange
-t.range_exchange = 遙遠之地交易所
-t.special_exchange = 你好，碧翠絲！
+t.range_exchange = 遙遠交易所
+t.special_exchange = 妳好，碧翠絲！
 l.time_hours_mins = {0}:{1}
 l.time_hours_mins_unset = --:--
 l.exchange_progress = {0}/{1}
-l.no_offers_available = 遙遠之地交易所\n離線...
+l.no_offers_available = 遙遠交易所\n離線...
 l.request = 與我交易：
 l.receive = 你會獲得：
 l.exchange_directions = 將所需的物品射入機器以完成交易。
@@ -420,7 +420,7 @@ e.cannot_pickup_gadget = 此裝置不能撿取。
 m.loadingtip.0 = 營養充足的史萊姆就是快樂的史萊姆。
 m.loadingtip.1 = 不要背對雞。
 m.loadingtip.2 = 把混種史萊姆與粉紅史萊姆分開飼養：牠們什麼都吃！
-m.loadingtip.3 = 謠傳索拉和哈博森曾經相戀……直到他傷了她的心。
+m.loadingtip.3 = 謠傳索拉和哈博森曾經是對戀人……直到他傷了她的心。
 m.loadingtip.4 = 謠傳奧格登曾經是一家快餐連鎖集團的執行長。
 m.loadingtip.5 = 謠傳維克特發明了結晶克隆技術，然後摧毀了它。
 m.loadingtip.6 = 謠傳摩奇．麥兒思已經好幾年沒跟父親說話了。
