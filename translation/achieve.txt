@@ -1,116 +1,116 @@
 # Achievement translations
 
-t.sell_plorts_a = Plort Peddler
-m.reqmt.sell_plorts_a = Sell 100 plorts at the Plort Market
-t.sell_plorts_b = Transplorter
-m.reqmt.sell_plorts_b = Sell 500 plorts at the Plort Market
-t.sell_plorts_c = Plort Authority
-m.reqmt.sell_plorts_c = Sell 1,000 plorts at the Plort Market
-t.sell_plorts_d = Plort Powerhouse
-m.reqmt.sell_plorts_d = Sell 2,500 plorts at the Plort Market
-t.sell_plorts_e = Plort Tycoon
-m.reqmt.sell_plorts_e = Sell 5,000 plorts at the Plort Market
+t.sell_plorts_a = 結晶小販
+m.reqmt.sell_plorts_a = 在結晶市場售出100顆結晶
+t.sell_plorts_b = 結晶貨運
+m.reqmt.sell_plorts_b = 在結晶市場售出500顆結晶
+t.sell_plorts_c = 結晶盤商
+m.reqmt.sell_plorts_c = 在結晶市場售出1000顆結晶
+t.sell_plorts_d = 結晶集團
+m.reqmt.sell_plorts_d = 在結晶市場售出2500顆結晶
+t.sell_plorts_e = 結晶大亨
+m.reqmt.sell_plorts_e = 在結晶市場售出5000顆結晶
 
-t.feed_slimes_chickens = Buck Buck Bagu-
-m.reqmt.feed_slimes_chickens = Feed 100 chickens to slimes on the Ranch
+t.feed_slimes_chickens = 咯咯吧咕
+m.reqmt.feed_slimes_chickens = 在牧場給史萊姆餵食100隻雞
 
-t.fruit_tree_types = Fruit Cocktail
-m.reqmt.fruit_tree_types = Have 3 different fruit trees on the Ranch at the same time
-t.veggie_patch_types = Salad Bar
-m.reqmt.veggie_patch_types = Have 3 different veggie gardens on the Ranch at the same time
+t.fruit_tree_types = 水果雞尾酒
+m.reqmt.fruit_tree_types = 在牧場裡同時擁有3種不同的果樹
+t.veggie_patch_types = 沙拉吧
+m.reqmt.veggie_patch_types = 在牧場裡同時擁有3種不同的菜園
 
-t.earn_currency_a = Fortunate
-m.reqmt.earn_currency_a = Earn over 5,000 newbucks
-t.earn_currency_b = Well-Off Rancher
-m.reqmt.earn_currency_b = Earn over 25,000 newbucks
-t.earn_currency_c = Upper Crust
-m.reqmt.earn_currency_c = Earn over 100,000 newbucks
-t.day_currency = A Quick Newbuck
-m.reqmt.day_currency = Earn 5,000 newbucks in a single day
+t.earn_currency_a = 好運者
+m.reqmt.earn_currency_a = 賺超過5000元
+t.earn_currency_b = 小康牧場主
+m.reqmt.earn_currency_b = 賺超過25000元
+t.earn_currency_c = 上流人士
+m.reqmt.earn_currency_c = 賺超過100000元
+t.day_currency = 印鈔機
+m.reqmt.day_currency = 在一天內賺到5000元
 
-t.awake_until_morning = Up All Night
-m.reqmt.awake_until_morning = Stay awake from 6 AM to 6 AM the next day
+t.awake_until_morning = 通宵達旦
+m.reqmt.awake_until_morning = 從上午6點到隔日上午6點持續不睡覺
 
-t.knockout_morning = Not My Morning
-m.reqmt.knockout_morning = Be knocked out before 10 AM
+t.knockout_morning = 壞的開始
+m.reqmt.knockout_morning = 在上午10點之前被擊倒
 
-t.away_from_ranch = While You Were Away
-m.reqmt.away_from_ranch = Return to the Ranch after more than 24 hours
+t.away_from_ranch = 出門遠行
+m.reqmt.away_from_ranch = 離開超過24小時後再回到牧場
 
-t.feed_airborne = Catch!
-m.reqmt.feed_airborne = Shoot food into an airborne slime's mouth
+t.feed_airborne = 接住！
+m.reqmt.feed_airborne = 將食物射入在半空中的史萊姆的嘴
 
-t.pink_slimes_food_types = Omnivorous
-m.reqmt.pink_slimes_food_types = Feed pink slimes on the Ranch 10 different types of food
+t.pink_slimes_food_types = 雜食動物
+m.reqmt.pink_slimes_food_types = 在牧場給粉紅史萊姆餵食10種不同的食物
 
-t.feed_favorites = Tasty!
-m.reqmt.feed_favorites = Feed 50 slimes on the Ranch their favorite food
+t.feed_favorites = 美味！
+m.reqmt.feed_favorites = 在牧場給50隻史萊姆餵食牠們喜愛的食物
 
-t.discovered_quarry = Mine, All Mine
-m.reqmt.discovered_quarry = Discover the Indigo Quarry
-t.discovered_moss = On The Other Side
-m.reqmt.discovered_moss = Discover the Moss Blanket
-t.discovered_desert = Smoke, Fire, and Mirrors
-m.reqmt.discovered_desert = Discover the Glass Desert
+t.discovered_quarry = 全是我的礦坑
+m.reqmt.discovered_quarry = 發現靛青礦場
+t.discovered_moss = 遙遠的彼端
+m.reqmt.discovered_moss = 發現苔蘚之地
+t.discovered_desert = 煙、火、鏡
+m.reqmt.discovered_desert = 發現玻璃沙漠
 
-t.burst_gordo = Jelly Belly Burst
-m.reqmt.burst_gordo = Burst a gordo slime
-t.open_slime_gate = Open Says Me
-m.reqmt.open_slime_gate = Open a slime gate
+t.burst_gordo = 果凍炸裂
+m.reqmt.burst_gordo = 讓一隻胖胖史萊姆脹破
+t.open_slime_gate = 芝麻開門
+m.reqmt.open_slime_gate = 開啟一扇史萊姆大門
 
-t.incinerate_elder_chicken = Carousel
-m.reqmt.incinerate_elder_chicken = Incinerate an elder chicken
+t.incinerate_elder_chicken = 旋轉木馬
+m.reqmt.incinerate_elder_chicken = 燒死一隻老雞
 
-t.incinerate_chick = You... Monster!
-m.reqmt.incinerate_chick = Send an adorable chick to a fiery end, the same place you're now destined to go
+t.incinerate_chick = 禽獸不如！
+m.reqmt.incinerate_chick = 送一隻可愛的小雞去焚化爐，反正遲早也要去的
 
-t.filled_silo = Burstin' at the Seams
-m.reqmt.filled_silo = Completely fill a fully-upgraded silo
+t.filled_silo = 水洩不通
+m.reqmt.filled_silo = 塞滿一個完全升級的筒倉
 
-t.ranch_upgraded_storage = Fully Loaded
-m.reqmt.ranch_upgraded_storage = Have a maximally upgraded corral, coop, and silo on the Ranch
+t.ranch_upgraded_storage = 全副武裝
+m.reqmt.ranch_upgraded_storage = 在牧場裡擁有一個完全升級的圍欄、雞舍和筒倉
 
-t.fulfill_exchange_early = Hasty Exchange
-m.reqmt.fulfill_exchange_early = Fulfill a Range Exchange request between Noon and 2 PM
+t.fulfill_exchange_early = 倉促交易
+m.reqmt.fulfill_exchange_early = 完成一場中午到下午2點之間的遙遠交易所的請託
 
-t.day_collect_plorts = Free Rangin'
-m.reqmt.day_collect_plorts = Collect 50 plorts on the Range in a single day
+t.day_collect_plorts = 放牧
+m.reqmt.day_collect_plorts = 在一天內從野外收集50顆結晶
 
-t.gold_slime_triple_plort = Hat Trick
-m.reqmt.gold_slime_triple_plort = Obtain at least 3 gold plorts from a single gold slime
+t.gold_slime_triple_plort = 帽子戲法
+m.reqmt.gold_slime_triple_plort = 從單隻黃金史萊姆身上獲得至少3顆黃金結晶
 
-t.extended_rad_exposure = That Only Works in Comic Books
-m.reqmt.extended_rad_exposure = Stand inside a rad aura for at least 15 seconds
+t.extended_rad_exposure = 這只在漫畫裡管用
+m.reqmt.extended_rad_exposure = 站在輻射區內至少15秒
 
-t.extended_tarr_hold = Once Bitten, Twice... Bitten
-m.reqmt.extended_tarr_hold = Hold onto a tarr for 15 seconds
+t.extended_tarr_hold = 一朝被咬，一生被咬
+m.reqmt.extended_tarr_hold = 抓住一隻焦油史萊姆15秒
 
-t.tabby_headbutt = Boop!
-m.reqmt.tabby_headbutt = Let a tabby slime headbutt you right on the nose
+t.tabby_headbutt = 砰！
+m.reqmt.tabby_headbutt = 讓一隻斑貓史萊姆用頭槌正中你的鼻子
 
-t.launched_boom_explode = Fireworks
-m.reqmt.launched_boom_explode = Shoot a boom slime largo into the air that explodes before landing
+t.launched_boom_explode = 煙火大會
+m.reqmt.launched_boom_explode = 將一隻混種的爆炸史萊姆射向空中並讓牠在落地前爆炸
 
-t.many_slimes_in_vac = Controlling the Chaos
-m.reqmt.many_slimes_in_vac = Constrain more than 15 slimes in your vac stream at once while on the range
+t.many_slimes_in_vac = 控制混亂
+m.reqmt.many_slimes_in_vac = 在野外時一口氣將15隻以上的史萊姆吸入吸取器中
 
-t.corral_slime_types = Six Pack
-m.reqmt.corral_slime_types = Have at least 6 different types of slimes in the same corral
-t.corral_largo_types = Risky Business
-m.reqmt.corral_largo_types = Have at least 3 different types of largos in the same corral
-t.pond_slime_types = Pool Party
-m.reqmt.pond_slime_types = Fill a pond on your ranch with at least 5 different types of slimes
-t.ranch_largo_types = Diversification
-m.reqmt.ranch_largo_types = Have at least 10 types of largos on the Ranch
+t.corral_slime_types = 半打裝
+m.reqmt.corral_slime_types = 在同一個圍欄裡擁有至少6種不同的史萊姆
+t.corral_largo_types = 風險事業
+m.reqmt.corral_largo_types = 在同一個圍欄裡擁有至少3種不同的混種史萊姆
+t.pond_slime_types = 泳池派對
+m.reqmt.pond_slime_types = 在牧場的池塘裡放入至少5種不同的史萊姆
+t.ranch_largo_types = 多元化
+m.reqmt.ranch_largo_types = 在牧場裡擁有至少10種混種史萊姆
 
-t.entered_corral_slimes = Ball Pit
-m.reqmt.entered_corral_slimes = Jump into a corral containing at least 40 slimes
+t.entered_corral_slimes = 球池
+m.reqmt.entered_corral_slimes = 跳入一個至少裝有40隻史萊姆的圍欄
 
-t.time_limit_currency_a = 5-Day Challenger
-m.reqmt.time_limit_currency_a = Reach at least 10,000 newbucks at the end of a 5-Day Rush
+t.time_limit_currency_a = 五日挑戰者
+m.reqmt.time_limit_currency_a = 在五日挑戰模式結束時賺取至少10000元
 
-t.time_limit_currency_b = 5-Day Champion
-m.reqmt.time_limit_currency_b = Reach at least 25,000 newbucks at the end of a 5-Day Rush
+t.time_limit_currency_b = 五日冠軍
+m.reqmt.time_limit_currency_b = 在五日挑戰模式結束時賺取至少25000元
 
-t.time_limit_currency_c = 5-Day Plortmaster
-m.reqmt.time_limit_currency_c = Reach at least 50,000 newbucks at the end of a 5-Day Rush
+t.time_limit_currency_c = 五日結晶大師
+m.reqmt.time_limit_currency_c = 在五日挑戰模式結束時賺取至少50000元
