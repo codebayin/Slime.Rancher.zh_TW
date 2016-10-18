@@ -114,7 +114,7 @@ m.plortonomics.rock_slime = 岩石結晶被稱為生產「藍金屬」的重要�
     的關鍵元素。
 
 t.tabby_slime = 斑貓史萊姆
-m.intro.tabby_slime = 斑紋、尾巴、搖搖搖
+m.intro.tabby_slime = 斑紋、尾巴、扭扭扭。
 m.diet.tabby_slime = 肉類
 m.favorite.tabby_slime = 岩地母雞
 m.slimeology.tabby_slime = 十分奇妙地，斑貓史萊姆和地球上被馴養的家貓有許多相似處，像是 \
@@ -173,7 +173,7 @@ m.plortonomics.boom_slime = 具有高度揮發性的砰砰結晶有著各式各�
     其他研究具有高度破壞性」，想像一下砰砰結晶的威力到底有多大吧！
 
 t.honey_slime = 蜜蜜史萊姆
-m.intro.honey_slime = 「沒有什麼東西能比（剛製成的）蜜蜜結晶還更甜了」
+m.intro.honey_slime = 「沒有什麼東西能比（剛製成的）蜜蜜結晶還更甜了。」
 m.diet.honey_slime = 水果
 m.favorite.honey_slime = 薄荷芒果
 m.slimeology.honey_slime = 蜜蜜史萊姆是由高甜度史萊姆細胞組合而成的奇異品種。大部分的 \
@@ -189,7 +189,7 @@ m.plortonomics.honey_slime = 蜜蜜結晶十分受到食品製造商的喜愛。
     甜度, 只因為「不適合人類攝取」而被扣了一點。
 
 t.hunter_slime = 獵手史萊姆
-m.intro.hunter_slime = 別管兔子了，怎麼都沒有看到雞？
+m.intro.hunter_slime = 別提兔子了，怎麼都沒有看到雞？
 m.diet.hunter_slime = 肉類
 m.favorite.hunter_slime = 公雞
 m.slimeology.hunter_slime = 獵手史萊姆是斑貓史萊姆的表親。 但他們卻比調皮的斑貓史萊姆 \
@@ -251,117 +251,117 @@ m.plortonomics.crystal_slime = 雖然游水晶史萊姆產出的水晶碎片極�
     這些半透明金屬「比傳統無聊金屬更酷」。
 
 
-t.tarr_slime = The Tarr
-m.intro.tarr_slime = Those awful, ravenous, rainbows.
-m.diet.tarr_slime = Slimes
-m.favorite.tarr_slime = Ranchers!
-m.slimeology.tarr_slime = The tarr are formed when a largo eats a plort unlike the ones it produces. A terrible \
-    transformation occurs that turns the slime into a sludge filled with a swirling, prismatic array of colors and a \
-    relentless appetite. The tarr seek only to consume and replicate.\n\
+t.tarr_slime = 焦油史萊姆
+m.intro.tarr_slime = 嚇人的、餓極的、彩－虹－。
+m.diet.tarr_slime = 史萊姆
+m.favorite.tarr_slime = 牧場主！
+m.slimeology.tarr_slime = 當混種史萊姆吃了不屬於他們來源的結晶便會成了焦油史萊姆，這會產生一個糟透的\
+    轉換，將史萊姆變成一團混有七彩旋紋的爛泥，並使得他們食無止盡。 \
+    焦油史萊姆會不斷的找尋目標，覓食，並再複製。 \n\
     \n\
-    The only way to stop a tarr outside of incinerating it or throwing it into the slime sea is with fresh water. One \
-    splash will stop a tarr from spawning new tarr, and repeated splashes will destroy it entirely.\n\
+    只有將焦油史萊姆燒掉，或將他們丟進史萊姆之海才能阻止他們。水花\
+    能阻止他們再生，而持續不斷的水能完全摧毀他們。 \n\
     \n\
-    Alternatively many ranchers recommend running away with their arms waving, and screaming.
-m.risks.tarr_slime = The tarr are the single biggest threat to ranchers. The tarr will seek out slimes to consume \
-    and replicate themselves, but will also devour chickens, rot crops in their proximity, and even devour ranchers! \n\
+    但取而代之的，許多牧場主們推薦你高舉雙臂，一邊尖叫，一邊逃離。
+m.risks.tarr_slime = 若以單一個體來論，焦油史萊姆對牧場主而言是最大的威脅。焦油史萊姆會吃掉其他史萊姆 \
+    並再產生更多焦油史萊姆，，不僅僅如此，他們還會把在他們附近的雞、腐爛掉的蔬果、甚至牧場主通通吞噬殆盡 \n\
     \n\
-    Remember: ranching largos may be highly profitable, but one stray plort and you could wind up with a devastating \
-    tarr outbreak.
-m.plortonomics.tarr_slime = The tarr produce no plorts, only more tarr. And then more tarr still.
+    切記：餵養史萊姆的確獲利良多，但只要一個細節出了差錯，不小心餵了錯的史萊姆，就會召出破壞性極大的 \
+    焦油史萊姆。
+m.plortonomics.tarr_slime = 焦油史萊姆不會產出結晶，只有更多焦油史萊姆，還有焦油史萊姆。
 
-t.gold_slime = Gold Slime
-m.intro.gold_slime = Get rich or die sliming.
-m.diet.gold_slime = Exclusive
-m.favorite.gold_slime = (none)
-m.slimeology.gold_slime = The most elusive and sought after of all slime species is easily the gold slime. Very little \
-    is known about these slippery creatures as they have proven impossible to capture. Gold slimes are quick as a flash \
-    and will immediately begin to flee ranchers on sight. If a rancher is to profit from an encounter with a gold slime, \
-    they need to think quick.
-m.risks.gold_slime = Gold slimes produce no direct risks to a rancher but their appearance often induces panic and \
-    leads to (sometimes fatal) mistakes. Further, the only way to obtain gold plorts is to strike a gold slime with \
-    any spare resources in your vac. Doing so can produce a gold plort, though it also leaves a trail of additional \
-    resources in the area, leading to unintended largos, or worse.
-m.plortonomics.gold_slime = Gold plorts have little practical use and are the most valuable of all plorts simply \
-    because they are shiny and rare. Back on Earth, the elite love to adorn themselves in jewelry made of gold plorts, \
-    far exceeding the value of any terrestrial precious metal. For this reason a rancher should never pass up the \
-    chance to get a gold plort or two from a chance encounter with a gold slime.
+t.gold_slime = 黃金史萊姆
+m.intro.gold_slime = 成為富翁或像個史萊姆般地死去。
+m.diet.gold_slime = 全部
+m.favorite.gold_slime = （無）
+m.slimeology.gold_slime = 在所有史萊姆中最難以理解和尋找的必當是黃金史萊姆了。 我們對這不明確的生物 \
+    僅知道它已經被證明不可能被捕獲。 黃金史萊姆像光一樣一閃即逝 \
+    ，並且當他們出現在牧場主的視野裡，黃金史萊姆會馬上逃離。如果牧場主想從巧遇到的黃金史萊姆上賺點錢的話 \
+    他得反應快點。
+m.risks.gold_slime = 黃金史萊姆並不會對牧場主產生直接地危險，不過當他們出現之時，通常會引起一陣慌亂 \
+    並導致（某些致命的）錯誤。 除此之外，要獲得黃金結晶唯一的辦法便是 \
+    用你吸取器中的任何東西擊中他。 如此做才能得到黃金結晶，雖然這樣可能會讓這區域多一條吸取器中 \
+    某資源的軌跡 ，造成非刻意混種史萊姆的產生，或是更糟。
+m.plortonomics.gold_slime = 黃金結晶沒有什麼實際上的應用，但還是所有結晶中最貴的 \
+    只因他們那閃亮的光澤和稀有。 回到地球，上流社會們喜愛用黃金結晶製成的珠寶打扮， \
+    其喜好程度遠超過於地球上所有貴金屬。因此，牧場主們絕對不應該錯過 \
+    遇到黃金史萊姆時拿到一或二個黃金結晶的機會。
 
-t.lucky_slime = Lucky Slime
-m.intro.lucky_slime = Oooh, shiny!
-m.diet.lucky_slime = Meat
-m.favorite.lucky_slime = (none)
-m.slimeology.lucky_slime = Lucky slimes are a strange variant of tabby slimes that seem to have a fascination with \
-    shiny objects, particularly newbuck coins. A lucky slime gobbles up any coin it can find, giving it a distinct \
-    jingling sound as they move about.\n\
+t.lucky_slime = 幸運史萊姆
+m.intro.lucky_slime = 噢！閃亮亮的！
+m.diet.lucky_slime = 肉類
+m.favorite.lucky_slime = （肉類）
+m.slimeology.lucky_slime = 幸運史萊姆是一種特別的斑貓史萊姆，他們特愛閃亮亮的東西 \
+    ，尤其是紐鎊。幸運史萊姆會吞下任何他們找到的硬幣，這也使得他們移動時 \
+    會發出獨特的叮噹聲。 \n\
     \n\
-    However, coins don't make for a balanced diet and a lucky slime will still greedily devour meat of any kind. In \
-    so doing, its body bursts with a shower of newbucks, having little room left in its slimy tummy. This burst often \
-    sends the lucky slime flying into the air.\n\
+    但是，硬幣並不能提供足夠的養份，所以幸運史萊姆會貪婪的吞下任何他們所看到的肉。 但這樣做， \
+    會讓他的史萊姆胃幾乎沒有空間，因而爆發出一陣紐鎊雨。這樣的爆炸 \
+    通常會將幸運史萊姆爆到空中。 \n\
     \n\
-    Upon detecting a rancher, the lucky slime will soon make a hasty retreat. No known rancher has ever been skillful \
-    enough, or perhaps lucky enough, to capture one of these slippery slimes.
-m.risks.lucky_slime = Lucky slimes pose the same risk to ranchers as other rare slimes: mainly, accidents in their \
-    pursuit that can lead to a rancher's demise. The promise of a small fortune when encountering a lucky slime has \
-    led more than a few ranchers head-first into the slime sea.\n\
+    只要一看到牧場主，幸運史萊姆便會匆忙地逃跑。目前沒有任何一個已知的牧場主足夠熟練 \
+    ，或者是說夠幸運，抓到這些機敏的小東西。
+m.risks.lucky_slime = 幸運史萊姆和其他稀有史萊姆一樣：主要的危險來自於追求他們的過程， \
+    甚至有可能造成牧場主的死亡。撞見幸運史萊姆時，甚至有些牧場主會為了財富 \
+    而一頭掉進史萊姆之海裡。\n\
     \n\
-    This occurence has led some of the more superstitious ranchers to see the lucky slime as a bad omen, or perhaps as \
-    the universe testing their greed. These ranchers will ignore lucky slimes altogether, even purposefully shooing \
-    them away. Well, until you hear those newbucks jingling, and then, maybe just one shot couldn't hurt...
-m.plortonomics.lucky_slime = A lucky slime isn't known to produce plorts of any kind. Leading slime scientists believe \
-    this to be the result of the lucky slime not being a true slime variant. Rather, lucky slimes are believed to be just \
-    an abnormal tabby slime: one whose color has faded as a result of ingesting so many coins. It is perhaps this very \
-    change that also led to ceasing plort production.
+    種種徵兆讓某些較迷信的牧場主們將幸運史萊姆視為凶兆，或者是說上天在考驗他們是否貪心。\
+    這些牧場主們會忽略幸運史萊姆，甚至將幸運史萊姆射離。 \
+    無論如何，當你聽見那獨特的紐鎊叮噹聲時，也許，試一次不會受傷吧……
+m.plortonomics.lucky_slime = 幸運史萊姆目前已知是不會產生任何結晶的。 這讓史萊姆學家們 \
+    認為幸運史萊姆並非真正的史萊姆品種，而是異常的斑貓史萊姆： \
+    因攝入過多硬幣而使得顏色褪去。也許是因為這奇特的變化 \
+    而使得他們無法產出結晶。
 
 t.largo_slime = 混種史萊姆
-m.intro.largo_slime = There's just more to love.
-m.diet.largo_slime = (source slime's diet)
-m.favorite.largo_slime = (source slime's favorite)
-m.slimeology.largo_slime = Largo slimes are a hybrid of two slimes resulting from a slime eating a plort unlike its own. \
-	They are twice as big as normal slimes and have a combined diet of their two source slimes, making them enticing for \
-	ranchers that want to maximize their profits. \n\
+m.intro.largo_slime = 這裡還有更可愛的。
+m.diet.largo_slime = （來源史萊姆的食物）
+m.favorite.largo_slime = （來源史萊姆的最愛）
+m.slimeology.largo_slime = 混種史萊姆是兩種史萊姆的混合，來自史萊姆吃了不屬於該種的結晶。\
+	他們是一般史萊姆的兩倍大，並且兩種來源史萊姆的食物都吃，這對於那些 \
+	想最大化利益的牧場主們是十分有吸引力的。 \n\
 	\n\
-	However, a largo is too big to vac and can only be transported using the end of the vac nozzle. This makes \
-	them difficult to control if things get out of hand.
-m.risks.largo_slime = In addition to largos being more difficult to manage and having the combined powers of two \
-	slimes, an even greater threat to ranchers lies within these super-sized slimes. If a largo eats a plort \
-	unlike its two source slimes, it will transform into a ravenous tarr slime! \n\
+	但是，混種史萊姆實在太大了，這使得牧場主只能透過吸收管的末端來移動他們。當混種史萊姆逃出掌控時，  \
+            控制他們會成為件麻煩事。
+m.risks.largo_slime = 除了難管理和必須結合兩種史萊姆之外，對於牧場主而言更大的危險藏在這些超大的史萊姆裡。 \
+	如果混種史萊姆吃了他們來源史萊姆之外的結晶的話，\
+            他會轉換成貪婪的焦油史萊姆 \n\
 	\n\
-	Ranchers need to be very careful when dealing with largos or risk an outbreak of tarr that can quickly overtake \
-	their entire ranch. Always carry a full tank of water just in case!
-m.plortonomics.largo_slime = When a largo eats, it produces plorts of both source slime types, making them potentially \
-	very lucrative for ranchers that can deal with the added risk of keeping them.
+	在處理混種史萊姆時，牧場主必須十分小心，否則一旦生成焦油史萊姆，整個牧場可能一轉眼間便被攻佔。 \
+            永遠帶著滿滿一槽的水以防萬一。
+m.plortonomics.largo_slime = 當混種史萊姆進食時，他會產出兩種來源史萊姆的結晶，這使得牧場主們 \
+            肯為了這豐沛的獲利而頂著風險。
 
-t.gordo_slime = Gordo Slimes
-m.intro.gordo_slime = Bon appetit!
-m.diet.gordo_slime = (source slime's diet)
-m.favorite.gordo_slime = (source slime's favorite)
-m.slimeology.gordo_slime = Gordo slimes are a rare phenomenon that occurs when multiple slimes of the same type \
-	congregate. The result is that the slimes seem to merge together into a much larger slime that is seemingly \
-	incapable of movement. \n\
+t.gordo_slime = 胖胖史萊姆
+m.intro.gordo_slime = 請慢用！
+m.diet.gordo_slime = （來源史萊姆的食物）
+m.favorite.gordo_slime = （來源史萊姆的最愛）
+m.slimeology.gordo_slime = 胖胖史萊姆是個稀有的現象，當許多同種的史萊姆聚合在一起便會產生。 \
+	這使史萊姆們融合在一塊，成了超大史萊姆， \
+	但看起來不大能移動。 \n\
 	\n\
-	A gordo will eat until it bursts, causing all the slimes to separate once more, as well as revealing whatever \
-	object it was that caused the gordo to form in the first place.
-m.risks.gordo_slime = Gordos pose no real risk to ranchers, they can only sometimes be a nuisance in that they \
-	are hiding something a rancher might need. So if you see a gordo, feed it!
-m.plortonomics.gordo_slime = Gordos produce no plorts on their own, however the slimes they produce after \
-	bursting do like any normal slime.
+	胖胖史萊姆會一直吃直到他爆炸為止，之後會分裂回當初原先的小史萊姆，這也揭露了 \
+            胖胖史萊姆最開始的型態。
+m.risks.gordo_slime = 胖胖史萊姆對牧場主而言沒有任何危險，不過他們也許會有點討厭， \
+	或許它們藏了某些牧場主需要的東西，所以，當你看見胖胖史萊姆，餵牠就對了！
+m.plortonomics.gordo_slime = 胖胖史萊姆並不會產出結晶，不過爆炸後的小史萊姆 \ 
+            就會像一般史萊姆一樣產出結晶了。
 
-t.feral_slime = Feral Slimes
-m.intro.feral_slime = It's hard to be nice on an empty stomach.
-m.diet.feral_slime = (source slime's diet)
-m.favorite.feral_slime = (source slime's favorite)
-m.slimeology.feral_slime = Feral slimes are largos with a mean streak that will attack a rancher on sight. \
-	It's not known what exactly causes a largo to become so grumpy that it goes feral, but it's suspected \
-	that they've simply gone too long without a bite to eat. Like so many things with slimes, food is everything. \n\
+t.feral_slime = 凶狠史萊姆
+m.intro.feral_slime = 當胃是空的時候實在很難對人和善。
+m.diet.feral_slime =（來源史萊姆的食物）
+m.favorite.feral_slime = （來源史萊姆的最愛）
+m.slimeology.feral_slime = 凶狠史萊姆是有著明顯條紋的混種史萊姆，他們會攻擊是野內的牧場主。 \
+	目前還不知道確切的原因使來混種史萊姆變得如此兇蠻，但可以猜測僅是因為 \
+	他們太久沒進食了。像其他史萊姆一樣，以食為天。 \n\
 	\n\
-	If a feral slime eats, it will revert to a normal largo.
-m.risks.feral_slime = Feral slimes can pose a serious risk to ranchers if they're not dealt with quickly, or \
-	avoided altogether. Feral slimes will attempt to bite ranchers at close range or jump in the air and try \
-	to stomp them with their... butts? In any case, a rancher needs to act fast and feed the feral slime something \
-	tasty to avoid such troubles.
-m.plortonomics.feral_slime = Feeding a feral slime not only calms it down, but it also produces plorts in the same \
-	manner as a largo. Though, there are certainly easier ways out there to acquire plorts!
+	凶狠史萊姆吃了東西便會回到原本的混種史萊姆。
+m.risks.feral_slime = 當牧場主沒有快速的處理或避開凶狠史萊姆，有可能會造成頗大的危害。 \
+	凶狠史萊姆在近距離時會試圖咬牧場主，或者是跳到空中試圖用 \
+	他們的…屁股？來踐踏牧場主。無論如何，牧場主應快速反應並餵給凶狠史萊姆些好吃的 \
+            來避免扯進這些麻煩事。
+m.plortonomics.feral_slime = 餵食凶狠史萊姆不己僅能使他們冷靜，他們也會像混種史萊姆一樣  \
+            產出結晶。儘管如此，這也不失為一個容易獲得結晶的管道。
 
 # Resources
 t.carrot = Carrot
