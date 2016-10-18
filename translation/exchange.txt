@@ -4,7 +4,7 @@
 m.rancher.thora = 索拉．威斯特
 m.rancher.viktor = 維克特．漢弗萊斯
 m.rancher.ogden = 奧格登．歐提茲
-m.rancher.mochi = 摩琪．麥兒思
+m.rancher.mochi = 摩琪．麥爾斯
 m.rancher.bob = 鮑勃
 
 # Mission flavortext

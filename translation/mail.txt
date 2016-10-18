@@ -1,112 +1,110 @@
 # Contents of starmail in the game.
 
-m.subj.welcome = Welcome to the Far, Far Range
-m.from.welcome = The 7Zee Corporation
-m.body.welcome = Ms LeBeaux, \n\n\
-	The 7Zee Corporation would like to welcome you to the Far, Far Range and extend our support in your \
-	bold new venture as a slime rancher. We look forward to you supplying us with a steady flow of plorts for which \
-	we will pay handsomely. \n\n\
-	We would also like to request that you exercise caution in your first few days on the range. Until you get more \
-	familiar with your surroundings, traveling at night is not advisable. \n\n\
-	Lastly, should you require any additional tools for your vacpack the 7Zee Corporation would be pleased to provide \
-	them to you from the shop located just outside your ranch house. \n\n\
-	Good luck to you, Ms LeBeaux. \n\
-	- The 7Zee Corporation
+m.subj.welcome = 歡迎來到遙遠之地
+m.from.welcome = 7Zee股份有限公司
+m.body.welcome = 樂博絲女士，\n\n\
+	7Zee股份有限公司歡迎您來到遙遠之地，我們將會在您作為史萊姆牧場主的大膽新冒險生涯上提供協助。\
+	期待您供應我們源源不絕的結晶，我們將會以可觀的報酬收購。\n\n\
+	我們同時也要請您在初次來到遙遠之地的幾日內格外小心。在您熟悉周圍的環境之前，\
+	最好不要在夜晚外出探險。\n\n\
+	最後，如果您需要為吸取器進行任何升級，7Zee股份有限公司很樂意為您提供升級配件，\
+	商店就位於您牧場小屋的門外。\n\n\
+	祝您好運，樂博絲女士。\n\
+	- 7Zee股份有限公司
 
 ### Upgrade emails
-m.subj.upgrade_jetpack_efficiency = Air Drive Available
-m.from.upgrade_jetpack_efficiency = The 7Zee Corporation
-m.body.upgrade_jetpack_efficiency = This item is now available in the upgrade shop.
+m.subj.upgrade_jetpack_efficiency = 空氣驅動器發售中
+m.from.upgrade_jetpack_efficiency = 7Zee股份有限公司
+m.body.upgrade_jetpack_efficiency = 本商品已於升級商店上架。
 
-m.subj.upgrade_health_2 = Heart Module Mk II Available
-m.from.upgrade_health_2 = The 7Zee Corporation
-m.body.upgrade_health_2 = This item is now available in the upgrade shop.
+m.subj.upgrade_health_2 = 心臟模組II型發售中
+m.from.upgrade_health_2 = 7Zee股份有限公司
+m.body.upgrade_health_2 = 本商品已於升級商店上架。
 
-m.subj.upgrade_health_3 = Heart Module Mk III Available
-m.from.upgrade_health_3 = The 7Zee Corporation
-m.body.upgrade_health_3 = This item is now available in the upgrade shop.
+m.subj.upgrade_health_3 = 心臟模組III型發售中
+m.from.upgrade_health_3 = 7Zee股份有限公司
+m.body.upgrade_health_3 = 本商品已於升級商店上架。
 
-m.subj.upgrade_energy_2 = Power Core Mk II Available
-m.from.upgrade_energy_2 = The 7Zee Corporation
-m.body.upgrade_energy_2 = This item is now available in the upgrade shop.
+m.subj.upgrade_energy_2 = 能量核心II型發售中
+m.from.upgrade_energy_2 = 7Zee股份有限公司
+m.body.upgrade_energy_2 = 本商品已於升級商店上架。
 
-m.subj.upgrade_energy_3 = Power Core Mk III Available
-m.from.upgrade_energy_3 = The 7Zee Corporation
-m.body.upgrade_energy_3 = This item is now available in the upgrade shop.
+m.subj.upgrade_energy_3 = 能量核心III型發售中
+m.from.upgrade_energy_3 = 7Zee股份有限公司
+m.body.upgrade_energy_3 = 本商品已於升級商店上架。
 
-m.subj.upgrade_ammo_2 = Tank Booster Mk II Available
-m.from.upgrade_ammo_2 = The 7Zee Corporation
-m.body.upgrade_ammo_2 = This item is now available in the upgrade shop.
+m.subj.upgrade_ammo_2 = 儲槽增壓器II型發售中
+m.from.upgrade_ammo_2 = 7Zee股份有限公司
+m.body.upgrade_ammo_2 = 本商品已於升級商店上架。
 
-m.subj.upgrade_ammo_3 = Tank Booster Mk III Available
-m.from.upgrade_ammo_3 = The 7Zee Corporation
-m.body.upgrade_ammo_3 = This item is now available in the upgrade shop.
+m.subj.upgrade_ammo_3 = 儲槽增壓器III型發售中
+m.from.upgrade_ammo_3 = 7Zee股份有限公司
+m.body.upgrade_ammo_3 = 本商品已於升級商店上架。
 
-m.subj.upgrade_run_efficiency = Dash Boots Available
-m.from.upgrade_run_efficiency = The 7Zee Corporation
-m.body.upgrade_run_efficiency = This item is now available in the upgrade shop.
+m.subj.upgrade_run_efficiency = 衝刺靴發售中
+m.from.upgrade_run_efficiency = 7Zee股份有限公司
+m.body.upgrade_run_efficiency = 本商品已於升級商店上架。
 
-m.subj.upgrade_air_burst = Pulse Wave Available
-m.from.upgrade_air_burst = The 7Zee Corporation
-m.body.upgrade_air_burst = This item is now available in the upgrade shop.
+m.subj.upgrade_air_burst = 脈衝波發售中
+m.from.upgrade_air_burst = 7Zee股份有限公司
+m.body.upgrade_air_burst = 本商品已於升級商店上架。
 
 
 
 ### Exchange Intro mails
-m.subj.exchangeintro_thora = Welcome to the Range Exchange!
-m.from.exchangeintro_thora = Thora West
-m.body.exchangeintro_thora = Hi there, Beatrix! The name's Thora West. I'll keep my introduction short on account that we all got work to do: I'm a long-time rancher here on the Far, Far Range and head of the welcome wagon for your local Range Exchange.\n\n\
-  The Range Exchange is a network of ranchers just like yourself who are looking to trade what they got for what they need: slimes, plorts, food- whatever. All you need to do is check out the Range Exchange machine daily and be sure to get your trade completed by noon.\n\n\
-  As more ranchers get added to your network, you should receive a hearty hello from them so check your inbox.\n\n\
-  Well, enough jawin,' we've both got slimes to wrangle.\n\n\
-  Adios, Beatrix.\n\n\
-  - Thora\n\n\n\n\
-  P.S. - Since ol' Hobson's Range Exchange link went dead years ago, I assumed he broke the dang thing like everything else on that ranch. I'll bet you have your hands full. In any case I arranged for another to be shipped to you, free of charge. Should have arrived last night, so check it out!
+m.subj.exchangeintro_thora = 歡迎來到遙遠交易所！
+m.from.exchangeintro_thora = 索拉．威斯特
+m.body.exchangeintro_thora = 妳好，碧翠絲！我叫索拉．威斯特。由於我們還有工作要忙，我就簡短自我介紹一下：我是遙遠之地的資深牧場主，同時也是妳在本地遙遠交易所的迎新代表。\n\n\
+  遙遠交易所是一種由像妳這樣的牧場主組成的交易網路，可以用手中的物品交換需要的物品：史萊姆、結晶、食物……任何物品皆可。妳只要每天檢查遙遠交易所的機器並確保在中午前完成交易即可。\n\n\
+  當越多的牧場主與妳建立聯繫，妳應該就會收到他們熱情的問候，所以多多查看妳的信箱。\n\n\
+  好了，就這樣，我們還有一群史萊姆要放牧呢。\n\n\
+  再會，碧翠絲。\n\n\
+  - 索拉\n\n\n\n\
+  備註：自從幾年前老哈博森的遙遠交易所的連線斷掉後，我猜他把那機器連同牧場裡的其它東西都砸壞了。我打賭妳有的忙了。不管怎樣，我已經安排運了另一台機器給妳，免費的。昨晚應該已經送達了，去確認一下吧！
 
-m.subj.exchangeintro_viktor = Salutations, Ms. LeBeaux
-m.from.exchangeintro_viktor = Viktor Humphries
-m.body.exchangeintro_viktor = Allow me to introduce myself. I am Viktor Humphries; professional slime rancher, slime scientist, and amateur musician. My understanding is that Ms West has already informed you of how the Range Exchange works so I will spare you any further education.\n\n\
-  Instead, I'll illuminate you on what you can expect from my own requests. As a slime scientist/rancher I have a tremendous interest in the liquiform legion that we share this vast range with, the slimes. My studies often keep me from venturing out on the range daily and when I find myself short of a particular species, I use the Range Exchange to fill that gap. Don't worry though, I will reimburse you handsomely for your efforts.\n\n\
-  Good luck in your new venture, Ms LeBeaux. I look forward to seeing life breathed once again into the former Twillgers Ranch.\n\n\
-  Sincerely,\n\
-  Viktor Humphries\n\n\
-  P.S. - I once lost my most favorite fiddle while fleeing a feral boom slime. Its value is only sentimental but should you find it, I'd very much love to be able to play it again.
+m.subj.exchangeintro_viktor = 誠摯問候，樂博絲女士
+m.from.exchangeintro_viktor = 維克特．漢弗萊斯
+m.body.exchangeintro_viktor = 請允許我自我介紹。我是維克特．漢弗萊斯，一名專業的史萊姆牧場主、史萊姆科學家，以及業餘的音樂家。據我了解，威斯特女士已經告知您遙遠交易所的運作方式，所以我就不再贅述。\n\n\
+  相反地，我會向您說明您能期望從我的請求中獲得什麼。作為一名史萊姆科學家暨牧場主，我對和我們共同生活在這片廣闊遙遠土地上的液態生命──史萊姆──有著極大的興趣。我的研究總是很忙，使得我沒辦法每天都外出探索，當我發現缺少特定物種時，就會使用遙遠交易所來填補空缺。但不用擔心，我會為您的辛勞補償一筆可觀的報酬的。\n\n\
+  祝您新的旅程一路順風，樂博絲女士。期待您為昔日的圖傑斯牧場再次帶來生機。\n\n\
+  維克特．漢弗萊斯 謹上\n\n\
+  備註：我曾經在餵食一隻野生的爆炸史萊姆時弄丟了最愛的小提琴。它或許僅有紀念價值，但如果您能尋回，我會非常高興能再用它奏上一曲。
 
-m.subj.exchangeintro_ogden = Hiya Beatrix!
-m.from.exchangeintro_ogden = Ogden Ortiz
-m.body.exchangeintro_ogden = The name's Ogden Ortiz. I'm a slime rancher much like yourself but I mostly fancy myself as a farmer. I came to the Far, Far Range to grow fruits and veggies the way we used to back on earth: by getting down into the soil and getting your hands dirty.\n\n\
-  Did you know that carrots improve your night vision? Yeah, seriously, they do! I don't see why all ranchers aren't just gobbling them down every chance they get. Being lost out on the range at night can be so dangerous...\n\n\
-  Well don't let me ramble on ya here. We'll be in touch via the Range Exchange. I tend to only raise slimes that eat fruits and veggies, so expect those kinds of requests from me.\n\n\
-  Lookin forward to doing business with ya!\n\n\
-  O.O.\n\n\
-  P.S. - Ever hear of gilded ginger? It's a mythical veggie that is said to be the favorite food of the equally mythical gold slime. But some say that neither of them actually exist!
+m.subj.exchangeintro_ogden = 嗨嗨，碧翠絲！
+m.from.exchangeintro_ogden = 奧格登．歐提茲
+m.body.exchangeintro_ogden = 我叫奧格登．歐提茲。我和妳一樣是一名史萊姆牧場主，但我更把自己當成是一名農夫。我來到遙遠之地種植水果和蔬菜，就像在地球上的時候一樣：鋤禾日當午，汗滴禾下土。\n\n\
+  妳知道胡蘿蔔能增強夜視能力嗎？真的，不騙妳，真的可以！我搞不懂為什麼所有的牧場主都不多吃點胡蘿蔔，畢竟在遙遠之地晚上迷路是很危險的……\n\n\
+  好了，廢話就不多說了。我們之後就透過遙遠交易所聯繫吧。我偏好飼養只吃水果和蔬菜史萊姆，所以期待與妳做這方面的交易囉。\n\n\
+  期待未來與妳合作！\n\n\
+  奧．歐．\n\n\
+  備註：妳聽說過鍍金生薑嗎？它是一種神秘的蔬菜，據說是黃金史萊姆最愛的食物。但有人說它實際上並不存在！
 
-m.subj.exchangeintro_mochi = (no subject)
-m.from.exchangeintro_mochi = Mochi Miles
-m.body.exchangeintro_mochi = Well, well it seems like another wannabe rancher has signed up for a lonely existence on a faraway space rock. Congrats Beatrix!\n\n\
-  I'm Mochi Miles. That's 'Miles' as in Tatsuya Miles, the billionaire. I'm here to do important business for my dad but that doesn't mean I won't make all the rest of these backwater types out here look bad in the process. No one conquers the plort market like I do: day in, day out.\n\n\
-  My dad gives me the inside track so look forward to my requesting plorts that I know will make me huge profits later on.\n\n\
-  So I wish you the best of luck, Beatrix. Maybe you'll even reach second place! And at the very least you can tell your friends that you helped out the great Mochi Miles in her conquest of the Far, Far Range!\n\n\
-  Later, tater.\n\n\
-  Mochi Miles, Top Rancher
+m.subj.exchangeintro_mochi = （無標題）
+m.from.exchangeintro_mochi = 摩琪．麥爾斯
+m.body.exchangeintro_mochi = 哎喲、哎喲，看來又是一個想成為孤單牧場主的傢伙在這偏僻的地方註冊了。恭喜妳啊，碧翠絲！\n\n\
+  我是摩琪．麥爾斯。就是億萬富翁，達也．麥爾斯，的那個「麥爾斯」。我在這裡幫老爹做重要的生意，但那並不意味著我會幫所有死水一般的地方擺脫困境。沒有人能像我一樣征服結晶市場：日以繼夜。\n\n\
+  我老爹能給我內部消息，所以對我要求的那些日後能讓我獲得巨大利益的結晶用點心吧。\n\n\
+  祝妳好運了，碧翠絲。也許妳能爬到第二名！最起碼妳能向朋友炫耀，妳幫了偉大的摩琪．麥爾斯征服了遙遠之地！\n\n\
+  後會有期。\n\n\
+  摩琪．麥爾斯，頂尖牧場主
 
-m.subj.exchangeintro_bob = helloooo
-m.from.exchangeintro_bob = BOb
-m.body.exchangeintro_bob = Hello,,\n\
-  hellohellooo......chickeNs.\n\
-  helloCHickens.\n\
-  chICKEN.\n\n\
-  hello,\n\
-  BOb\n\n\
-  PSs.-- chickKn
+m.subj.exchangeintro_bob = 妳ㄏㄠ
+m.from.exchangeintro_bob = 鮑勃
+m.body.exchangeintro_bob = 妳好，\n\
+  妳ㄏㄠ妳ㄏ……雞ㄐㄧ。\n\
+  妳好，雞ㄐ。\n\
+  ㄐㄧ。\n\n\
+  ㄋ好，\n\
+  鮑勃\n\n\
+  ㄅ註：ㄐ雞
 
 
 ### Personal mails
-#m.subj.casey_1 = Casey Mail 1
-#m.from.casey_1 = TBD
-#m.body.casey_1 = TBD
+#m.subj.casey_1 = 凱西的信1
+#m.from.casey_1 = 待定
+#m.body.casey_1 = 待定
 
-#m.subj.casey_2 = Casey Mail 2
-#m.from.casey_2 = TBD
-#m.body.casey_2 = TBD
+#m.subj.casey_2 = 凱西的信2
+#m.from.casey_2 = 待定
+#m.body.casey_2 = 待定
 
