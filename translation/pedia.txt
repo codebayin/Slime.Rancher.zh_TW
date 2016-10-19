@@ -172,18 +172,18 @@ m.plortonomics.boom_slime = 具有高度揮發性的砰砰結晶有著各式各�
     火箭推進器和破壞器。 軍方對它們評價是「對於醫療科技和 \
     其他研究具有高度破壞性」，想像一下砰砰結晶的威力到底有多大吧！
 
-t.honey_slime = 蜜蜜史萊姆
-m.intro.honey_slime = 「沒有什麼東西能比（剛製成的）蜜蜜結晶還更甜了。」
+t.honey_slime = 蜂蜜史萊姆
+m.intro.honey_slime = 「沒有什麼東西能比（剛製成的）蜂蜜結晶還更甜了。」
 m.diet.honey_slime = 水果
 m.favorite.honey_slime = 薄荷芒果
-m.slimeology.honey_slime = 蜜蜜史萊姆是由高甜度史萊姆細胞組合而成的奇異品種。大部分的 \
+m.slimeology.honey_slime = 蜂蜜史萊姆是由高甜度史萊姆細胞組合而成的奇異品種。大部分的 \
     史萊姆學家認為是因為他們的細胞複製了在遙遠之地發現的水果和花蜜裡的糖分。 \
-    此外，大多的牧場主認同蜜蜜結晶和麥片是絕配。
-m.risks.honey_slime = 蜜蜜史萊姆最大的危險來自於他們的結晶。在遙遠之地裡，蜜蜜結晶是 \
-    最甜、最美味的結晶。相較於一般結晶，其他史萊姆們能遠遠的就發現蜜蜜結晶的香氣 \
-    並且為了得到它不擇手段。擁有蜜蜜史萊姆的牧場主應該留意不小心產生的 \
+    此外，大多的牧場主認同蜂蜜結晶和麥片是絕配。
+m.risks.honey_slime = 蜂蜜史萊姆最大的危險來自於他們的結晶。在遙遠之地裡，蜂蜜結晶是 \
+    最甜、最美味的結晶。相較於一般結晶，其他史萊姆們能遠遠的就發現蜂蜜結晶的香氣 \
+    並且為了得到它不擇手段。擁有蜂蜜史萊姆的牧場主應該留意不小心產生的 \
     混種史萊姆，或者更糟的……
-m.plortonomics.honey_slime = 蜜蜜結晶十分受到食品製造商的喜愛。雖然些天然的蜜蜜結晶已經\
+m.plortonomics.honey_slime = 蜂蜜結晶十分受到食品製造商的喜愛。雖然些天然的蜂蜜結晶已經\
     不可思議的甜了,但他們發現還能再精製成更甜的物質來滿足他們的需求。 \
     這些被精製過的蜜蜜結晶在 “Werner-Thompkins-Hong” 上獲得空前絕後的867  \
     甜度, 只因為「不適合人類攝取」而被扣了一點。
@@ -202,8 +202,8 @@ m.risks.hunter_slime = 獵手史萊姆對於獵物的敏感度很高，能在遠
     找到一個好飼養牠們的圍欄這件事具有挑戰性\n\
     \n\
     除此之外，由獵手史萊姆組成的混種史萊姆會繼承到他的野蠻本性。 新產生的 \
-    獵手混種史萊姆總是會很兇狠！ 每個準備好的牧場主都知道獵手混種史萊姆的繁衍必須 \
-    慢慢來，帶點雞來餵使他們冷靜。
+    獵手混種史萊姆總是會很狂暴！ 每個準備好的牧場主都知道獵手混種史萊姆的繁衍必須 \
+    慢慢來，帶點雞來餵食使他們冷靜。
 m.plortonomics.hunter_slime = 令人驚訝的，從獵手結晶提煉出來的漿液能使人 \
     隱形！ 雖然效果只能持續一天，但這些漿液在地球上仍是十分受歡迎， \
     因為許多人發現它的效果能撫慰人心。\n\
@@ -290,13 +290,13 @@ m.plortonomics.gold_slime = 黃金結晶沒有什麼實際上的應用，但還�
 t.lucky_slime = 幸運史萊姆
 m.intro.lucky_slime = 噢！閃亮亮的！
 m.diet.lucky_slime = 肉類
-m.favorite.lucky_slime = （肉類）
+m.favorite.lucky_slime = （無）
 m.slimeology.lucky_slime = 幸運史萊姆是一種特別的斑貓史萊姆，他們特愛閃亮亮的東西 \
-    ，尤其是紐鎊。幸運史萊姆會吞下任何他們找到的硬幣，這也使得他們移動時 \
+    ，尤其是錢幣。幸運史萊姆會吞下任何他們找到的硬幣，這也使得他們移動時 \
     會發出獨特的叮噹聲。 \n\
     \n\
     但是，硬幣並不能提供足夠的養份，所以幸運史萊姆會貪婪的吞下任何他們所看到的肉。 但這樣做， \
-    會讓他的史萊姆胃幾乎沒有空間，因而爆發出一陣紐鎊雨。這樣的爆炸 \
+    會讓他的史萊姆胃幾乎沒有空間，因而爆發出一陣金幣雨。這樣的爆炸 \
     通常會將幸運史萊姆爆到空中。 \n\
     \n\
     只要一看到牧場主，幸運史萊姆便會匆忙地逃跑。目前沒有任何一個已知的牧場主足夠熟練 \
@@ -307,7 +307,7 @@ m.risks.lucky_slime = 幸運史萊姆和其他稀有史萊姆一樣：主要的�
     \n\
     種種徵兆讓某些較迷信的牧場主們將幸運史萊姆視為凶兆，或者是說上天在考驗他們是否貪心。\
     這些牧場主們會忽略幸運史萊姆，甚至將幸運史萊姆射離。 \
-    無論如何，當你聽見那獨特的紐鎊叮噹聲時，也許，試一次不會受傷吧……
+    無論如何，當你聽見那獨特的叮噹聲時，也許，試一次不會受傷吧……
 m.plortonomics.lucky_slime = 幸運史萊姆目前已知是不會產生任何結晶的。 這讓史萊姆學家們 \
     認為幸運史萊姆並非真正的史萊姆品種，而是異常的斑貓史萊姆： \
     因攝入過多硬幣而使得顏色褪去。也許是因為這奇特的變化 \
@@ -347,108 +347,108 @@ m.risks.gordo_slime = 胖胖史萊姆對牧場主而言沒有任何危險，不�
 m.plortonomics.gordo_slime = 胖胖史萊姆並不會產出結晶，不過爆炸後的小史萊姆 \ 
             就會像一般史萊姆一樣產出結晶了。
 
-t.feral_slime = 凶狠史萊姆
+t.feral_slime = 狂暴史萊姆
 m.intro.feral_slime = 當胃是空的時候實在很難對人和善。
 m.diet.feral_slime =（來源史萊姆的食物）
 m.favorite.feral_slime = （來源史萊姆的最愛）
-m.slimeology.feral_slime = 凶狠史萊姆是有著明顯條紋的混種史萊姆，他們會攻擊是野內的牧場主。 \
-	目前還不知道確切的原因使來混種史萊姆變得如此兇蠻，但可以猜測僅是因為 \
+m.slimeology.feral_slime = 狂暴史萊姆是有著明顯條紋的混種史萊姆，他們會攻擊視野內的牧場主。 \
+	目前還不知道確切的原因使得混種史萊姆變得如此兇蠻，但可以猜測僅是因為 \
 	他們太久沒進食了。像其他史萊姆一樣，以食為天。 \n\
 	\n\
-	凶狠史萊姆吃了東西便會回到原本的混種史萊姆。
-m.risks.feral_slime = 當牧場主沒有快速的處理或避開凶狠史萊姆，有可能會造成頗大的危害。 \
-	凶狠史萊姆在近距離時會試圖咬牧場主，或者是跳到空中試圖用 \
-	他們的…屁股？來踐踏牧場主。無論如何，牧場主應快速反應並餵給凶狠史萊姆些好吃的 \
+	狂暴史萊姆吃了東西便會回到原本的混種史萊姆。
+m.risks.feral_slime = 當牧場主沒有快速處理或避開狂暴史萊姆，有可能會造成頗大的危害。 \
+	狂暴史萊姆在近距離時會試圖咬牧場主，或者是跳到空中試圖用 \
+	他們的…屁股？來踐踏牧場主。無論如何，牧場主應快速反應並餵給狂暴史萊姆些好吃的 \
             來避免扯進這些麻煩事。
-m.plortonomics.feral_slime = 餵食凶狠史萊姆不己僅能使他們冷靜，他們也會像混種史萊姆一樣  \
+m.plortonomics.feral_slime = 餵食狂暴史萊姆不僅能使他們冷靜，他們也會像混種史萊姆一樣  \
             產出結晶。儘管如此，這也不失為一個容易獲得結晶的管道。
 
 # Resources
-t.carrot = Carrot
-m.intro.carrot = Next to a vacpack, it's a rancher's best friend.
-m.favored_by.carrot = (none)
-m.resource_type.carrot = Veggie
-m.how_to_use.carrot = Deposit a carrot into a garden's depositor and you'll have a large carrot crop of your very own. \
-    This crop will last for several harvests.
-m.desc.carrot = The humble carrot was brought to the Far, Far Range because they're easy to grow and nutritious. \
-	Most ranchers swear by them as they're a handy portable snack, promote good night vision, and when juiced \
-	are second only to coffee as the perfect morning beverage.
+t.carrot = 胡蘿蔔
+m.intro.carrot = 就在吸取器旁而已，牧場主最好的朋友。
+m.favored_by.carrot = （無）
+m.resource_type.carrot = 蔬菜
+m.how_to_use.carrot = 在果園裡種植胡蘿蔔，你便能採收到大量的胡蘿蔔。 \
+    這個作物能承受數次的採收。
+m.desc.carrot = 因為容易種植和富有營養，平凡的胡蘿蔔被帶到遙遠之地上。 \
+	大多的牧場主宣稱胡蘿蔔是最方便易攜的零食、能提供良好的夜視能力、和酩酊大醉後 \
+	僅次於咖啡的早晨飲料
 
-t.ocaoca = Oca Oca
-m.intro.ocaoca = A tubular mix of colorful spuds.
-m.favored_by.ocaoca = Rad Slime
-m.resource_type.ocaoca = Veggie
-m.how_to_use.ocaoca = Deposit an oca oca into a garden's depositor and you'll have a large oca oca crop of your very own. \
-    This crop will last for several harvests.
-m.desc.ocaoca = A staple of cooking on the range, the hearty oca oca is a naturally salty, soft spud. As the key \
-    ingredient to the always tasty 'rancher's hashbrowns' they have likely been the fuel for a great deal of slime \
-    wrangling since their discovery on the range.
+t.ocaoca = 奧卡薯
+m.intro.ocaoca = 管狀的多彩馬鈴薯。
+m.favored_by.ocaoca = 輻射史萊姆
+m.resource_type.ocaoca = 蔬菜
+m.how_to_use.ocaoca = 在果園裡種植奧卡薯，你便能採收到大量的奧卡薯。 \
+    這個作物能承受數次的採收。
+m.desc.ocaoca = 遙遠之地上的主食，營養豐富的奧卡薯本身嚐起來像是微鹹的軟馬鈴薯。作為美味的 \
+    「牧場主薯餅」的關鍵材料，奧卡薯也能用來餵養 \
+    在遙遠之地上所發現的史萊姆。
 
-t.beet = Heart Beet
-m.intro.beet = If you listen to it closely, you can faintly hear a veggie.
-m.favored_by.beet = Rock Slime
-m.resource_type.beet = Veggie
-m.how_to_use.beet = Deposit a heart beet into a garden's depositor and you'll have a large heart beet crop of your very own. \
-    This crop will last for several harvests.
-m.desc.beet = Heart beets get their name from their deep, red color and heart-like shape. Heart beets are also \
-    unusually juicy for a beet, making it the only veggie that's not for the squeamish in the kitchen.
+t.beet = 甜心菜
+m.intro.beet = 如果你仔細的聆聽，你能聽到微弱的「蔬菜」。
+m.favored_by.beet = 岩石史萊姆
+m.resource_type.beet = 蔬菜
+m.how_to_use.beet = 在果園裡種植甜心菜，你便能採收到大量的甜心菜。 \
+    這個作物能承受數次的採收。
+m.desc.beet = 稱為甜心菜是因它們深紅和心型的外觀。雖身為一種甜菜，但甜心菜 \
+    實在太過異常的多汁了，對於過度謹慎者，他們實在不大適合料理甜心菜。
 
-t.onion = Odd Onion
-m.intro.onion = I wouldn't trust this onion, even less so than a normal onion.
-m.favored_by.onion = Crystal Slime
-m.resource_type.onion = Veggie
-m.how_to_use.onion = Deposit an odd onion into a garden's depositor and strangely, carrots will begin to grow. However, \
-	there is a good chance you'll get some odd onions in the crop as well. This crop will last for several harvests. 
-m.desc.onion = Odd onions can only be foraged in the wild from the Indigo Quarry; however, you'll never encounter an odd \
-	onion patch. Instead, odd onions can be found randomly in other veggie patches. As the saying goes, 'forage in the Indigo \
-	Quarry and you'll always find the odd onion in your haul.'
+t.onion = 怪洋蔥
+m.intro.onion = 我實在無法信任這些洋蔥，縱然他們比一般洋蔥稀有很多。
+m.favored_by.onion = 水晶史萊姆
+m.resource_type.onion = 蔬菜
+m.how_to_use.onion = 在果園裡種植怪洋蔥，奇怪的，反而會長出胡蘿蔔。 \
+	但是，你仍會有滿大的機率能採收到一些怪洋蔥。這個作物能承受數次的採收。
+m.desc.onion = 怪洋蔥只能在靛藍礦場裡找到，但是，你不會遇到僅種有怪洋蔥的土壤。 \
+	 取而代之，怪洋蔥會隨機出現在種有其他蔬菜的土壤裡。 俗話說，「在靛藍礦場裡探索 \
+     而最後總能發現你的手上有怪洋蔥」
 
-t.parsnip = Silver Parsnip
-m.intro.parsnip = Like a carrot's rich, sophisticated cousin. Also, it's silver.
-m.favored_by.parsnip = Meteor Slime
-m.resource_type.parsnip = Veggie
-m.how_to_use.parsnip = Deposit a silver parsnip into a garden's depositor and you'll have a large silver parsnip crop of your very own. \
-    This crop will last for several harvests.
-m.desc.parsnip = Despite their slightly metallic aftertaste, these shimmering root veggies are considered a delicacy \
-    by gourmands across the galaxy. On the Far, Far Range, ranchers often eat them during the holidays, to bring good \
-    fortune in the coming year.
+t.parsnip = 銀色歐防風
+m.intro.parsnip = 就像是胡蘿蔔有錢、世故的表親，並且，他是銀色的。
+m.favored_by.parsnip = 流星史萊姆
+m.resource_type.parsnip = 蔬菜
+m.how_to_use.parsnip = 在果園裡種植銀色歐防風，你便能採收到大量的銀色歐防風。 \
+    這個作物能承受數次的採收。
+m.desc.parsnip = 儘管嚐起來有點金屬味，這些淡螢光的塊根職務仍受銀河間的美食家們所喜愛。  \
+    在遙遠之地上，牧場主們通常在節慶食用銀色歐防風，用以 \
+    祈求來年的好運。
 
-t.pogo = Pogofruit
-m.intro.pogo = The most common fruit found on the Range, and some say, the most delicious.
-m.favored_by.pogo = (none)
-m.resource_type.pogo = Fruit
-m.how_to_use.pogo = Deposit a pogofruit into a garden's depositor and you'll grow a large pogofruit tree of your very \
-    own. This tree will last for several harvests.
-m.desc.pogo = Pogofruit are a common sight almost anywhere on the Far, Far Range. Tasting a bit like a peach, they're \
-    most notable for having their trademark spots both on and under the skin.
+t.pogo = 波戈果
+m.intro.pogo = 遙遠之地上最常見的水果，某方面來說，也是最美味的。
+m.favored_by.pogo = （無）
+m.resource_type.pogo = 水果
+m.how_to_use.pogo = 在果園裡種植波戈果，你便能採收到大量的波戈果。 \
+    這個作物能承受數次的採收。
+m.desc.pogo = 幾乎在遙遠之地上的每個地方都能看到波戈果的蹤影。 嚐起來有點像桃子，他們 \
+    最明顯的特徵是表皮內與外的特別斑點。
 
-t.mango = Mint Mango
-m.intro.mango = Intensely sweet with a cool, minty finish.
-m.favored_by.mango = Honey Slime
-m.resource_type.mango = Fruit
-m.how_to_use.mango = Deposit a mint mango into a garden's depositor and you'll grow a large mint mango tree of your \
-    very own. This tree will last for several harvests.
-m.desc.mango = The mint mango is perhaps the sweetest fruit ever discovered. Its appearance is that of a mango, with a \
-    thicker, syrup-like juice, and a bright, minty aftertaste. It's no wonder honey slimes seek them out or that they \
-    have such amazingly fresh breath.
+t.mango = 薄荷芒果
+m.intro.mango = 濃烈的甜味加上薄荷尾韻。
+m.favored_by.mango = 蜂蜜史萊姆
+m.resource_type.mango = 水果
+m.how_to_use.mango = 在果園裡種植薄荷芒果，你便能採收到大量的薄荷芒果。 \
+    這個作物能承受數次的採收。
+m.desc.mango = 薄荷芒果可能是目前為止發現最甜的水果了。它看起來就像芒果，但有著 \
+    更濃厚、像糖漿的果汁，以及清爽、像薄荷的尾韻 。這也難怪蜂蜜史萊姆會不斷尋覓著薄荷芒果而也順帶 \
+    使他們有著清新口氣。
 
-t.cuberry = Cuberry
-m.intro.cuberry = Delicate, sweet, and they never roll off the table.
-m.favored_by.cuberry = Phosphor Slime
-m.resource_type.cuberry = Fruit
-m.how_to_use.cuberry = Deposit a cuberry into a garden's depositor and you'll grow a large cuberry tree of your very \
-    own. This tree will last for several harvests.
-m.desc.cuberry = Due to their sweet taste and curious shape, cuberries were quick to become a favorite amongst the \
-    first ranchers on the range. They are often used in cakes and pies when celebrating special occasions, like \
-    birthdays or Plortapalooza.
+t.cuberry = 方梅
+m.intro.cuberry = 精巧，甜，和永不滾下餐桌。
+m.favored_by.cuberry = 螢光史萊姆
+m.resource_type.cuberry = 水果
+m.how_to_use.cuberry = 在果園裡種植方梅，你便能採收到大量的方梅。 \
+    這個作物能承受數次的採收。
+m.desc.cuberry = 由於他們甜味和奇特的形狀，方梅快速地在遙遠之地首批牧場主裡大受歡迎。 \
+    方梅常被用在製作慶祝特別節日的蛋糕或派，像是 \
+    生日或是結晶派對.
 
-t.pear = Prickle Pear
-m.intro.pear = This is a fruit that knows how to fight back.
+t.pear = 棘梨
+m.intro.pear = 這是一種懂得反擊的水果
 m.favored_by.pear = Mosaic Slime
-m.resource_type.pear = Fruit
-m.how_to_use.pear = Deposit a prickle pear into a garden's depositor and you'll grow a large prickle pear tree of your \
-    very own. This tree will last for several harvests.
-m.desc.pear = (Description Forthcoming)
+m.resource_type.pear = 水果
+m.how_to_use.pear = 在果園裡種植棘梨，你便能採收到大量的棘梨。 \
+    這個作物能承受數次的採收。
+m.desc.pear = （說明尚未推出）
 
 t.chickadoo = Chickadoo
 m.intro.chickadoo = So little and soft you'd think they're filled with marshmallow.
