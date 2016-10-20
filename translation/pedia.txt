@@ -128,26 +128,26 @@ m.plortonomics.tabby_slime = 斑貓結晶在許多的「效能強化」製品裡
     才發現經常性的使用會造成「不可控制的搖屁股」—另一個 \
     （較不受歡迎的）斑貓史萊姆能量效果。
 
-t.phosphor_slime =  磷光史萊姆
-m.intro.phosphor_slime = The softly glowing heralds of starlight.
+t.phosphor_slime = 螢光史萊姆
+m.intro.phosphor_slime = 那微光宣告著星光的到來。
 m.diet.phosphor_slime = 水果
 m.favorite.phosphor_slime = 方梅
-m.slimeology.phosphor_slime = 磷光史萊姆只在夜晚現身，揮動著他那半透明的翅膀在月光的沐浴下飛翔。 \
+m.slimeology.phosphor_slime = 螢光史萊姆只在夜晚現身，揮動著他那半透明的翅膀在月光的沐浴下飛翔。 \
     他有一顆散發著柔光的史萊姆核心，也使他們十分容易被發現。 \
     也因此牧場主們有時稱他為「矮空中的星芒」。
-m.risks.phosphor_slime = 和其他種史萊姆比起來，磷光史萊姆有特別的需求，他們和他們的結晶 \
-    若接觸到陽光便會快速的消逝，代表如果牧場主沒注意的話，整欄的磷光史萊姆會快速的消失。 \
+m.risks.phosphor_slime = 和其他種史萊姆比起來，螢光史萊姆有特別的需求，他們和他們的結晶 \
+    若接觸到陽光便會快速的消逝，代表如果牧場主沒注意的話，整欄的螢光史萊姆會快速的消失。 \
     牧場主們必須在拂曉前將他們吸取或放置在陰暗處 \
     像是：洞穴。
-m.plortonomics.phosphor_slime = 在磷光結晶中發現的複合物能持續發亮超過100年 \
+m.plortonomics.phosphor_slime = 在螢光結晶中發現的複合物能持續發亮超過100年 \
    ，這能作為地球上極度不可思議的環境友善光源。 全球各個都市正在逐漸 \
-    將燈光改為磷光結晶複合物，這使得他們每天能夠省下數兆瓩電能. 順帶一提， \
-    如果你將磷光結晶複合物塗抹在頭髮上，它會使你看起來非常酷。
+    將燈光改為螢光結晶複合物，這使得他們每天能夠省下數兆瓩電能. 順帶一提， \
+    如果你將螢光結晶複合物塗抹在頭髮上，它會使你看起來非常酷。
 
 t.rad_slime = 輻射史萊姆
 m.intro.rad_slime = 他們的輻射既可愛卻又能使你不舒服 。
 m.diet.rad_slime = 蔬菜
-m.favorite.rad_slime = Oca Oca
+m.favorite.rad_slime = 奧卡薯
 m.slimeology.rad_slime = It's unknown if rad slimes, sometimes called 'raddies,' came to be from external radiation \
     sources or from something naturally ocurring within the Far, Far Range. Regardless, rad slimes emit such a potent \
     aura of radiation they glow in the dark!
@@ -211,24 +211,24 @@ m.plortonomics.hunter_slime = 令人驚訝的，從獵手結晶提煉出來的�
     有時你想要消失一會兒，但約一天後你會體悟到 \
     不僅僅只有你想要出現在眾人目光之前，也會有人想要見到你。
 
-t.puddle_slime = 水窪史萊姆
+t.puddle_slime = 水狀史萊姆
 m.intro.puddle_slime = 放一隻在你的鞋子裡能使你常保涼爽，縱然這有點奇怪。
 m.diet.puddle_slime = 水
 m.favorite.puddle_slime = （無）
-m.slimeology.puddle_slime = 在遙遠之地裡，水窪史萊姆是種非常稀有的品種，他們必須生存在 \
-    水池裡。他們不像其他史萊姆一樣吃肉、蔬菜或水果。取而代之，當水窪史萊姆在水池裡時 \
+m.slimeology.puddle_slime = 在遙遠之地裡，水狀史萊姆是種非常稀有的品種，他們必須生存在 \
+    水池裡。他們不像其他史萊姆一樣吃肉、蔬菜或水果。取而代之，當水狀史萊姆在水池裡時 \
     他們會將水分吸收進體內。\n\
     \n\
-    水窪史萊姆需要新鮮的水，而且他們處在其他表面上時，會快速的揮發。
-m.risks.puddle_slime = 水窪史萊姆並不危險，只是在處理他們時必須多費點心力。牧場主 \
+    水狀史萊姆需要新鮮的水，而且他們處在其他表面上時，會快速的揮發。
+m.risks.puddle_slime = 水狀史萊姆並不危險，只是在處理他們時必須多費點心力。牧場主 \
     需要一些新鮮的水，像是池塘，來讓他們坐在其中以免快速揮發。 \
-    除此之外，當水窪結晶碰觸到水以外的表面時會迅速的破裂。\n\
+    除此之外，當水狀結晶碰觸到水以外的表面時會迅速的破裂。\n\
     \n\
-    最後，水窪史萊姆極度害羞，當他們靠近超過3個以上的史萊姆時，他們不會 \
+    最後，水狀史萊姆極度害羞，當他們靠近超過3個以上的史萊姆時，他們不會 \
     產出任何結晶。\n\
     \n\
-    總而言之，水窪史萊姆適合較有經驗的牧場主，而不是一個「水」臭未乾的菜逼八。
-m.plortonomics.puddle_slime = 水窪結晶幾乎全是由一種銀河系科學家發現的神奇水化合物，淼， \
+    總而言之，水狀史萊姆適合較有經驗的牧場主，而不是一個「水」臭未乾的菜逼八。
+m.plortonomics.puddle_slime = 水狀ㄒ結晶幾乎全是由一種銀河系科學家發現的神奇水化合物，淼， \
     組合而成。「淼」通常用來製成極度昂貴的瓶裝水，用以 \
     提供地球上的上層社會飲用。 雖然有些人認為「淼」和 \
     自來水的味道沒什麼不同，那些人一定是沒有喝過它。
@@ -501,7 +501,7 @@ m.how_to_use.stony_hen = 如果把石母雞跟公雞放在一起，石母雞會�
     知曉此事並懂得雞之間浪漫的牧場主最多只會 \
     在雞舍裡養12隻已成熟的雞。
 m.desc.stony_hen = 石母雞被認為是從遙遠之地上集體移居到深山裡的母雞進化而來。 \
-    也許這些母雞是在尋求心靈的祥和，而只有在高聳、荒涼的峭壁間沉思方能求之。 \
+    也許這些母雞是在尋求心靈祥和，而只有在高聳、荒涼的峭壁間沉思方能求之。 \
     但較有可能的，他們只是有點笨並迷路了。
 
 t.briar_hen = 野母雞
@@ -555,94 +555,94 @@ m.desc.elder_hen = 老母雞已經過完完整的一生了。她們遇過夢想�
     看在上帝的份上。
 
 # Ranch Tech
-t.corral = Corral
-m.intro.corral = A happy slime makes for a happy rancher.
-m.desc.corral = A corral is used to keep slimes on a ranch. The open-air corrals are designed for maximum \
-	slime satisfaction, with the rich soil of the Range beneath them and its expansive sky above them. \
-	Slimes will remain perfectly happy within corrals so long as they are fed regularly.\n\
+t.corral = 圍欄
+m.intro.corral = 快樂的史萊姆帶來快樂的牧場主。
+m.desc.corral = 圍欄用以在牧場裡保存史萊姆。半開放式的圍欄是設計來最大化滿足史萊姆，\
+	透過下頭豐富養份的遙遠之地土壤和上方遼闊的天空。 \
+	只要史萊姆有被定時餵食的話，他們能在圍欄裡保持完美的好心情。\n\
     \n\
-    Remember: You can shoot things THROUGH a corral barrier. Handy!
-m.upgrade.name.corral.walls = High Walls
-m.upgrade.desc.corral.walls = Higher corral walls ensure that even the bounciest of slimes will have difficulty escaping.
-m.upgrade.name.corral.music_box = Music Box
-m.upgrade.desc.corral.music_box = The music box plays a soothing tune that greatly reduces slime agitation.
-m.upgrade.name.corral.air_net = Air Net
-m.upgrade.desc.corral.air_net = An air net is a force barrier that covers the top of a corral. It can take a few hits before needing to recharge.
-m.upgrade.name.corral.solar_shield = Solar Shield
-m.upgrade.desc.corral.solar_shield = A solar shield will encase a corral in a dim shade, protecting slimes sensitive to light.
-m.upgrade.name.corral.plort_collector = Plort Collector
-m.upgrade.desc.corral.plort_collector = A plort collector will vacuum up two types of plorts in a corral at regular \
-    intervals, depositing them into a storage tank, so long as space is available.
-m.upgrade.name.corral.feeder = Auto-Feeder
-m.upgrade.desc.corral.feeder = An auto-feeder will drop food into the corral at regular intervals. Just \
-    remember to keep it stocked!
+    記得：你能將透過射擊將物品穿透圍欄的牆，夠方便吧！
+m.upgrade.name.corral.walls = 高牆
+m.upgrade.desc.corral.walls = 更高的圍欄能保證最算最會彈跳的史萊姆也無法逃脫。
+m.upgrade.name.corral.music_box = 音樂盒
+m.upgrade.desc.corral.music_box = 音樂盒會播放和緩的旋律，能平復史萊姆的情緒。
+m.upgrade.name.corral.air_net = 防空網
+m.upgrade.desc.corral.air_net = 防空網是擋在圍欄上方的一道阻礙。它可以承受數次撞擊但之後需要充能。
+m.upgrade.name.corral.solar_shield = 太陽防護網
+m.upgrade.desc.corral.solar_shield = 太陽防護網能確保史萊姆處於陰暗處，用來保護光敏感度高的史萊姆。
+m.upgrade.name.corral.plort_collector = 結晶收集器
+m.upgrade.desc.corral.plort_collector = 結晶收集器能定期將吸取最多兩種結晶， \
+    將他們儲存在儲存倉裡，如果還有空間的話。
+m.upgrade.name.corral.feeder = 自動餵食器
+m.upgrade.desc.corral.feeder = 自動餵食器會定時發送食物到圍欄裡。 \
+    只要你記得補充食物！
 
-t.coop = Coop
-m.intro.coop = Keeping chickens in their place prevents the uprising.
-m.desc.coop = Though many ranchers simply let their chickens roam the ranch, a coop is the tool of the serious \
-	poultry producer. Coops keep hens and roostros close, allowing for maximum egg-laying potential. Just \
-	remember to avoid crowding the coop: chickens won't reproduce when in close proximity to more than a dozen \
-	other hens or roostros. But give them room and watch the love bloom.
-m.upgrade.name.coop.walls = High Walls
-m.upgrade.desc.coop.walls = Great for keeping chickens in and hungry slimes out.
-m.upgrade.name.coop.feeder = Spring Grass
-m.upgrade.desc.coop.feeder = Spring grass attracts scuttle bugs that chickens just love to eat. With their bellies \
-    full, hens will produce eggs twice as fast.
-m.upgrade.name.coop.vitamizer = Vitamizer
-m.upgrade.desc.coop.vitamizer = The very latest in advanced poultry tech, the vitamizer bathes the chickens in \
-    'vita-rays,' allowing them to grow into healthy hens and roostros twice as fast.
+t.coop = 雞舍
+m.intro.coop = 將雞放在他們的地方，以免暴動。
+m.desc.coop = 雖然大多的牧場主讓他們的雞在牧場裡隨意遊走，雞舍是正式的家禽生產工具。 \
+	雞舍能確保母雞和公雞在短距離內，使他們能最大化下蛋能力。只要記得 \
+	避免雞舍裡太過壅擠：當一隻雞和超過一打的母雞或公雞處在一塊時他們不會繁衍。 \
+	只要給他們空間並看著他們愛的結晶就行了。
+m.upgrade.name.coop.walls = 高牆
+m.upgrade.desc.coop.walls = 適合確保雞在雞舍裡頭，飢餓史萊姆在外頭。
+m.upgrade.name.coop.feeder = 春草
+m.upgrade.desc.coop.feeder = 春草能吸引一籮筐雞所愛吃的小蟲子。當肚子填飽了， \
+    母雞能以兩倍的速度下蛋。
+m.upgrade.name.coop.vitamizer = 營養器
+m.upgrade.desc.coop.vitamizer = 最新的家禽科技，營養器能讓小雞處於 \
+    「維他命方式」之下，使得他們能以兩倍的速度長成母雞或公雞。
 
-t.garden = Garden
-m.intro.garden = Nothing beats the taste of food grown in your own backyard.
-m.desc.garden = The gardens used by ranchers use advanced technology to rapidly grow clones of fruits and \
-	veggies in a natural, though greatly sped up, way. By placing a sample into the replicator, the garden's \
-	soil is instantly populated by a fruit tree or veggie patch that will go on to produce several harvests of produce.
-m.upgrade.name.garden.sprinkler = Sprinkler
-m.upgrade.desc.garden.sprinkler = A sprinkler ensures that your crops are always watered, making them grow twice as fast.
-m.upgrade.name.garden.soil = Nutrient Soil
-m.upgrade.desc.garden.soil = Nutrient soil contains compost from the Moss Blanket and minerals from the Indigo \
-	Quarry. Makes crops always yield the maximum harvest.
-m.upgrade.name.garden.scareslime = Scareslime
-m.upgrade.desc.garden.scareslime = A scareslime is a stuffed tarr model designed to keep wandering slimes away from \
-    your crops. Simple, but terrifying.
+t.garden = 果園
+m.intro.garden = 沒有東西的味道能擊敗後院所種的食物。
+m.desc.garden = 牧場主用果園的最新科技來快速的複製並種植來自大自然的蔬菜或水果， \
+	以一種真的很高速的模式。透過在複製器裡放置一個樣本，果園的土壤會 \
+	立即放入能承受多次採收果樹或蔬菜種子。
+m.upgrade.name.garden.sprinkler = 灑水器
+m.upgrade.desc.garden.sprinkler = 灑水器確保你的作物永遠濕潤，這樣能使他們以兩倍速度生長。
+m.upgrade.name.garden.soil = 營養土
+m.upgrade.desc.garden.soil = 營養土含有混合自苔蘚之地和靛青礦場的礦物質。 \
+    確保每一次收成都能最大化收穫。
+m.upgrade.name.garden.scareslime = 恐懼史萊姆
+m.upgrade.desc.garden.scareslime = 恐懼史萊姆是以焦油史萊姆為原型，用以確保四處遊走的 \
+    史萊姆能遠離你的作物。簡單，但十分具有威嚇力。
 
-t.silo = Silo
-m.intro.silo = You can't take it with you when you go, so put it in storage.
-m.desc.silo = A silo lets a rancher neatly store plorts and resources in a handy, compact unit. Simply shoot into \
-	an available silo port to fill it, or vac it to retrieve the items within. Remember, a clean ranch is a happy ranch!
-m.upgrade.name.silo.storage2 = Additional Storage
-m.upgrade.desc.silo.storage2 = A silo can have up to four ports for storing plorts and resources.
+t.silo = 筒倉
+m.intro.silo = 你沒辦法把東西帶著走，那就把它放進筒倉裡吧。
+m.desc.silo = 筒倉讓牧場主能以方便、緊密的單元儲放結晶或資源。只要將物品射入 \
+	空的筒倉槽裡就行了，或者是吸取來提領物品。記得，一個乾淨的牧場才是開心的牧場！
+m.upgrade.name.silo.storage2 = 更多空間
+m.upgrade.desc.silo.storage2 = 一個筒倉最多能提供四個儲放結晶或資源的倉槽。
 
-t.incinerator = Incinerator
-m.intro.incinerator = Don't need it? Burn it!
-m.desc.incinerator = An incinerator will instantly burn anything it touches into ash, and then burn that ash into \
-	nothing. It's an excellent solution for eliminating a tarr outbreak or for simply disposing of unwanted \
-	slimes if you're a terrible, heartless monster.
+t.incinerator = 焚化爐
+m.intro.incinerator = 不需要？那就燒掉吧！
+m.desc.incinerator = 焚化爐會將任何碰觸到他的物品化為灰燼，再將灰燼化為虛無。 \
+	對於消滅焦油史萊姆的爆亂，這會是一個優異的解決方法， \
+    或只是拋棄你不想要的史萊姆，如果你是一個糟糕、沒良心的牧場主。
 
-t.pond = Pond
-m.intro.pond = Water you going to do with this?
-m.desc.pond = A pond gives you a source of fresh water on the ranch that you can use for watering gardens, calming \
-    slimes in a corral, defeating tarr, or giving your puddle slimes a place to hang out.\n\n\
-    A pond will be slowly consumed if vac'd up or drunk up by puddle slimes, but will also slowly refill over time. \
-    You can transfer unused water from your vacpack to a pond, and they will refill immediately when it rains.
+t.pond = 池塘
+m.intro.pond = 用它來對你想處理的事物澆水？
+m.desc.pond = 池塘能在你的牧場裡提供新鮮的水源，你可以用它來在澆花、安撫 \
+    圍欄裡的史萊姆、擊退焦油史萊姆或是讓你的水狀史萊姆有個空間能閒晃\n\n\
+    池塘的水如果被吸取或是被水狀史萊姆攝取，會慢慢的耗損，但也會隨著時間增長而慢慢補充。 \
+    你可以將吸取器裡的水社進池塘裡，或者是下雨時他也會立即填滿。
 
-t.plort_market = Plort Market
-m.intro.plort_market = Feed slimes. Collect plorts. Get paid.
-m.desc.plort_market = The plort market is a network of buyers and sellers of plorts across the galaxy. Ranchers use \
-    plort market machines on their ranch to send plorts to the market for sale. Ranchers are paid immediately when \
-    depositing plorts at the plort's current market value.\n\n\
-    Plort market values fluctuate and some of the more savvy ranchers will hoard certain plorts for days when sale \
-    prices are high, especially rare plorts.
+t.plort_market = 結晶市場
+m.intro.plort_market = 餵食史萊姆，收集結晶，獲得報酬。
+m.desc.plort_market = 結晶市場是銀河系間的買賣家網路。牧場主 \
+    可以用牧場上的結晶市場機來販售結晶。當牧場主將結晶放入時 \
+    能根據當前市場價格馬上獲得付款。\n\n\
+    結晶市場的價格波動不穩，而某些較有經驗的牧場主會貯存結晶，等套價格較高時 \
+    再售出，尤其是稀有結晶。
 
 t.overgrowth = Overgrowth
-m.intro.overgrowth = The ranch's very own wild side.
-m.desc.overgrowth = The overgrowth is an expansion to the ranch that is covered in moss and tall grasses. The \
-    thicket it creates allows for fruits and veggies to grow naturally and attracts the occasional wild chicken, \
-    making it an ideal space for a rancher that wants to let their slimes roam more freely.
-t.grotto = The Grotto
-m.intro.grotto = A dark and gloomy cavern above the sea and a likely first chapter to that novel of yours.
-m.desc.grotto = The grotto is an expansion to the ranch set inside a (slightly spooky) cave that allows a rancher to \
-    care for light-sensitive slimes without the need for a solar shield. Never has a phosphor slime felt so liberated.
+m.intro.overgrowth = 牧場上原始的一側。
+m.desc.overgrowth = The overgrowth 是一塊延伸在牧場之旁、覆滿苔蘚以及高草的土地。 \
+    它的灌木叢提供蔬果自然的生長環境，並經常性的吸引野生的雞隻， \
+    使她成為一個極佳的環境，適合想讓史萊姆們過的舒適點的牧場主。
+t.grotto = 洞穴
+m.intro.grotto = 一個處在海上的陰森、黑暗的洞穴，就像是關於你的小說的第一章那樣。
+m.desc.grotto = （有點陰森的）洞穴延伸在牧場的一側 ，能讓牧場主在這不必使用太陽防護網 \
+    便能照料光敏感型的史萊姆。從來沒有一個螢光史萊姆能覺得如此自在。
 
 # Range
 t.reef = The Dry Reef
