@@ -645,67 +645,67 @@ m.desc.grotto = （有點陰森的）洞穴延伸在牧場的一側 ，能讓牧
     便能照料光敏感型的史萊姆。從來沒有一個螢光史萊姆能覺得如此自在。
 
 # Range
-t.reef = The Dry Reef
-m.intro.reef = A coral-crusted ocean floor that now basks under a golden sun.
-m.desc.reef = The environment surrounding the ranch is known as the Dry Reef and is an arid, wind-swept land covered \
-    in dusty crags and rocky cliffs shaped by the wind over the millennia.\n\
+t.reef = 乾旱礁地
+m.intro.reef = 現今暴露在豔陽之下的古珊瑚海底。
+m.desc.reef = 這環繞在牧場周遭的區域以乾旱礁地之名廣為人知，故名而知，這裡是個被滿是灰塵的峭壁和 \
+    數千年來由風刻出的岩石懸崖所環繞的乾旱、多風陸地。\n\
     \n\
-    The Dry Reef is primarily home to pink, tabby, and rock slimes though phosphor slimes will also come out of \
-    hiding when the sun sets. The Dry Reef's climate doesn't make for an abundance of any particular resource, but plenty \
-    of carrots, pogofruit, and hen hens are everywhere, as well as some less common resources if you know where to look.
+    乾旱礁地主要是粉紅、斑貓、和岩石史萊姆的家，但不僅如此，日落之後，螢光史萊姆也會從他們的 \
+    藏身處蹦出。乾旱礁地的氣候使它無法產出大量的蔬果，但豐富的 \
+    胡蘿蔔、波戈果和母雞隨處可見，以及少量較稀有的資源，如果你知道在哪的話。
 
-t.quarry = The Indigo Quarry
-m.intro.quarry = All that remains of a mining project that quickly went bust.
-m.desc.quarry = The Indigo Quarry is a winding network of caves and cliffs, striated with deep purple hues from the rare \
-    minerals found within it. It was once the site of a mining project but went bust after the discovery that the rare ores \
-    it produces quickly break down in atmospheres other than that of the Far, Far Range.\n\
+t.quarry = 靛青礦場
+m.intro.quarry = 這裡只有快速失敗的挖礦計畫。
+m.desc.quarry = 靛青礦場是由洞穴和峭壁所組合而成的崎嶇區域，此地區的岩壁通常覆有由裡頭稀有深紫礦物 \
+    所染色的條紋。原先這有個開採計劃，但在發現開採出來的稀有礦物 \
+    在遙遠之地外的大氣便會快速破碎之後，計畫便告吹了。 \n\
     \n\
-    It was later discovered that the means to harness these metals was via rock slime plorts. Somehow, rock slime plorts \
-    preserve the minerals within, a process that eludes even the most prestigious slime scientists.\n\
+    過了不久才發現能透過岩石結晶來巧妙地攜帶這種礦物。不知如何，岩石結晶 \
+    能將礦物保存在其中，這個轉化程序甚至難倒了最具聲望的史萊姆學家。 \n\
     \n\
-    The Indigo Quarry is a natural home for rock slimes and the more elusive rad slime, and its naturally mineral-rich soil \
-    make it a great place to harvest most wild veggies.
+    靛青礦場是岩石史萊姆和令人躲避的輻射史萊姆的家，這裡富有礦物質的土壤 \
+    使其十分適合野生的蔬菜成長。
 
-t.moss = The Moss Blanket
-m.intro.moss = Like a flower blooming from a rocky crack, this emerald expanse hints at what could be.
-m.desc.moss = The Moss Blanket is an island covered in a thick layer of moss where flora grows wild in great, tangling \
-    knots at every turn. The high walls of the cliffs surrounding the island and its great canopy of trees allow for sea \
-    mists to pass in and become trapped, creating a unique climate within the otherwise arid range.\n\
+t.moss = 苔蘚之地
+m.intro.moss = 就像在岩縫間迸出的花朵般，這塊翠綠的廣袤土地說明了一切可能。
+m.desc.moss = 苔蘚之地是一座由厚苔蘚所覆蓋的島嶼，在此，植物狂野茂盛的長著，每次回頭之際 \
+    總會發現它們錯蹤交結在一塊。岩壁所組成的高牆環繞著島嶼，頂頭籠照著樹叢，使得海岸的水氣能夠進入\
+    並被困在裡頭，造成這不同於其他乾旱地區的獨特氣候。\n\
     \n\
-    The slimes primarily found within the Moss Blanket find its jungle-like conditions perfect: tabby and boom slimes \
-    hunt their prey through the thickets with abandon, and honey slimes lounge in the flower beds, eating the great \
-    abundance of fruit that can be found at every turn.
+    主要在苔蘚之地發現的史萊姆為喜歡在叢林蹦蹦跳跳的類型：斑貓和砰砰史萊姆 \
+    ，在樹林間捕食並造成大破壞。另外還有蜂蜜史萊姆居住在花床之上，吃著 \
+    在這所發現的豐沛水果。
 
-t.desert = The Glass Desert
+t.desert = 玻璃沙漠
 m.intro.desert = TBD
 m.desc.desert = TBD
 
-t.sea = The Slime Sea
-m.intro.sea = An expansive body of water and slime compound that's not fit for swimming, let alone drinking.
-m.desc.sea = The Slime Sea that covers most of the Far, Far Range is something of a mystery. It is seemingly a mixture \
-    of water and slime that is believed to be the primordial pool whence all slimes emerged, though its true purpose is \
-    entirely unknown by even the most esteemed slime scientists.\n\
+t.sea = 史萊姆之海
+m.intro.sea = 由水和史來母所組成的大一片海洋，通常不允許游泳，更不用說飲用了。
+m.desc.sea = 史萊姆之海是塊神秘的區域，佔據了大部分的遙遠之地。 這裡看起來就像是史萊姆和 \
+    水的混合物，傳說這裡最初是所有史萊姆冒出的地方，但到目前為止， \
+    就連最具聲望的史萊姆學家也不知道是否如此。\n\
     \n\
-    What is known is that the liquid found within the Slime Sea is not fit for drinking, watering crops, or even \
-    swimming, as most things seem to quickly sink to the bottom. When a slime enters the slime sea it quickly vanishes \
-    but it is widely believed that this far from ends the slime's existence, for slimes that enter the sea can often \
-    be seen quickly reappearing back on land, happy as ever. In fact, many slime scientists believe that slimes use the \
-    sea as a means of transportation, moving swiftly below the surface and popping out on land wherever they see fit.\n\
+    目前已知的僅有史萊姆之海裡的液體不適合飲用、澆灌作物、甚至游泳， \
+    因為大部分的物品會快速的沉到底部。當史萊姆進入史萊姆之海，他會迅速地被摧毀。 \
+    但人們普遍認為這並不影響史萊姆的存亡，進去海裡的史萊姆 \
+    會迅速地重新出現在陸上，像平常一樣開心。事實上，許多史萊姆學家認為 \
+    史來母用海作為一種傳送的手段，迅速的在海平面底下活動，並在適合的時候蹦出海面，跳到陸上。\n\
     \n\
-    But all theories aside, one fact remains very clear, most especially to ranchers: don't enter the Slime Sea!
+    撇除一切理論，對於牧場主而言有一件事是很確切的：別進入史萊姆之海！
 
-t.the_ranch = The Ranch
-m.intro.the_ranch = A distant home for distant hearts.
-m.desc.the_ranch = Beatrix begins her life on a humble ranch in the middle of an area of the Far, Far Range known as the \
-    Dry Reef. Once the property of the legendary slime rancher and notorious old codger, Hobson Twillgers, the ranch \
-    has seen better days, as Hobson let it come into a state of disrepair shortly before disappearing completely.\n\
+t.the_ranch = 牧場
+m.intro.the_ranch = 冷淡遠親的家。
+m.desc.the_ranch = Beatrix 在遙遠之地中央乾旱礁地的簡陋牧場開啟他的新生活。 \
+    這曾經是傳奇史來母牧場主和惡名昭彰的老怪人， Hobson Twillgers，的財產。在Hobson完全消失 \
+    任其失修前的一小段時光，這裡曾十分美好\n\
     \n\
-    Hobson's whereabouts are currently unknown.
+    目前Hobson行蹤不明。
 
-t.keys = Slime Keys
-m.intro.keys = An ancient key for an ancient lock.
-m.desc.keys = Slime Keys are large, stone keys that are used to open the ancient slime gates across the range. \
-    These gates often lead to new areas to explore or create shortcuts to familiar ones.
+t.keys = 史萊姆鑰匙 
+m.intro.keys = 對應著古老之鎖的古老鑰匙。
+m.desc.keys = 史萊姆鑰匙是把石質的大鑰匙，用以打開四散在遙遠之地上的古老大門。 \
+    這些大門通常能帶領你到達未探索的區域或是通往熟悉地區的傳送門。
 
 ##### LARGOS, hud-only ######
 t.pink_rock_largo = Pink Rock Largo
