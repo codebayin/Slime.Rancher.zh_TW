@@ -450,109 +450,109 @@ m.how_to_use.pear = 在果園裡種植棘梨，你便能採收到大量的棘梨
     這個作物能承受數次的採收。
 m.desc.pear = （說明尚未推出）
 
-t.chickadoo = Chickadoo
-m.intro.chickadoo = So little and soft you'd think they're filled with marshmallow.
-m.favored_by.chickadoo = (none)
-m.resource_type.chickadoo = Future Meat
-m.how_to_use.chickadoo = Keep chickadoos in a safe place and they'll eventually grow into a hen hen or roostro.
-m.desc.chickadoo = Chickadoos are baby chickens that will eventually grow into a hen hen or more rarely, a roostro.\n\
+t.chickadoo = 小雞
+m.intro.chickadoo = 那麼地小和柔軟，你甚至會以為他們是由棉花糖所填滿的。
+m.favored_by.chickadoo = （無）
+m.resource_type.chickadoo = 尚未成熟
+m.how_to_use.chickadoo = 將小雞放在安全的地方，最後便會長成母雞或公雞。
+m.desc.chickadoo = 小雞為雞的幼體，而最後會長成母雞或較稀有的公雞。\n\
     \n\
-    Chickadoos of all varieties will never be eaten by slimes. Some believe this is because slimes are too kind-hearted \
-    to do such a thing. Others believe it's because chickadoos don't yet have enough meat on their bones.
+    所有品種的小雞都不為史萊姆所食用。有些人認為是因為史萊姆心軟不肯吃， \
+    而另一些人認為是因為小雞的肉還不夠多。   
 
-t.stony_chickadoo = Stony Chickadoo
-m.intro.stony_chickadoo = This little chick had quite a hard upbringing.
-m.favored_by.stony_chickadoo = (none)
-m.resource_type.stony_chickadoo = Future Meat
-m.how_to_use.stony_chickadoo = Keep stony chickadoos in a safe place and they'll eventually grow into a stony hen or roostro.
-m.desc.stony_chickadoo = Stony chickadoos are baby chickens that will eventually grow into a stony hen or more rarely, a roostro.\n\
+t.stony_chickadoo = 石小雞
+m.intro.stony_chickadoo = 這些小雞實在是很難養。
+m.favored_by.stony_chickadoo = （無）
+m.resource_type.stony_chickadoo = 尚未成熟
+m.how_to_use.stony_chickadoo = 將石小雞放在安全的地方，最後便會長成石母雞或公雞。
+m.desc.stony_chickadoo = 石小雞為雞的幼體，而最後會長成石母雞或較稀有的公雞。\n\
     \n\
-    Chickadoos of all varieties will never be eaten by slimes. Some believe this is because slimes are too kind-hearted \
-    to do such a thing. Others believe it's because chickadoos don't yet have enough meat on their bones.
+    所有品種的小雞都不為史萊姆所食用。有些人認為是因為史萊姆心軟不肯吃， \
+    而另一些人認為是因為小雞的肉還不夠多。
 
-t.briar_chickadoo = Briar Chickadoo
-m.intro.briar_chickadoo = A breed of chick that's totally bush-league.
-m.favored_by.briar_chickadoo = (none)
-m.resource_type.briar_chickadoo = Future Meat
-m.how_to_use.briar_chickadoo = Keep briar chickadoos in a safe place and they'll eventually grow into a briar hen or roostro.
-m.desc.briar_chickadoo = Briar chickadoos are baby chickens that will eventually grow into a briar hen or more rarely, a roostro.\n\
+t.briar_chickadoo = 野小雞
+m.intro.briar_chickadoo = 一種野蠻的小雞。
+m.favored_by.briar_chickadoo = （無）
+m.resource_type.briar_chickadoo = 尚未成熟
+m.how_to_use.briar_chickadoo = 將野小雞放在安全的地方，最後便會長成野母雞或公雞。
+m.desc.briar_chickadoo = 野小雞為雞的幼體，而最後會長成野母雞或較稀有的公雞。\n\
     \n\
-    Chickadoos of all varieties will never be eaten by slimes. Some believe this is because slimes are too kind-hearted \
-    to do such a thing. Others believe it's because chickadoos don't yet have enough meat on their bones.
+    所有品種的小雞都不為史萊姆所食用。有些人認為是因為史萊姆心軟不肯吃， \
+    而另一些人認為是因為小雞的肉還不夠多。
 
-t.henhen = Hen Hen
-m.intro.henhen = A hearty chicken bred to be twice as tasty as its cousin on Earth.
-m.favored_by.henhen = (none)
-m.resource_type.henhen = Meat
-m.how_to_use.henhen = Hen hens in close proximity to roostros will periodically lay eggs that produce chickadoos. \
-    However, keeping too many hens or roostros in close proximity makes them anxious and egg production will come \
-    to a halt. Savvy ranchers with an understanding of the complex nature of chicken romance always keep their \
-    coops from exceeding 12 grown chickens.
-m.desc.henhen = Hen hens are a special breed of chicken bred to survive the climate of the Far, Far Range. \
-    While appearing more or less like a big chicken, these burly birds are much more adept at fending for themselves, \
-    making them ideal for ranchers who might otherwise be distracted by a few hundred hungry slimes.
+t.henhen = 母雞
+m.intro.henhen = 一種營養豐富且比他在地球上的表親好吃兩倍的雞。
+m.favored_by.henhen = （無）
+m.resource_type.henhen = 肉類
+m.how_to_use.henhen = 如果把母雞跟公雞放在一起，母雞會定期下可長成小雞的蛋。 \
+    但是，如果將太多母雞和公雞放在一起，他們會感到焦慮，並使得他們停止下蛋。 \
+    知曉此事並懂得雞之間浪漫的牧場主最多只會 \
+    在雞舍裡養12隻已成熟的雞。
+m.desc.henhen = 母雞是種特別的品種，他們能適應遙遠之地的特殊氣候。 \
+    不管像或不像一隻成熟的大雞，這些強壯的鳥類在照料自己這回事上滿熟練的， \
+    對於必須照料數百隻狂暴的史萊姆的牧場主，他們是十分理想的。
 
-t.stony_hen = Stony Hen
-m.intro.stony_hen = Has a rock solid conviction... in chicken stuff.
-m.favored_by.stony_hen = Tabby Slime
-m.resource_type.stony_hen = Meat
-m.how_to_use.stony_hen = Stony hens in close proximity to roostros will periodically lay eggs that produce stony chickadoos. \
-    However, keeping too many hens or roostros in close proximity makes them anxious and egg production will come \
-    to a halt. Savvy ranchers with an understanding of the complex nature of chicken romance always keep their \
-    coops from exceeding 12 grown chickens.
-m.desc.stony_hen = Stony hens are thought to have evolved from hen hens who once trekked deep into the mountains of the Far, Far \
-    Range. Perhaps these birds were seeking a clarity of mind that one can only truly obtain through meditation amongst those \
-    lofty, barren crags. But most likely, they were just stupid and got lost.
+t.stony_hen = 石母雞
+m.intro.stony_hen = 有著「堅硬」不搖的信念……在雞的本質上。
+m.favored_by.stony_hen = 斑貓史萊姆
+m.resource_type.stony_hen = 肉類
+m.how_to_use.stony_hen = 如果把石母雞跟公雞放在一起，石母雞會定期下可長成石小雞的蛋。 \
+    但是，如果將太多母雞和公雞放在一起，他們會感到焦慮，並使得他們停止下蛋。 \
+    知曉此事並懂得雞之間浪漫的牧場主最多只會 \
+    在雞舍裡養12隻已成熟的雞。
+m.desc.stony_hen = 石母雞被認為是從遙遠之地上集體移居到深山裡的母雞進化而來。 \
+    也許這些母雞是在尋求心靈的祥和，而只有在高聳、荒涼的峭壁間沉思方能求之。 \
+    但較有可能的，他們只是有點笨並迷路了。
 
-t.briar_hen = Briar Hen
-m.intro.briar_hen = A real wild bird that loves to ramble in the bramble.
-m.favored_by.briar_hen = Boom Slime
-m.resource_type.briar_hen = Meat
-m.how_to_use.briar_hen = Briar hens in close proximity to roostros will periodically lay eggs that produce briar chickadoos. \
-    However, keeping too many hens or roostros in close proximity makes them anxious and egg production will come \
-    to a halt. Savvy ranchers with an understanding of the complex nature of chicken romance always keep their \
-    coops from exceeding 12 grown chickens.
-m.desc.briar_hen = Briar hens are a chicken variant born from the wild thickets of the Far, Far Range. They were first discovered \
-    long ago by an explorer who noted that they seemed to have a complex tribal structure, and a fascinating series of chicken \
-    customs. He even may have joined the briar tribe as an honorary chicken himself! His records end there however, and we know \
-    nothing else about him or his findings. Oh, but his name was Carl. We know that.
+t.briar_hen = 野母雞
+m.intro.briar_hen = 喜歡再刺藤間漫步的真正野蠻鳥類。
+m.favored_by.briar_hen = 砰砰史萊姆
+m.resource_type.briar_hen = 肉類
+m.how_to_use.briar_hen = 如果把野母雞跟公雞放在一起，野母雞會定期下可長成野小雞的蛋。 \
+    但是，如果將太多母雞和公雞放在一起，他們會感到焦慮，並使得他們停止下蛋。 \
+    知曉此事並懂得雞之間浪漫的牧場主最多只會 \
+    在雞舍裡養12隻已成熟的雞。
+m.desc.briar_hen = 野母雞是在遙遠之地上野生灌木林出生的雞的特種。他們最一開始是被 \
+    很久以前的一位冒險家所發現，那位注意到野母雞有著複雜的部落結構和驚人的習俗的冒險家。 \
+    他甚至有可能加入並在野母雞的部落裡得到官位！他的紀錄到此便結束了， \
+    關於他和他所發現的，我們知道的僅此為止。噢，我們還知道他的名字－卡爾。
 
-t.roostro = Roostro
-m.intro.roostro = Struts his stuff like he's king of the coop.
-m.favored_by.roostro = Hunter Slime
-m.resource_type.roostro = Meat
-m.how_to_use.roostro = All hens in close proximity to roostros will periodically lay eggs that produce chickadoos. \
-    However, keeping too many hens or roostros in close proximity makes them anxious and egg production will come to a \
-    halt. Savvy ranchers with an understanding of the complex nature of chicken romance always keep their coops from \
-    exceeding 12 grown chickens.
-m.desc.roostro = Roostros are the alpha birds on the Far, Far Range and half of the equation required to breed \
-    chickens on the ranch. However, roostros are rarer than any hen making them a great find any time one is discovered.\n\
+t.roostro = 公雞
+m.intro.roostro = 就像是國王般，在雞舍裡昂首闊步。
+m.favored_by.roostro = 獵手史萊姆
+m.resource_type.roostro = 肉類
+m.how_to_use.roostro = 所有的母雞跟公雞放在一起，母雞會定期下可長成小雞的蛋。 \
+    但是，如果將太多母雞和公雞放在一起，他們會感到焦慮，並使得他們停止下蛋。 \
+    知曉此事並懂得雞之間浪漫的牧場主最多只會 \
+    在雞舍裡養12隻已成熟的雞。
+m.desc.roostro = 公雞是遙遠之地上最早的雞，約佔有一半的數量，因他們必須繁衍後代。 \
+    但是實際上，公雞卻比任何母雞還稀有，使得只要有找到他們的探索活動，就可算是收穫豐富。\n\
     \n\
-    To acquire a roostro, either find one out on the range or breed them on the ranch. Any type of chickadoo has a small \
-    chance of growing into a roostro. Some ranchers believe that these odds increase if you greet the Rooster King's \
-    crow at sunrise with an enthusiastic 'good morning!'
+    要獲得公雞，只能在遙遠之地上找尋或是透過繁衍。任何種類的小雞有小機率 \
+    會長成公雞。有些牧場主相信，當你在清晨時用充滿活力的一句「早安」 \
+    來迎接公雞之王的報曉，小雞生成公雞的機率會提升。
 
-t.elder_roostro = Elder Roostro
-m.intro.elder_roostro = Shakes his tail feathers and no one cares.
-m.favored_by.elder_roostro = (none)
-m.resource_type.elder_roostro = Meat
-m.how_to_use.elder_roostro = An elder roostro can no longer sire chickadoos and serves no other purpose than becoming a \
-    slightly tough chicken dinner.
-m.desc.elder_roostro = Elder roostros are the senior-aged roostros who have retired from the otherwise bustling life of their \
-    younger counterparts. 'Young roostros crow too much, they move too fast, and frankly have no respect for their elders,' \
-    an elder roostro might say of youths; as they make a gross, smacking sound with their lips. Though this is of course \
-    impossible, as roostros do not have lips.
+t.elder_roostro = 老公雞
+m.intro.elder_roostro = 搖著他的尾巴，但沒有雞裡他。
+m.favored_by.elder_roostro = （無）
+m.resource_type.elder_roostro = 肉類
+m.how_to_use.elder_roostro = 老公雞無法再生育了，且再也沒有其他理由能使他們不成為 \
+    一頓有點老的雞肉晚餐。
+m.desc.elder_roostro = 老公雞年紀較長，相較於其他活躍的公雞他們已從忙碌的生活中退休了。 \
+    「年輕的公雞啼叫的太多，動得太快，並且的確不尊重長輩。」， \
+   老公雞們總是如此說，摻雜著他們老化的嘴唇所發出的啪啪聲。雖然這是不可能的， \
+   公雞沒有嘴唇。
 
-t.elder_hen = Elder Hen
-m.intro.elder_hen = An old bird whose egg-laying days are over, easy.
-m.favored_by.elder_hen = (none)
-m.resource_type.elder_hen = Meat
-m.how_to_use.elder_hen = An elder hen can no longer lay eggs and serves no other purpose than becoming a slightly \
-    tough chicken dinner.
-m.desc.elder_hen = Elder hens have lived a full-feathered life. They've met the roostro of their dreams, seen their \
-    little chickadoos grow up, and are ready to start the next chapter of their chicken lives. In all likelihood this will \
-    include getting the names of countless books, movies and actors wrong. But don't blame them for that. They're chickens \
-    for goodness sake.
+t.elder_hen = 老母雞
+m.intro.elder_hen = 簡單的說，就是不能在孵蛋的母雞。
+m.favored_by.elder_hen = （無）
+m.resource_type.elder_hen = 肉類
+m.how_to_use.elder_hen = 老母雞無法再下蛋了，且再也沒有其他理由能使她們不成為 \
+    一頓有點老的雞肉晚餐。
+m.desc.elder_hen = 老母雞已經過完完整的一生了。她們遇過夢想中的公雞，看過他們的小雞長大， \
+    並準備進入「雞」生的下一階段。很可能 \
+    他們會叫錯無數的書、電影或演員的名，但別怪他們， \
+    看在上帝的份上。
 
 # Ranch Tech
 t.corral = Corral
