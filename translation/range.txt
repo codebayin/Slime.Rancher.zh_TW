@@ -1,7 +1,7 @@
 # Place-name Translations for things on the range/in the world.
 
 # Zones
-m.dry_reef = 旱礁
+m.dry_reef = 乾旱礁地
 m.quarry = 礦場
 
 # Teleporters

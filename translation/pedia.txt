@@ -14,9 +14,9 @@ m.how_to_use.locked = ???
 m.resource_type.locked = ???
 
 # Intro
-t.splash = 歡迎來到史萊姆牧場
-m.intro.splash = 請別在 Monomi Park 論壇之外分享遊戲截圖或影片。
-m.desc.splash = 你正在遊玩 史萊姆牧場 初期測試版 3. \
+t.splash = 歡迎來到《史萊姆牧場》
+m.intro.splash = 請別在 Monomi Park 論壇之外分享遊戲擷圖或影片。
+m.desc.splash = 你正在遊玩《史萊姆牧場》初期測試版 3. \
 身為勇敢的 Beatrix LeBeau， 你得在這令人興奮的史萊姆世界裡經營自己的牧場\n\
 \n\
 你可以透過養殖史萊姆，餵食他們並獲得結晶來賺錢，將結晶賣到結晶市場， \
@@ -26,11 +26,11 @@ m.desc.splash = 你正在遊玩 史萊姆牧場 初期測試版 3. \
 - 這是非常早期版本的遊戲，所以有很多exposed wires，暫時的圖像，不平衡的內容等等…… \
 	 請多多包容體諒。 \n\
 - 遙遠之地在晚上是十分危險的. 按F來使用手電筒。 \n\
-- 目前在靛藍礦場之外沒有更多關卡 \n\
+- 目前在靛青礦場之外沒有更多關卡 \n\
 - 按F2來回報問題 \n\
 - 請拜訪 forums.monomipark.com 來給我們你的遊玩回饋 \n\
 \n\
-感謝您幫忙測試史萊姆牧場
+感謝您幫忙測試《史萊姆牧場》
 
 # General
 t.basics = 基本玩家操作
@@ -116,7 +116,7 @@ m.plortonomics.rock_slime = 岩石結晶被稱為生產「藍金屬」的重要�
 t.tabby_slime = 斑貓史萊姆
 m.intro.tabby_slime = 斑紋、尾巴、扭扭扭。
 m.diet.tabby_slime = 肉類
-m.favorite.tabby_slime = 岩地母雞
+m.favorite.tabby_slime = 石母雞
 m.slimeology.tabby_slime = 十分奇妙地，斑貓史萊姆和地球上被馴養的家貓有許多相似處，像是 \
     那漂亮的耳朵、條紋後背和那不斷擺動的尾巴。 如果他們沒有那黏稠的史萊姆身體，你幾乎\
     會將他們和貓科動物搞混。
@@ -161,7 +161,7 @@ m.plortonomics.rad_slime = Given that raddies are basically mobile batteries, it
 t.boom_slime = 爆炸史萊姆
 m.intro.boom_slime = 小心點，這些史萊姆會ㄅㄠˋ……
 m.diet.boom_slime = 肉類
-m.favorite.boom_slime = 棘地母雞
+m.favorite.boom_slime = 野母雞
 m.slimeology.boom_slime = 通常在你看見爆炸史萊姆前你會先聽到他們的聲音。爆炸史萊姆的細胞 \
     會不斷的震動，導致他們會在爆炸前發出逐漸變大的霹哩啪啦聲。 \
     雖然如此，在爆炸史萊姆爆炸後他們總是毫髮無傷，雖然他們總會看起來有點昏沉。
@@ -259,7 +259,7 @@ m.slimeology.tarr_slime = 當混種史萊姆吃了不屬於他們來源的結晶
     轉換，將史萊姆變成一團混有七彩旋紋的爛泥，並使得他們食無止盡。 \
     焦油史萊姆會不斷的找尋目標，覓食，並再複製。 \n\
     \n\
-    只有將焦油史萊姆燒掉，或將他們丟進史萊姆之海才能阻止他們。水花\
+    只有將焦油史萊姆燒掉，或將他們丟進史萊姆海才能阻止他們。水花\
     能阻止他們再生，而持續不斷的水能完全摧毀他們。 \n\
     \n\
     但取而代之的，許多牧場主們推薦你高舉雙臂，一邊尖叫，一邊逃離。
@@ -303,7 +303,7 @@ m.slimeology.lucky_slime = 幸運史萊姆是一種特別的斑貓史萊姆，�
     ，或者是說夠幸運，抓到這些機敏的小東西。
 m.risks.lucky_slime = 幸運史萊姆和其他稀有史萊姆一樣：主要的危險來自於追求他們的過程， \
     甚至有可能造成牧場主的死亡。撞見幸運史萊姆時，甚至有些牧場主會為了財富 \
-    而一頭掉進史萊姆之海裡。\n\
+    而一頭掉進史萊姆海裡。\n\
     \n\
     種種徵兆讓某些較迷信的牧場主們將幸運史萊姆視為凶兆，或者是說上天在考驗他們是否貪心。\
     這些牧場主們會忽略幸運史萊姆，甚至將幸運史萊姆射離。 \
@@ -399,8 +399,8 @@ m.favored_by.onion = 水晶史萊姆
 m.resource_type.onion = 蔬菜
 m.how_to_use.onion = 在果園裡種植怪洋蔥，奇怪的，反而會長出胡蘿蔔。 \
 	但是，你仍會有滿大的機率能採收到一些怪洋蔥。這個作物能承受數次的採收。
-m.desc.onion = 怪洋蔥只能在靛藍礦場裡找到，但是，你不會遇到僅種有怪洋蔥的土壤。 \
-	 取而代之，怪洋蔥會隨機出現在種有其他蔬菜的土壤裡。 俗話說，「在靛藍礦場裡探索 \
+m.desc.onion = 怪洋蔥只能在靛青礦場裡找到，但是，你不會遇到僅種有怪洋蔥的土壤。 \
+	 取而代之，怪洋蔥會隨機出現在種有其他蔬菜的土壤裡。 俗話說，「在靛青礦場裡探索 \
      而最後總能發現你的手上有怪洋蔥」
 
 t.parsnip = 銀色歐防風
@@ -634,9 +634,9 @@ m.desc.plort_market = 結晶市場是銀河系間的買賣家網路。牧場主 
     結晶市場的價格波動不穩，而某些較有經驗的牧場主會貯存結晶，等套價格較高時 \
     再售出，尤其是稀有結晶。
 
-t.overgrowth = Overgrowth
+t.overgrowth = 繁茂之地
 m.intro.overgrowth = 牧場上原始的一側。
-m.desc.overgrowth = The overgrowth 是一塊延伸在牧場之旁、覆滿苔蘚以及高草的土地。 \
+m.desc.overgrowth = 繁茂之地是一塊延伸在牧場之旁、覆滿苔蘚以及高草的土地。 \
     它的灌木叢提供蔬果自然的生長環境，並經常性的吸引野生的雞隻， \
     使她成為一個極佳的環境，適合想讓史萊姆們過的舒適點的牧場主。
 t.grotto = 洞穴
@@ -677,27 +677,27 @@ m.desc.moss = 苔蘚之地是一座由厚苔蘚所覆蓋的島嶼，在此，植
     在這所發現的豐沛水果。
 
 t.desert = 玻璃沙漠
-m.intro.desert = TBD
-m.desc.desert = TBD
+m.intro.desert = 待定
+m.desc.desert = 待定
 
-t.sea = 史萊姆之海
-m.intro.sea = 由水和史來母所組成的大一片海洋，通常不允許游泳，更不用說飲用了。
-m.desc.sea = 史萊姆之海是塊神秘的區域，佔據了大部分的遙遠之地。 這裡看起來就像是史萊姆和 \
+t.sea = 史萊姆海
+m.intro.sea = 由水和史萊姆所組成的大一片海洋，通常不允許游泳，更不用說飲用了。
+m.desc.sea = 史萊姆海是塊神秘的區域，佔據了大部分的遙遠之地。 這裡看起來就像是史萊姆和 \
     水的混合物，傳說這裡最初是所有史萊姆冒出的地方，但到目前為止， \
     就連最具聲望的史萊姆學家也不知道是否如此。\n\
     \n\
-    目前已知的僅有史萊姆之海裡的液體不適合飲用、澆灌作物、甚至游泳， \
-    因為大部分的物品會快速的沉到底部。當史萊姆進入史萊姆之海，他會迅速地被摧毀。 \
+    目前已知的僅有史萊姆海裡的液體不適合飲用、澆灌作物、甚至游泳， \
+    因為大部分的物品會快速的沉到底部。當史萊姆進入史萊姆海，他會迅速地被摧毀。 \
     但人們普遍認為這並不影響史萊姆的存亡，進去海裡的史萊姆 \
     會迅速地重新出現在陸上，像平常一樣開心。事實上，許多史萊姆學家認為 \
-    史來母用海作為一種傳送的手段，迅速的在海平面底下活動，並在適合的時候蹦出海面，跳到陸上。\n\
+    史萊姆用海作為一種傳送的手段，迅速的在海平面底下活動，並在適合的時候蹦出海面，跳到陸上。\n\
     \n\
-    撇除一切理論，對於牧場主而言有一件事是很確切的：別進入史萊姆之海！
+    撇除一切理論，對於牧場主而言有一件事是很確切的：別進入史萊姆海！
 
 t.the_ranch = 牧場
 m.intro.the_ranch = 冷淡遠親的家。
 m.desc.the_ranch = Beatrix 在遙遠之地中央乾旱礁地的簡陋牧場開啟他的新生活。 \
-    這曾經是傳奇史來母牧場主和惡名昭彰的老怪人， Hobson Twillgers，的財產。在Hobson完全消失 \
+    這曾經是傳奇史萊姆牧場主和惡名昭彰的老怪人， Hobson Twillgers，的財產。在Hobson完全消失 \
     任其失修前的一小段時光，這裡曾十分美好\n\
     \n\
     目前Hobson行蹤不明。
@@ -777,7 +777,7 @@ m.upgrade.name.personal.liquid_slot = 儲水槽
 m.upgrade.desc.personal.liquid_slot = 加入一個特別的空槽讓你能夠儲放水份。
 m.upgrade.name.personal.jetpack = 噴射背包
 m.upgrade.desc.personal.jetpack = 用這驚人的、個人化的噴射背包來讓你的頭探入雲端。
-m.upgrade.name.personal.jetpack_efficiency = 空氣動力
+m.upgrade.name.personal.jetpack_efficiency = 空氣驅動器
 m.upgrade.desc.personal.jetpack_efficiency = 強化噴射背包，使其消耗少20%的能量但能產生兩倍的樂趣。
 m.upgrade.name.personal.run_efficiency = 衝刺靴
 m.upgrade.desc.personal.run_efficiency = 這雙高科技和，ㄜ坦白說，前衛，的靴子讓你在衝刺時只需要一半的能量。
@@ -785,95 +785,95 @@ m.upgrade.name.personal.air_burst = 衝擊波
 m.upgrade.desc.personal.air_burst = 在吸取器上加入一個衝擊波發射器，在你需要點私人空間時能將史萊姆推開。
 m.upgrade.name.personal.health1 = 生命模組
 m.upgrade.desc.personal.health1 = 和你身體的生命系統同步來增強，將生命值提升到150，除此之外，它還閃亮亮的。
-m.upgrade.name.personal.health2 = 生命模組 Mk II
+m.upgrade.name.personal.health2 = 生命模組II型
 m.upgrade.desc.personal.health2 = 一個更加進步且閃亮的生命模組，能將生命值提升到200。
-m.upgrade.name.personal.health3 = 生命模組 Mk III
+m.upgrade.name.personal.health3 = 生命模組III型
 m.upgrade.desc.personal.health3 = 最新的和最閃耀的生命強化模組，能將生命值提升到250。
-m.upgrade.name.personal.energy1 = 動力核心
+m.upgrade.name.personal.energy1 = 能量核心
 m.upgrade.desc.personal.energy1 = 強化你的吸取器。透過幾乎－確定－安全能量產生器來將能量值提升至150。
-m.upgrade.name.personal.energy2 = 動力核心 Mk II
+m.upgrade.name.personal.energy2 = 能量核心II型
 m.upgrade.desc.personal.energy2 = 更加進步的能量產生器，能將能量值提升至200，但是更重要的是，他變得更小了。
-m.upgrade.name.personal.energy3 = 動力核心 Mk III
+m.upgrade.name.personal.energy3 = 能量核心III型
 m.upgrade.desc.personal.energy3 = 最新的能量產生器，能將你的能量值提升到250，但還是不足以讓你放棄咖啡。
-m.upgrade.name.personal.ammo1 = 槽強化器
+m.upgrade.name.personal.ammo1 = 儲槽增壓器
 m.upgrade.desc.personal.ammo1 = 強化過後的納米儲存科技使你的吸取槽能放置到30單元，無論你吸取了什麼。
-m.upgrade.name.personal.ammo2 = 槽強化器 Mk II
+m.upgrade.name.personal.ammo2 = 儲槽增壓器II型
 m.upgrade.desc.personal.ammo2 = 強化過後的納米儲存科技會對風發出警告，並允許你最多儲放40單元。
-m.upgrade.name.personal.ammo3 = 槽強化器 Mk III
+m.upgrade.name.personal.ammo3 = 儲槽增壓器III型
 m.upgrade.desc.personal.ammo3 = 越多越好，但是在這，是最好了。這最頂級的納米儲存科技使你能儲放50單元。
 
 ##### For gadget panels #####
 m.gadget.name.extractor_drill_novice = 新手鑽頭
-m.gadget.desc.extractor_drill_novice = TBD
+m.gadget.desc.extractor_drill_novice = 待定
 m.gadget.name.extractor_drill_advanced = 進階鑽頭
-m.gadget.desc.extractor_drill_advanced = TBD
+m.gadget.desc.extractor_drill_advanced = 待定
 m.gadget.name.extractor_drill_master = 大師鑽頭
-m.gadget.desc.extractor_drill_master = TBD
+m.gadget.desc.extractor_drill_master = 待定
 m.gadget.name.extractor_drill_titan = 泰坦鑽頭
-m.gadget.desc.extractor_drill_titan = TBD
+m.gadget.desc.extractor_drill_titan = 待定
 m.gadget.name.extractor_pump_novice = 新手幫浦
-m.gadget.desc.extractor_pump_novice = TBD
+m.gadget.desc.extractor_pump_novice = 待定
 m.gadget.name.extractor_pump_advanced = 進階幫浦
-m.gadget.desc.extractor_pump_advanced = TBD
+m.gadget.desc.extractor_pump_advanced = 待定
 m.gadget.name.extractor_pump_master = 大師幫浦
-m.gadget.desc.extractor_pump_master = TBD
+m.gadget.desc.extractor_pump_master = 待定
 m.gadget.name.extractor_pump_abyssal = 深海幫浦
-m.gadget.desc.extractor_pump_abyssal = TBD
+m.gadget.desc.extractor_pump_abyssal = 待定
 m.gadget.name.extractor_apiary_novice = 新手蜂房
-m.gadget.desc.extractor_apiary_novice = TBD
+m.gadget.desc.extractor_apiary_novice = 待定
 m.gadget.name.extractor_apiary_advanced = 進階蜂房
-m.gadget.desc.extractor_apiary_advanced = TBD
+m.gadget.desc.extractor_apiary_advanced = 待定
 m.gadget.name.extractor_apiary_master = 大師蜂房
-m.gadget.desc.extractor_apiary_master = TBD
+m.gadget.desc.extractor_apiary_master = 待定
 m.gadget.name.extractor_apiary_royal = 皇家蜂房
-m.gadget.desc.extractor_apiary_royal = TBD
+m.gadget.desc.extractor_apiary_royal = 待定
 
 m.gadget.name.teleporter_pink = 粉紅傳送器
-m.gadget.desc.teleporter_pink = TBD
+m.gadget.desc.teleporter_pink = 待定
 m.gadget.name.teleporter_blue = 藍色傳送器
-m.gadget.desc.teleporter_blue = TBD
+m.gadget.desc.teleporter_blue = 待定
 m.gadget.name.teleporter_violet = 粉紫傳送器
-m.gadget.desc.teleporter_violet = TBD
+m.gadget.desc.teleporter_violet = 待定
 m.gadget.name.teleporter_grey = 灰色傳送器
-m.gadget.desc.teleporter_grey = TBD
+m.gadget.desc.teleporter_grey = 待定
 m.gadget.name.teleporter_green = 綠色傳送器
-m.gadget.desc.teleporter_green = TBD
+m.gadget.desc.teleporter_green = 待定
 m.gadget.name.teleporter_red = 紅色傳送器
-m.gadget.desc.teleporter_red = TBD
+m.gadget.desc.teleporter_red = 待定
 m.gadget.name.teleporter_amber = 琥珀傳送器
-m.gadget.desc.teleporter_amber = TBD
+m.gadget.desc.teleporter_amber = 待定
 m.gadget.name.teleporter_gold = 黃金傳送器
-m.gadget.desc.teleporter_gold = TBD
+m.gadget.desc.teleporter_gold = 待定
 
 m.gadget.name.warp_depot_pink = Pink Warp Depot
-m.gadget.desc.warp_depot_pink = TBD
+m.gadget.desc.warp_depot_pink = 待定
 m.gadget.name.warp_depot_blue = Blue Warp Depot
-m.gadget.desc.warp_depot_blue = TBD
+m.gadget.desc.warp_depot_blue = 待定
 m.gadget.name.warp_depot_violet = Violet Warp Depot
-m.gadget.desc.warp_depot_violet = TBD
+m.gadget.desc.warp_depot_violet = 待定
 m.gadget.name.warp_depot_grey = Grey Warp Depot
-m.gadget.desc.warp_depot_grey = TBD
+m.gadget.desc.warp_depot_grey = 待定
 m.gadget.name.warp_depot_green = Green Warp Depot
-m.gadget.desc.warp_depot_green = TBD
+m.gadget.desc.warp_depot_green = 待定
 m.gadget.name.warp_depot_red = Red Warp Depot
-m.gadget.desc.warp_depot_red = TBD
+m.gadget.desc.warp_depot_red = 待定
 m.gadget.name.warp_depot_amber = Amber Warp Depot
-m.gadget.desc.warp_depot_amber = TBD
+m.gadget.desc.warp_depot_amber = 待定
 m.gadget.name.warp_depot_gold = Gold Warp Depot
-m.gadget.desc.warp_depot_gold = TBD
+m.gadget.desc.warp_depot_gold = 待定
 
 
 m.gadget.name.med_station = Med Station
-m.gadget.desc.med_station = TBD
+m.gadget.desc.med_station = 待定
 m.gadget.name.hydro_turret = Hydro Turret
-m.gadget.desc.hydro_turret = TBD
+m.gadget.desc.hydro_turret = 待定
 m.gadget.name.hydro_shower = Hydro Shower
-m.gadget.desc.hydro_shower = TBD
+m.gadget.desc.hydro_shower = 待定
 m.gadget.name.spring_pad = Spring Pad
-m.gadget.desc.spring_pad = TBD
+m.gadget.desc.spring_pad = 待定
 m.gadget.name.refinery_link = Refinery Link
-m.gadget.desc.refinery_link = TBD
+m.gadget.desc.refinery_link = 待定
 m.gadget.name.potted_tactus = Potted Tactus
-m.gadget.desc.potted_tactus = TBD
+m.gadget.desc.potted_tactus = 待定
 m.gadget.name.taming_bell = Taming Bell
-m.gadget.desc.taming_bell = TBD
+m.gadget.desc.taming_bell = 待定

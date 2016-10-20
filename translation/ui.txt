@@ -380,7 +380,7 @@ b.expo_start = 全新開始
 b.expo_advanced = 進階牧場
 b.expo_range = 超出範圍
 m.desc.expo_start = 開始一個全新的牧場並透過教學熟悉遊戲。
-m.desc.expo_advanced = 體驗完整功能的牧場，滿滿的史萊姆， \
+m.desc.expo_advanced = 體驗完整功能的牧場，滿滿的史萊姆，\
     並準備開始經營牧場吧！
 m.desc.expo_range = 專為冒險者設計，從遙遠之地的原始荒野展開冒險。
 
@@ -388,13 +388,13 @@ m.desc.expo_range = 專為冒險者設計，從遙遠之地的原始荒野展開
 b.faq = 常見問答集
 t.xbox_faq = Xbox One常見問答集
 l.xbox_faq_q_achievements = 《史萊姆牧場》會有Xbox成就嗎？
-l.xbox_faq_a_achievements = Xbox成就將會在《史萊姆牧場》結束遊戲預覽之後開放。 \
+l.xbox_faq_a_achievements = Xbox成就將會在《史萊姆牧場》結束遊戲預覽之後開放。\
     到時在遊戲中已獲得的成就將會立即解開Xbox成就！
 l.xbox_faq_q_versions = PC版和Xbox One版的《史萊姆牧場》內容一樣嗎？
-l.xbox_faq_a_versions = 是的，我們目標讓兩個版本保持一致。不過，在Xbox建置認證期間， \
+l.xbox_faq_a_versions = 是的，我們目標讓兩個版本保持一致。不過，在Xbox建置認證期間，\
     可能會有幾天的差異。
 l.xbox_faq_q_whats_next = 《史萊姆牧場》下一步有什麼計畫？
-l.xbox_faq_a_whats_next = 我們有大量的內容正在開發，包含可探索的新區域、可放牧的史萊姆， \
+l.xbox_faq_a_whats_next = 我們有大量的內容正在開發，包含可探索的新區域、可放牧的史萊姆，\
     還有全新的功能，例如：史萊姆科學！請至我們的網站了解更多：\n\
     slimerancher.com/roadmap
 
@@ -427,10 +427,10 @@ m.loadingtip.6 = 謠傳摩琪．麥爾斯已經好幾年沒跟父親說話了。
 m.loadingtip.7 = 謠傳鮑勃非人。雞好ㄔ？
 m.loadingtip.8 = 多年來沒有人見過哈博森。有些人說他正在最偏遠的遙遠之地旅行中。
 m.loadingtip.9 = 使用筒倉囤放結晶，直到結晶市場的價格上升再兌換現金。
-m.loadingtip.10 = 你必須購買水槽才能吸取乾淨的水。
+m.loadingtip.10 = 你必須購買儲水槽才能吸取乾淨的水。
 m.loadingtip.11 = 惡劣的焦油史萊姆是混種史萊姆吃了與自身不同的結晶所形成的，要小心喔！
 m.loadingtip.12 = 焦油史萊姆在夜晚容易出沒且存活時間更長，請多加小心。
-m.loadingtip.13 = 靛藍礦場是一個挖掘稀有蔬菜的好地方。
+m.loadingtip.13 = 靛青礦場是一個挖掘稀有蔬菜的好地方。
 m.loadingtip.14 = 苔蘚之地擁有的果樹比遙遠之地的其它地方還多。
 m.loadingtip.15 = 乾淨的水能阻止焦油史萊姆繁殖並消滅牠們。
 m.loadingtip.16 = 無人知曉到底是何方神聖建立了在遙遠之地發現的遠古史萊姆之門。
