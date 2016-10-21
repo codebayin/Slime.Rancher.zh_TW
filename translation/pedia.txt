@@ -2,7 +2,7 @@
 
 # Special
 t.locked = ???
-m.intro.locked = 探索這個物品來將它加入史萊姆百科
+m.intro.locked = 發現此物以將其添加到史萊姆百科。
 m.desc.locked = ???
 m.diet.locked = ???
 m.favorite.locked = ???
@@ -14,73 +14,67 @@ m.how_to_use.locked = ???
 m.resource_type.locked = ???
 
 # Intro
-t.splash = 歡迎來到《史萊姆牧場》
-m.intro.splash = 請別在 Monomi Park 論壇之外分享遊戲擷圖或影片。
-m.desc.splash = 你正在遊玩《史萊姆牧場》初期測試版 3. \
-身為勇敢的 Beatrix LeBeau， 你得在這令人興奮的史萊姆世界裡經營自己的牧場\n\
+t.splash = 歡迎來到《史萊姆牧場》！
+m.intro.splash = 請記住不要在Monomi Park論壇之外的地方分享擷圖或影片。
+m.desc.splash = 您正在遊玩《史萊姆牧場》準預覽版v3。\
+身為勇敢的碧翠絲．樂博，您出發前往了遠遠星球生活，以準備征服這令人興奮的史萊姆牧場世界。\n\
 \n\
-你可以透過養殖史萊姆，餵食他們並獲得結晶來賺錢，將結晶賣到結晶市場， \
-並透過獲得的金錢來將你的牧場升級成強力的結晶製造所 \n\
+您可以透過培育史萊姆、餵食牠們並獲得結晶來賺錢。將結晶拿到結晶市場兌現，\
+並使用獲得的現金來將您的牧場升級成結晶製造所吧！\n\
 \n\
-一些重要的事項: \n\
-- 這是非常早期版本的遊戲，所以有很多exposed wires，暫時的圖像，不平衡的內容等等…… \
-	 請多多包容體諒。 \n\
-- 遙遠之地在晚上是十分危險的. 按F來使用手電筒。 \n\
-- 目前在靛青礦場之外沒有更多關卡 \n\
-- 按F2來回報問題 \n\
-- 請拜訪 forums.monomipark.com 來給我們你的遊玩回饋 \n\
+幾項重要的注意事項：\n\
+- 這是非常早期版本的遊戲，所以有很多錯誤、臨時的圖像、不平衡的內容……等等。敬請多加包容體諒。\n\
+- 遠遠星球的夜晚是十分危險的。按 F 來使用手電筒。\n\
+- 目前除了靛青礦場之外沒有更多關卡。\n\
+- 按 F2 來回報問題。\n\
+- 請造訪 forums.monomipark.com 來提供我們您的遊戲建議。\n\
 \n\
-感謝您幫忙測試《史萊姆牧場》
+感謝您幫忙測試《史萊姆牧場》！
 
 # General
 t.basics = 基本玩家操作
-m.intro.basics = 開始移動吧！
-m.instructions.basics = 移動 （預設: W、A、S、D 鍵）可透過衝刺來加速 （預設: Shift 鍵）， \
-	但這會消耗能量。 \n\
+m.intro.basics = 動起身來。
+m.instructions.basics = 移動（預設：W、A、S、D 鍵）可透過衝刺來加速（預設：Shift 鍵），但這會消耗能量。\n\
 \n\
-跳躍 （預設: 空白鍵） 來到達更高的地方， 又因為這是個好的運動，所以按住跳躍來跑得更遠。 \n\
+跳躍（預設：空白鍵）可到達更高的地方，或者單純練練身體。按住跳躍可跳得更遠。\n\
 \n\
-你可以在提示跳出時和某些物件互動（預設: E 鍵），如果你沒有看到提示的話，就當作那個物件害羞了。
-m.instructions.gamepad.basics = 移動 （預設: 左類比搖桿） 可透過衝刺來加速 （預設: 按下左類比搖桿）, \
-	但這會消耗能量。 \n\
+你可以在提示跳出時和某些物件互動（預設：E 鍵）。如果你沒有看到提示的話，就當那個東西害羞了吧。
+m.instructions.gamepad.basics = 移動（預設：左搖桿）可透過衝刺來加速（預設：按壓左搖桿），但這會消耗能量。\n\
 \n\
-跳躍 （預設: A） 來到達更高的地方， 又因為這是個好的運動，所以按住跳躍來跑得更遠。\n\
+跳躍（預設：A 鈕）可到達更高的地方，或者單純練練身體。按住跳躍可跳得更遠。\n\
 \n\
-你可以在提示跳出時和某些物件互動 （預設: X） ，如果你沒有看到提示的話，就當作那個物件害羞了。
+你可以在提示跳出時和某些物件互動（預設：X 鈕），如果你沒有看到提示的話，就當那個東西害羞了吧。
 m.desc.basics =
 
-t.vacing = 吸取器入門： 吸取
-m.intro.vacing = 成為高超牧場主的第一步。
-m.instructions.vacing = 按壓預設的壓縮鍵 （預設: 滑鼠右鍵） 來吸取史萊姆或其他物品 \n\
+t.vacing = 吸取器入門：吸取
+m.intro.vacing = 成為大師級牧場主的第一步。
+m.instructions.vacing = 按住吸取鍵（預設：滑鼠右鍵）來吸取史萊姆或其它東西。\n\
 \n\
-太大的物品會被吸取在管口，並透過按下射擊鍵來解除壓力並放下。
-m.instructions.gamepad.vacing = 按壓預設的壓縮鍵 （預設: LT） 來吸取史萊姆或其他物品 \n\
+較大的物體會被吸在吸嘴上，可以透過放開吸取鍵將其放下或按射擊鍵將其射出。
+m.instructions.gamepad.vacing = 按住吸取鍵（預設：LT 鈕）來吸取史萊姆或其它東西。\n\
 \n\
-太大的物品會被吸取在管口，並透過按下射擊鍵來解除壓力並放下。
+較大的物體會被吸在吸嘴上，可以透過放開吸取鍵將其放下或按射擊鍵將其射出。
 m.desc.vacing =
 
-t.shooting = 吸取器入門： 射擊
-m.intro.shooting = Ever spray a hose full of chickens? Yes, it's as awesome as it sounds.
-m.instructions.shooting =  按壓射擊鍵（預設: 滑鼠左鍵） 來從指定的吸取槽 \
-	射出史萊姆或物品 \n\
+t.shooting = 吸取器入門：射擊
+m.intro.shooting = 有沒有射過一整槍的雞啊？沒錯，就跟聽起來的一樣好玩。
+m.instructions.shooting =  按射擊鍵（預設：滑鼠左鍵）來射出選定的吸取槽裡的史萊姆或其它東西。\n\
 	\n\
-	按住射擊鍵來持續射出
-m.instructions.gamepad.shooting = 按壓射擊鍵（預設: RT） 來從指定的吸取槽 \
-    射出史萊姆或物品 \n\
-    \n\
-    按住射擊鍵來持續射出
+	按住射擊鍵來連續射擊。
+m.instructions.gamepad.shooting = 按射擊鍵（預設：RT 鈕）來射出選定的吸取槽裡的史萊姆或其它東西。\n\
+	\n\
+	按住射擊鍵來連續射擊。
 m.desc.shooting =
 
-t.capturetanks = 吸取器入門： 吸取槽
-m.intro.capturetanks = 有了奈米科技，任何事情都可能發生，任何東西都能夠再更小
-m.instructions.capturetanks =  按壓對應的按鍵（預設： 1、2、3、4 鍵）來選取吸取槽 \
-    	 或用來滑鼠滾輪來切換 .
-m.instructions.gamepad.capturetanks = 透過按鍵（預設：LB/RB） 來切換吸取槽
+t.capturetanks = 吸取器入門：吸取槽
+m.intro.capturetanks = 奈米科技使萬事成真、萬物皆微。
+m.instructions.capturetanks =  按對應的按鍵（預設：1、2、3、4 鍵）來選取吸取槽，或用（預設：滑鼠滾輪）來循環切換。
+m.instructions.gamepad.capturetanks = 使用按鍵（預設：LB/RB 鈕）來循環切換吸取槽。
 m.desc.capturetanks =
 
-t.energy = 吸取器入門： 能量
+t.energy = 吸取器入門：能量
 m.intro.energy = 有得必有失。
-m.instructions.energy = 透過螢幕上的能量計來監控你的能量。
+m.instructions.energy = 利用介面上的能量計來監控你的能量。
 m.desc.energy =
 
 # Slimes
@@ -783,11 +777,11 @@ m.upgrade.name.personal.run_efficiency = 衝刺靴
 m.upgrade.desc.personal.run_efficiency = 這雙高科技，而且坦白說，還很前衛的靴子能減少一半衝刺時所消耗的能量。
 m.upgrade.name.personal.air_burst = 脈衝波
 m.upgrade.desc.personal.air_burst = 加裝一個脈衝波發射器在吸取器上，可在你需要私人空間時把史萊姆推開。
-m.upgrade.name.personal.health1 = 生命模組
+m.upgrade.name.personal.health1 = 心臟模組
 m.upgrade.desc.personal.health1 = 與你的生理機能同步以強化生命，可將生命值提升到150。附帶一提，它還閃亮亮的。
-m.upgrade.name.personal.health2 = 生命模組II型
+m.upgrade.name.personal.health2 = 心臟模組II型
 m.upgrade.desc.personal.health2 = 一個更高級且更閃亮的生命模組，可將生命值提升到200。
-m.upgrade.name.personal.health3 = 生命模組III型
+m.upgrade.name.personal.health3 = 心臟模組III型
 m.upgrade.desc.personal.health3 = 最新的生命強化系統和閃亮科技的結合，可將生命值提升到250。
 m.upgrade.name.personal.energy1 = 能量核心
 m.upgrade.desc.personal.energy1 = 透過一個幾乎大概安全的微型融合發電器以強化吸取器，可將能量值提升到150。
