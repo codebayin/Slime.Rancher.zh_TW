@@ -13,7 +13,7 @@ m.body.welcome = 樂博絲女士，\n\n\
 	- 7Zee股份有限公司
 
 ### Upgrade emails
-m.subj.upgrade_jetpack_efficiency = 空氣驅動器發售中
+m.subj.upgrade_jetpack_efficiency = 空氣推進器發售中
 m.from.upgrade_jetpack_efficiency = 7Zee股份有限公司
 m.body.upgrade_jetpack_efficiency = 本商品已於升級商店上架。
 
@@ -33,11 +33,11 @@ m.subj.upgrade_energy_3 = 能量核心III型發售中
 m.from.upgrade_energy_3 = 7Zee股份有限公司
 m.body.upgrade_energy_3 = 本商品已於升級商店上架。
 
-m.subj.upgrade_ammo_2 = 儲槽增壓器II型發售中
+m.subj.upgrade_ammo_2 = 儲槽增容器II型發售中
 m.from.upgrade_ammo_2 = 7Zee股份有限公司
 m.body.upgrade_ammo_2 = 本商品已於升級商店上架。
 
-m.subj.upgrade_ammo_3 = 儲槽增壓器III型發售中
+m.subj.upgrade_ammo_3 = 儲槽增容器III型發售中
 m.from.upgrade_ammo_3 = 7Zee股份有限公司
 m.body.upgrade_ammo_3 = 本商品已於升級商店上架。
 

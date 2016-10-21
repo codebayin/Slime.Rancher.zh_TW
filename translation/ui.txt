@@ -92,7 +92,7 @@ t.corral = 圍欄
 b.music_box = 音樂盒
 
 t.garden = 果園
-b.nutrient_soil = 營養土壤
+b.nutrient_soil = 營養土
 b.sprinkler = 灑水器
 b.scareslime = 恐懼史萊姆
 b.clear_crop = 清除作物
@@ -286,7 +286,7 @@ m.keys.0 = -
 m.keys.1 = {0}
 m.keys.2 = {0}
 m.slot_indicator = {0}
-m.press_key = 按任意鍵...
+m.press_key = 按任意鍵……
 
 t.gamepad_settings = 手把配置
 l.sensitivity = 滑鼠靈敏度：
@@ -311,17 +311,17 @@ t.report_issue = 回報問題
 l.description = 請描述問題：
 b.submit = 提交
 m.summary = 摘要
-l.placeholder_summary = 摘要（必填）...
+l.placeholder_summary = 摘要（必填）……
 m.description = 詳細說明
-l.placeholder_description = 詳細說明（選填）...
+l.placeholder_description = 詳細說明（選填）……
 m.reporter = 電子郵件
-l.placeholder_reporter = 你的電子郵件（選填）...
+l.placeholder_reporter = 你的電子郵件（選填）……
 e.require_summary = 請填寫問題的摘要。
-m.sending_report = 發送回報中...
+m.sending_report = 發送回報中……
 
 # Market
 t.market = 結晶市場
-l.loading_prices = 載入市場價格中...
+l.loading_prices = 載入市場價格中……
 l.daily_bonus = 每日獎勵！
 
 # Exchange
@@ -330,7 +330,7 @@ t.special_exchange = 妳好，碧翠絲！
 l.time_hours_mins = {0}:{1}
 l.time_hours_mins_unset = --:--
 l.exchange_progress = {0}/{1}
-l.no_offers_available = 遙遠交易所\n離線...
+l.no_offers_available = 遙遠交易所\n離線……
 l.request = 與我交易：
 l.receive = 你會獲得：
 l.exchange_directions = 將所需的物品射入機器以完成交易。
@@ -347,7 +347,7 @@ m.achieve_progress = {0}/{1}
 m.achieve_overall_progress = 總數：{0}/{1}
 
 m.knocked_out1 = 你被擊倒了！
-m.knocked_out2 = （但休息一天應該可以完全恢復...）
+m.knocked_out2 = （但休息一天應該可以完全恢復……）
 
 # Save errors
 e.savefile_inaccessible = 存檔無法寫入：{0}
@@ -427,7 +427,7 @@ m.loadingtip.6 = 謠傳摩琪．麥爾斯已經好幾年沒跟父親說話了。
 m.loadingtip.7 = 謠傳鮑勃非人。雞好ㄔ？
 m.loadingtip.8 = 多年來沒有人見過哈博森。有些人說他正在最偏遠的遙遠之地旅行中。
 m.loadingtip.9 = 使用筒倉囤放結晶，直到結晶市場的價格上升再兌換現金。
-m.loadingtip.10 = 你必須購買儲水槽才能吸取乾淨的水。
+m.loadingtip.10 = 你必須購買儲水槽才能吸取淨水。
 m.loadingtip.11 = 惡劣的焦油史萊姆是混種史萊姆吃了與自身不同的結晶所形成的，要小心喔！
 m.loadingtip.12 = 焦油史萊姆在夜晚容易出沒且存活時間更長，請多加小心。
 m.loadingtip.13 = 靛青礦場是一個挖掘稀有蔬菜的好地方。
