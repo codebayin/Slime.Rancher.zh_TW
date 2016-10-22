@@ -65,7 +65,7 @@ l.crystal_plort = 水晶結晶
 
 l.gold_plort = 黃金結晶
 
-l.cuberry_fruit = 方梅
+l.cuberry_fruit = 方莓
 l.mango_fruit = 薄荷芒果
 l.pear_fruit = 棘梨
 l.pogo_fruit = 波戈果

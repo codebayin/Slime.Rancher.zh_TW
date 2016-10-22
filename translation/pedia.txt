@@ -125,7 +125,7 @@ m.plortonomics.tabby_slime = 斑貓結晶在各式各樣的「效能強化」製
 t.phosphor_slime = 螢光史萊姆
 m.intro.phosphor_slime = 那微光宣告著星光的到來。
 m.diet.phosphor_slime = 水果
-m.favorite.phosphor_slime = 方梅
+m.favorite.phosphor_slime = 方莓
 m.slimeology.phosphor_slime = 螢光史萊姆只在夜晚現身，揮動著他那半透明的翅膀在月光的沐浴下飛翔。 \
     他有一顆散發著柔光的史萊姆核心，也使他們十分容易被發現。 \
     也因此牧場主們有時稱他為「矮空中的星芒」。
@@ -426,14 +426,14 @@ m.desc.mango = 薄荷芒果可能是目前為止發現最甜的水果了。它�
     更濃厚、像糖漿的果汁，以及清爽、像薄荷的尾韻 。這也難怪蜂蜜史萊姆會不斷尋覓著薄荷芒果而也順帶 \
     使他們有著清新口氣。
 
-t.cuberry = 方梅
+t.cuberry = 方莓
 m.intro.cuberry = 精巧，甜，和永不滾下餐桌。
 m.favored_by.cuberry = 螢光史萊姆
 m.resource_type.cuberry = 水果
-m.how_to_use.cuberry = 在果園裡種植方梅，你便能採收到大量的方梅。 \
+m.how_to_use.cuberry = 在果園裡種植方莓，你便能採收到大量的方莓。 \
     這個作物能承受數次的採收。
-m.desc.cuberry = 由於他們甜味和奇特的形狀，方梅快速地在遙遠之地首批牧場主裡大受歡迎。 \
-    方梅常被用在製作慶祝特別節日的蛋糕或派，像是 \
+m.desc.cuberry = 由於他們甜味和奇特的形狀，方莓快速地在遙遠之地首批牧場主裡大受歡迎。 \
+    方莓常被用在製作慶祝特別節日的蛋糕或派，像是 \
     生日或是結晶派對.
 
 t.pear = 棘梨
