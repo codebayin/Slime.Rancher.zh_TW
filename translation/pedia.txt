@@ -104,7 +104,7 @@ m.risks.rock_slime = 岩石史萊姆的危險相當顯而易見：牠們的石�
 	當你看到岩石史萊姆正在加速旋轉時，最好是避開牠。
 m.plortonomics.rock_slime = 岩石結晶被看作是生產「藍金屬」的重要成分。\
 	藍金屬是一種驚人的合金，比鈦金屬還硬，卻比塑膠還輕。因其驚人的強度，\
-	它通常是製造光速星艦的船身、人造四肢和全息投影機保護殼\
+	它通常是製造光速星艦的船身、人造四肢和全息手機保護殼\
 	的重要成分。
 
 t.tabby_slime = 斑貓史萊姆
@@ -123,34 +123,34 @@ m.plortonomics.tabby_slime = 斑貓結晶在各式各樣的「效能強化」製
 	（不太理想的）斑貓史萊姆的特徵。
 
 t.phosphor_slime = 螢光史萊姆
-m.intro.phosphor_slime = 那微光宣告著星光的到來。
+m.intro.phosphor_slime = 那微光預示著星光的到來。
 m.diet.phosphor_slime = 水果
 m.favorite.phosphor_slime = 方莓
-m.slimeology.phosphor_slime = 螢光史萊姆只在夜晚現身，揮動著他那半透明的翅膀在月光的沐浴下飛翔。 \
-    他有一顆散發著柔光的史萊姆核心，也使他們十分容易被發現。 \
-    也因此牧場主們有時稱他為「矮空中的星芒」。
-m.risks.phosphor_slime = 和其他種史萊姆比起來，螢光史萊姆有特別的需求，他們和他們的結晶 \
-    若接觸到陽光便會快速的消逝，代表如果牧場主沒注意的話，整欄的螢光史萊姆會快速的消失。 \
-    牧場主們必須在拂曉前將他們吸取或放置在陰暗處 \
-    像是：洞穴。
-m.plortonomics.phosphor_slime = 在螢光結晶中發現的複合物能持續發亮超過100年 \
-   ，這能作為地球上極度不可思議的環境友善光源。 全球各個都市正在逐漸 \
-    將燈光改為螢光結晶複合物，這使得他們每天能夠省下數兆瓩電能. 順帶一提， \
-    如果你將螢光結晶複合物塗抹在頭髮上，它會使你看起來非常酷。
+m.slimeology.phosphor_slime = 螢光史萊姆只在夜晚現身，在月光的沐浴下拍動那半透明的翅膀飛翔。\
+	螢光史萊姆具有一顆散發柔光的核心，使得牠們容易被發現。\
+	因此牧場主們有時也稱牠們為「矮空中的眾星」。
+m.risks.phosphor_slime = 與典型的史萊姆相比，螢光史萊姆有著特殊的需求。牠們和自己的結晶\
+	若暴露在陽光下便會快速的消失，這意味著牧場主如果沒注意的話，可能會失去整圈圍欄的螢光史萊姆。\
+	牧場主們必須在破曉前把牠們吸入吸取槽或放置在長年陰暗的地方，\
+	像是：洞穴。
+m.plortonomics.phosphor_slime = 在螢光結晶中發現的發光化合物能持續發亮超過100年，\
+	使其成為地球上非常環保的照明光源。全球各個都市正在逐漸\
+	改用螢光燈，每日能夠省下數兆吉瓦的電能。順帶一提，\
+	如果你把這東西塗在頭髮上，它會發光讓你看起來超酷。
 
 t.rad_slime = 輻射史萊姆
-m.intro.rad_slime = 他們的輻射既可愛卻又能使你不舒服 。
+m.intro.rad_slime = 牠的輻射美到令人生病。
 m.diet.rad_slime = 蔬菜
 m.favorite.rad_slime = 奧卡薯
-m.slimeology.rad_slime = It's unknown if rad slimes, sometimes called 'raddies,' came to be from external radiation \
-    sources or from something naturally ocurring within the Far, Far Range. Regardless, rad slimes emit such a potent \
-    aura of radiation they glow in the dark!
-m.risks.rad_slime = 如果牧場主在輻射史萊姆的輻射光環裡待太久，會造成中毒。 \
-    當在處理這些發綠光的小東西時，我們強烈建議牧場主監控自身的的輻射指數 \
-    ，以免產生不可抹滅的肉體傷害。
-m.plortonomics.rad_slime = Given that raddies are basically mobile batteries, it’s no surprise that corporations value \
-    rad plorts for their incredible energy-producing capabilities. Most rad plorts get turned into ‘plortonium’ and \
-    everything from the latest holophone to a radwave microcook system runs on the stuff.
+m.slimeology.rad_slime = 輻射史萊姆有時被稱為「小輻」，目前尚不清楚牠們是否源自於外太空的放射物，\
+	或源自於遠遠星球上自然產生的物質。不管怎樣，輻射史萊姆散發著強烈的輻射光環，\
+	在黑暗中顯得閃閃發光！
+m.risks.rad_slime = 如果牧場主在輻射史萊姆的輻射光環裡待太久的話會導致輻射中毒。\
+	建議牧場主在處理這些發綠光的黏滑生物時，監控自身暴露在輻射下的程度，\
+	長時間的暴露會造成嚴重的身體危害，甚至更糟。
+m.plortonomics.rad_slime = 鑒於小輻基本上就是會走動的電池，因此不意外大企業們喜歡把輻射結晶用於\
+	能源製造的能力上。大部分的輻射結晶會被提煉成「晶元素」，\
+	而且所有的電器用品，從最新型的全息手機到輻波爐都需要用到。
 
 t.boom_slime = 爆炸史萊姆
 m.intro.boom_slime = 小心點，這些史萊姆會ㄅㄠˋ……
