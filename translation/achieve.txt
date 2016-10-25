@@ -71,7 +71,7 @@ t.ranch_upgraded_storage = 全副武裝
 m.reqmt.ranch_upgraded_storage = 在牧場裡擁有一個完全升級的圍欄、雞舍和筒倉
 
 t.fulfill_exchange_early = 倉促交易
-m.reqmt.fulfill_exchange_early = 完成一場中午到下午2點之間的遙遠交易所的請託
+m.reqmt.fulfill_exchange_early = 完成一場中午到下午2點之間的遠遠交易所的請託
 
 t.day_collect_plorts = 放牧
 m.reqmt.day_collect_plorts = 在一天內從野外收集50顆結晶
