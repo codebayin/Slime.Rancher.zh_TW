@@ -85,8 +85,8 @@ t.empty_plot = 牧場空地
 
 t.coop = 雞舍
 b.walls = 高牆
-b.feeder = 餵食器
-b.vitamizer = 維他命燈
+b.feeder = 自動餵食器
+b.vitamizer = 維生素燈
 
 t.corral = 圍欄
 b.music_box = 音樂盒
@@ -94,7 +94,7 @@ b.music_box = 音樂盒
 t.garden = 果園
 b.nutrient_soil = 營養土
 b.sprinkler = 灑水器
-b.scareslime = 恐懼史萊姆
+b.scareslime = 嚇人史萊姆
 b.clear_crop = 清除作物
 m.desc.clear_crop = 清除目前作物以重新栽種其它作物。
 l.remaining_harvest_time = 剩餘收割時間：
@@ -102,7 +102,7 @@ l.growing = 栽種：
 
 t.silo = 筒倉
 m.empty = 空
-b.extra_storage = 額外儲存空間
+b.extra_storage = 更多空間
 
 t.incinerator = 焚化爐
 

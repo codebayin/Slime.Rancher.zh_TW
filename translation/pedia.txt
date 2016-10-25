@@ -550,93 +550,94 @@ m.desc.elder_hen = 老母雞們經歷了完整的一生。牠們遇過夢想中�
 
 # Ranch Tech
 t.corral = 圍欄
-m.intro.corral = 快樂的史萊姆帶來快樂的牧場主。
-m.desc.corral = 圍欄用以在牧場裡保存史萊姆。半開放式的圍欄是設計來最大化滿足史萊姆，\
-	透過下頭豐富養份的遙遠之地土壤和上方遼闊的天空。 \
-	只要史萊姆有被定時餵食的話，他們能在圍欄裡保持完美的好心情。\n\
-    \n\
-    記得：你能將透過射擊將物品穿透圍欄的牆，夠方便吧！
+m.intro.corral = 有快樂的史萊姆，才有快樂的牧場主。
+m.desc.corral = 圍欄是用來防止史萊姆跑出牧場的。露天圍欄是專為最大化滿足史萊姆而設計的，\
+	腳下是遠遠星球肥沃的土壤，頭頂是一望無際的天空。\
+	只要史萊姆有被定時餵食的話，牠們在圍欄裡也能保持好心情。\n\
+	\n\
+	切記：你能將物品射穿進圍欄的障壁，夠方便吧！
 m.upgrade.name.corral.walls = 高牆
-m.upgrade.desc.corral.walls = 更高的圍欄能保證最算最會彈跳的史萊姆也無法逃脫。
+m.upgrade.desc.corral.walls = 更高的圍欄能確保最有彈性的史萊姆也難以逃脫。
 m.upgrade.name.corral.music_box = 音樂盒
-m.upgrade.desc.corral.music_box = 音樂盒會播放和緩的旋律，能平復史萊姆的情緒。
+m.upgrade.desc.corral.music_box = 音樂盒會播放和緩的旋律，能大大地平復史萊姆的躁動。
 m.upgrade.name.corral.air_net = 防空網
-m.upgrade.desc.corral.air_net = 防空網是擋在圍欄上方的一道阻礙。它可以承受數次撞擊但之後需要充能。
-m.upgrade.name.corral.solar_shield = 太陽防護網
-m.upgrade.desc.corral.solar_shield = 太陽防護網能確保史萊姆處於陰暗處，用來保護光敏感度高的史萊姆。
+m.upgrade.desc.corral.air_net = 防空網是覆蓋在圍欄上方的能量障壁。蓄滿能量後可以承受數次撞擊。
+m.upgrade.name.corral.solar_shield = 遮陽網
+m.upgrade.desc.corral.solar_shield = 遮陽網能確保圍欄處於陰暗狀態，保護對光敏感的史萊姆。
 m.upgrade.name.corral.plort_collector = 結晶收集器
-m.upgrade.desc.corral.plort_collector = 結晶收集器能定期將吸取最多兩種結晶， \
-    將他們儲存在儲存倉裡，如果還有空間的話。
+m.upgrade.desc.corral.plort_collector = 結晶收集器能定時吸取圍欄內的兩種結晶，\
+	再把它們存放在筒倉裡，只要有足夠空間的話。
 m.upgrade.name.corral.feeder = 自動餵食器
-m.upgrade.desc.corral.feeder = 自動餵食器會定時發送食物到圍欄裡。 \
-    只要你記得補充食物！
+m.upgrade.desc.corral.feeder = 自動餵食器能定時投放食物到圍欄裡。\
+	只是記得要補充食物啊！
 
 t.coop = 雞舍
-m.intro.coop = 將雞放在他們的地方，以免暴動。
-m.desc.coop = 雖然大多的牧場主讓他們的雞在牧場裡隨意遊走，雞舍是正式的家禽生產工具。 \
-	雞舍能確保母雞和公雞在短距離內，使他們能最大化下蛋能力。只要記得 \
-	避免雞舍裡太過壅擠：當一隻雞和超過一打的母雞或公雞處在一塊時他們不會繁衍。 \
-	只要給他們空間並看著他們愛的結晶就行了。
+m.intro.coop = 把雞養在牠們的地盤，以防暴動。
+m.desc.coop = 雖然許多牧場主讓他們的雞在牧場裡隨意遊走，但雞舍是非常重要的家禽生產工具。\
+	雞舍能保持母雞和公雞在親密的距離內，使下蛋的潛能最大化。只是要記住\
+	避免雞舍過於擁擠：當雞和超過一打的母雞或公雞處在一塊時，牠們就不會繁殖。\
+	必須給牠們一點空間，然後看著愛的綻放就行了。
 m.upgrade.name.coop.walls = 高牆
-m.upgrade.desc.coop.walls = 適合確保雞在雞舍裡頭，飢餓史萊姆在外頭。
+m.upgrade.desc.coop.walls = 適合防止飢餓的史萊姆跳進來把雞吃掉。
 m.upgrade.name.coop.feeder = 春草
-m.upgrade.desc.coop.feeder = 春草能吸引一籮筐雞所愛吃的小蟲子。當肚子填飽了， \
-    母雞能以兩倍的速度下蛋。
-m.upgrade.name.coop.vitamizer = 營養器
-m.upgrade.desc.coop.vitamizer = 最新的家禽科技，營養器能讓小雞處於 \
-    「維他命方式」之下，使得他們能以兩倍的速度長成母雞或公雞。
+m.upgrade.desc.coop.feeder = 春草能吸引一大群雞最愛吃的小蟲。當肚子填飽了，\
+	母雞下蛋的速度就會加倍。
+m.upgrade.name.coop.vitamizer = 維生素燈
+m.upgrade.desc.coop.vitamizer = 最新先進的家禽科技，維生素燈能讓小雞沐浴在\
+	「維生素光」下，使牠們長成健康的母雞或公雞的速度加倍。
 
 t.garden = 果園
-m.intro.garden = 沒有東西的味道能擊敗後院所種的食物。
-m.desc.garden = 牧場主用果園的最新科技來快速的複製並種植來自大自然的蔬菜或水果， \
-	以一種真的很高速的模式。透過在複製器裡放置一個樣本，果園的土壤會 \
-	立即放入能承受多次採收果樹或蔬菜種子。
+m.intro.garden = 沒有東西能比自家後院種植的食物更美味。
+m.desc.garden = 牧場主使用的果園利用了先進科技來快速複製並種植大自然中的水果和蔬菜。\
+	透過在複製器裡放置一個樣本，果園的土壤會\
+	立即長出能持續採收多次的果樹或蔬菜田。
 m.upgrade.name.garden.sprinkler = 灑水器
-m.upgrade.desc.garden.sprinkler = 灑水器確保你的作物永遠濕潤，這樣能使他們以兩倍速度生長。
+m.upgrade.desc.garden.sprinkler = 灑水器能確保你的作物永遠濕潤，使它們生長的速度加倍。
 m.upgrade.name.garden.soil = 營養土
-m.upgrade.desc.garden.soil = 營養土含有混合自苔蘚之地和靛青礦場的礦物質。 \
-    確保每一次收成都能最大化收穫。
-m.upgrade.name.garden.scareslime = 恐懼史萊姆
-m.upgrade.desc.garden.scareslime = 恐懼史萊姆是以焦油史萊姆為原型，用以確保四處遊走的 \
-    史萊姆能遠離你的作物。簡單，但十分具有威嚇力。
+m.upgrade.desc.garden.soil = 營養土含有混合自苔蘚之地的堆肥和靛青礦場的礦物質。\
+	使每一次作物收成都能大豐收。
+m.upgrade.name.garden.scareslime = 嚇人史萊姆
+m.upgrade.desc.garden.scareslime = 嚇人史萊姆是焦油史萊姆的填充模型，目的在於讓四處遊走的\
+	史萊姆遠離你的作物。簡單，但威嚇力十足。
 
 t.silo = 筒倉
-m.intro.silo = 你沒辦法把東西帶著走，那就把它放進筒倉裡吧。
-m.desc.silo = 筒倉讓牧場主能以方便、緊密的單元儲放結晶或資源。只要將物品射入 \
-	空的筒倉槽裡就行了，或者是吸取來提領物品。記得，一個乾淨的牧場才是開心的牧場！
+m.intro.silo = 你無法帶著走，那就存起來吧。
+m.desc.silo = 筒倉讓牧場主能以方便、緊湊的裝置整齊地存放結晶或資源。只要簡單地將物品射入\
+	空的倉槽就能存放，或是吸取倉槽來取回其內的物品。切記，一個整潔的牧場才是開心的牧場！
 m.upgrade.name.silo.storage2 = 更多空間
-m.upgrade.desc.silo.storage2 = 一個筒倉最多能提供四個儲放結晶或資源的倉槽。
+m.upgrade.desc.silo.storage2 = 一座筒倉最多能提供四個存放結晶或資源的倉槽。
 
 t.incinerator = 焚化爐
 m.intro.incinerator = 不需要？那就燒掉吧！
-m.desc.incinerator = 焚化爐會將任何碰觸到他的物品化為灰燼，再將灰燼化為虛無。 \
-	對於消滅焦油史萊姆的爆亂，這會是一個優異的解決方法， \
-    或只是拋棄你不想要的史萊姆，如果你是一個糟糕、沒良心的牧場主。
+m.desc.incinerator = 焚化爐會立即把任何它碰觸到的東西燒成灰燼，使其灰飛煙滅。\
+	這對於消滅焦油史萊姆是一個極佳的辦法，或者如果你是個可怕、沒良心的畜生，\
+	也可以用來處理掉不想要的史萊姆。
 
 t.pond = 池塘
-m.intro.pond = 用它來對你想處理的事物澆水？
-m.desc.pond = 池塘能在你的牧場裡提供新鮮的水源，你可以用它來在澆花、安撫 \
-    圍欄裡的史萊姆、擊退焦油史萊姆或是讓你的水狀史萊姆有個空間能閒晃\n\n\
-    池塘的水如果被吸取或是被水狀史萊姆攝取，會慢慢的耗損，但也會隨著時間增長而慢慢補充。 \
-    你可以將吸取器裡的水社進池塘裡，或者是下雨時他也會立即填滿。
+m.intro.pond = 你打算用這水做什麼？
+m.desc.pond = 池塘能給你的牧場提供乾淨的水源，你可以用它來灌溉果園、\
+	安撫圍欄裡的史萊姆、擊退焦油史萊姆，或者讓你的水狀史萊姆有個居住的空間。\n\n\
+	池塘的水如果被吸取或被水狀史萊姆攝取會慢慢地耗盡，但也會隨時間慢慢地補充。\
+	你可以用吸取器把不用的水轉移到池塘，還有，下雨時池塘會立即溢滿。
 
 t.plort_market = 結晶市場
-m.intro.plort_market = 餵食史萊姆，收集結晶，獲得報酬。
-m.desc.plort_market = 結晶市場是銀河系間的買賣家網路。牧場主 \
-    可以用牧場上的結晶市場機來販售結晶。當牧場主將結晶放入時 \
-    能根據當前市場價格馬上獲得付款。\n\n\
-    結晶市場的價格波動不穩，而某些較有經驗的牧場主會貯存結晶，等套價格較高時 \
-    再售出，尤其是稀有結晶。
+m.intro.plort_market = 餵史萊姆，收集結晶，獲得報酬。
+m.desc.plort_market = 結晶市場是跨銀河系買賣家的交易網路。牧場主們\
+	可以使用他們牧場上的結晶市場機把結晶送往市場出售。當牧場主把結晶放入機器後\
+	會立即根據目前市場價格獲得報酬。\n\n\
+	結晶市場的價格波動不定，某些較有經驗的牧場主會囤放結晶，等價格較高時\
+	再出售，尤其是稀有結晶。
 
 t.overgrowth = 繁茂之地
-m.intro.overgrowth = 牧場上原始的一側。
-m.desc.overgrowth = 繁茂之地是一塊延伸在牧場之旁、覆滿苔蘚以及高草的土地。 \
-    它的灌木叢提供蔬果自然的生長環境，並經常性的吸引野生的雞隻， \
-    使她成為一個極佳的環境，適合想讓史萊姆們過的舒適點的牧場主。
-t.grotto = 洞穴
-m.intro.grotto = 一個處在海上的陰森、黑暗的洞穴，就像是關於你的小說的第一章那樣。
-m.desc.grotto = （有點陰森的）洞穴延伸在牧場的一側 ，能讓牧場主在這不必使用太陽防護網 \
-    便能照料光敏感型的史萊姆。從來沒有一個螢光史萊姆能覺得如此自在。
+m.intro.overgrowth = 牧場野生原始的一側。
+m.desc.overgrowth = 繁茂之地是一塊延伸自牧場，覆滿苔蘚及雜草叢生的土地。\
+	它的灌木叢提供蔬果自然生長的環境，偶爾還會引來野生的雞隻，\
+	這使得它成為一個對牧場主而言想放牧史萊姆的理想環境。
+
+t.grotto = 石窟
+m.intro.grotto = 位於海上的幽暗陰森的洞穴，適合作為你小說的第一章場景。
+m.desc.grotto = 石窟座落在延伸自牧場一側（有點陰森）的洞穴內，它讓牧場主不需要使用遮陽網\
+	便能照顧對光敏感的史萊姆。從未有過一隻螢光史萊姆感到如此自在。
 
 # Range
 t.reef = 乾旱礁地
