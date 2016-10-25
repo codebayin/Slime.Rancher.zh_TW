@@ -54,7 +54,7 @@ t.discovered_desert = 煙、火、鏡
 m.reqmt.discovered_desert = 發現玻璃沙漠
 
 t.burst_gordo = 果凍炸裂
-m.reqmt.burst_gordo = 讓一隻胖胖史萊姆脹破
+m.reqmt.burst_gordo = 讓一隻胖胖史萊姆撐炸
 t.open_slime_gate = 芝麻開門
 m.reqmt.open_slime_gate = 開啟一扇史萊姆大門
 

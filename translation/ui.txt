@@ -1,6 +1,6 @@
 
 # Watermark
-l.version_watermark = 
+l.version_watermark = 《史萊姆牧場》搶先體驗 v{0}
 l.version_full_watermark = Version: {0} ({1})
 l.version = v{0}
 

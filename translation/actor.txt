@@ -8,7 +8,7 @@ l.phosphor_slime = 螢光史萊姆
 l.honey_slime = 蜂蜜史萊姆
 l.tabby_slime = 斑貓史萊姆
 l.hunter_slime = 獵手史萊姆
-l.puddle_slime = 水狀史萊姆
+l.puddle_slime = 液狀史萊姆
 l.crystal_slime = 水晶史萊姆
 
 l.tarr_slime = 焦油史萊姆
@@ -60,7 +60,7 @@ l.phosphor_plort = 螢光結晶
 l.honey_plort = 蜂蜜結晶
 l.tabby_plort = 斑貓結晶
 l.hunter_plort = 獵手結晶
-l.puddle_plort = 水狀結晶
+l.puddle_plort = 液狀結晶
 l.crystal_plort = 水晶結晶
 
 l.gold_plort = 黃金結晶
