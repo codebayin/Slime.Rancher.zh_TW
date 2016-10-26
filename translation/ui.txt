@@ -69,6 +69,7 @@ m.ranch_house_unavailable = 試玩版不能使用牧場小屋
 
 b.purchase = 購買
 b.sold_out = 售完
+b.learn_more = Learn More
 
 # Plot screens
 l.cost = 費用：
@@ -237,6 +238,7 @@ l.fullscreen = 全螢幕：
 m.resolution = {0}x{1}
 m.resolution_refresh = {0}x{1} @ {2}Hz
 m.keep_settings = 是否保留這些設定？
+b.apply = Apply
 
 b.mods = 模組
 l.mod_vampiric_chickens = 德古拉雞
@@ -416,6 +418,8 @@ e.cannot_add_gadget = 此裝置不能製作兩個。
 e.cannot_destroy_gadget = 此裝置不能銷毀。
 e.cannot_pickup_gadget = 此裝置不能撿取。
 
+l.score = Score:
+
 # Tips
 m.loadingtip.0 = 營養充足的史萊姆就是快樂的史萊姆。
 m.loadingtip.1 = 不要背對雞。
@@ -439,6 +443,7 @@ m.loadingtip.18 = 摩琪．麥爾斯聲稱她曾經抓過黃金史萊姆。
 m.loadingtip.19 = 餵食史萊姆喜愛的食物可獲得雙倍的結晶！
 m.loadingtip.20 = 瘋狂的史萊姆科學曾經計劃創造方形史萊姆，那簡直是個笑話。
 
+l.language = Language:
 l.lang_en = English
 l.lang_de = Deutsch (德文)
 l.lang_es = Español (西班牙文)
