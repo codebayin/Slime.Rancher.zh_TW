@@ -89,14 +89,14 @@ m.body.exchangeintro_mochi = 哎喲、哎喲，看來又是一個想成為孤單
   摩琪．麥爾斯，頂尖牧場主
 
 m.subj.exchangeintro_bob = 妳ㄏㄠ
-m.from.exchangeintro_bob = 鮑勃
+m.from.exchangeintro_bob = 波波
 m.body.exchangeintro_bob = 妳好，\n\
   妳ㄏㄠ妳ㄏ……雞ㄐㄧ。\n\
   妳好，雞ㄐ。\n\
   ㄐㄧ。\n\n\
   ㄋ好，\n\
-  鮑勃\n\n\
-  ㄅ註：ㄐ雞
+  波波\n\n\
+  備ㄓ：ㄐ雞
 
 
 ### Personal mails

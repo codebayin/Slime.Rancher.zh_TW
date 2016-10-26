@@ -23,7 +23,7 @@ l.plorts = 結晶功效學：
 l.upgrades = 升級：
 l.resource_type = 類型：
 l.about = 關於：
-l.how_to_use = 牧場用途：
+l.how_to_use = 用途：
 
 m.pedia_hint = {0}：史萊姆百科
 
@@ -102,7 +102,7 @@ l.growing = 栽種：
 
 t.silo = 筒倉
 m.empty = 空
-b.extra_storage = 更多空間
+b.extra_storage = 更多倉槽
 
 t.incinerator = 焚化爐
 
@@ -424,7 +424,7 @@ m.loadingtip.3 = 謠傳索拉和哈博森曾經是對戀人……直到他傷了
 m.loadingtip.4 = 謠傳奧格登曾經是一家快餐連鎖集團的執行長。
 m.loadingtip.5 = 謠傳維克特發明了結晶克隆技術，然後摧毀了它。
 m.loadingtip.6 = 謠傳摩琪．麥爾斯已經好幾年沒跟父親說話了。
-m.loadingtip.7 = 謠傳鮑勃非人。雞好ㄔ？
+m.loadingtip.7 = 謠傳波波不ㄕ人。ㄡ雞ㄇ？
 m.loadingtip.8 = 多年來沒有人見過哈博森。有些人說他正在最偏遠的遠遠星球旅行中。
 m.loadingtip.9 = 使用筒倉囤放結晶，直到結晶市場的價格上升再兌換現金。
 m.loadingtip.10 = 你必須購買儲水槽才能吸取淡水。

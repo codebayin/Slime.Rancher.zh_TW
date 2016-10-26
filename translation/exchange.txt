@@ -5,7 +5,7 @@ m.rancher.thora = 索拉．威斯特
 m.rancher.viktor = 維克特．漢弗萊斯
 m.rancher.ogden = 奧格登．歐提茲
 m.rancher.mochi = 摩琪．麥爾斯
-m.rancher.bob = 鮑勃
+m.rancher.bob = 波波
 
 # Mission flavortext
 m.offer_1.thora = 真稀奇，菜鳥的手腳比其他人還快？
