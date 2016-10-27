@@ -13,7 +13,7 @@ m.offer_2.thora = 妳該不會手邊也有一杯糖吧？
 m.offer_3.thora = 昨晚熬夜了，我需要這些東西。
 m.offer_4.thora = 遠遠星球最棒的地方？妳有看見車輛和人群嗎？是啊，我都沒看過。
 m.offer_5.thora = 有試過用套索抓史萊姆嗎？用過就會知道吸取器是多麼好用。
-m.bonusoffer.thora = 喝的我來付，如果妳能立刻弄到這些東西給我！
+m.bonusoffer.thora = 喝的我請客，如果妳能立刻弄到這些東西給我！
 
 m.offer_1.viktor = 如果可以，請找齊下列物品以支持我未來的研究。感謝您。
 m.offer_2.viktor = 輻射史萊姆是自然演化的，還是暴露在外來物質導致的？
