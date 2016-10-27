@@ -74,7 +74,7 @@ m.input.gamepad.market.3 = 攻擊
 m.inputdesc.gamepad.market.3 = 射擊
 
 t.death = 歡迎回來……
-m.text.death = 被擊倒後至少需要休息12個小時才能恢復。如果你不夠謹慎，醒來時可能會被牧場上一群飢餓不受控制的史萊姆圍攻！
+m.text.death = 暈倒後至少需要休息12個小時才能恢復。如果你不夠謹慎，醒來時可能會被牧場上一群飢餓不受控制的史萊姆圍攻！
 
 t.garden = 你建造了一座果園！
 m.text.garden = 將水果或蔬菜射入機器以開始栽種更多該種類的食物！

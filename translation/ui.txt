@@ -1,6 +1,6 @@
 
 # Watermark
-l.version_watermark = 《史萊姆牧場》搶先體驗 v{0}
+l.version_watermark = CodeBay.in 正體中文模組 v{0} 
 l.version_full_watermark = Version: {0} ({1})
 l.version = v{0}
 
@@ -160,7 +160,7 @@ b.restart = 重新開始
 b.screenshot = 擷圖
 b.save_and_quit = 儲存並離開
 b.emergency_return = 緊急返回
-m.emergency_return = 警告：此功能可讓你擊倒自己並被送回牧場小屋。你將會失去身上的所有物品並睡到隔天。除非真的卡死，否則請勿使用！
+m.emergency_return = 警告：此功能可讓你立即暈倒並被送回牧場小屋。你將會失去身上的所有物品並睡到隔天。除非真的卡死，否則請勿使用！
 
 # Expo-mode specific
 b.expo_play = 開始遊戲
@@ -348,7 +348,7 @@ m.achievement_unlocked = 已解鎖成就！
 m.achieve_progress = {0}/{1}
 m.achieve_overall_progress = 總數：{0}/{1}
 
-m.knocked_out1 = 你被擊倒了！
+m.knocked_out1 = 你暈倒了！
 m.knocked_out2 = （但休息一天應該可以完全恢復……）
 
 # Save errors
@@ -363,7 +363,7 @@ m.slime_rancher = 史萊姆牧場
 l.total = 總計：
 l.most_profitable_plorts = 收益最多的結晶：
 m.plort_amount = x{0}
-l.knockouts = 擊倒數：
+l.knockouts = 暈倒數：
 l.spent = 花費：
 m.none = 無
 

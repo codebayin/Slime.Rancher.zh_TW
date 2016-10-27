@@ -31,8 +31,8 @@ m.reqmt.day_currency = 在一天內賺到5000元
 t.awake_until_morning = 通宵達旦
 m.reqmt.awake_until_morning = 從上午6點到隔日上午6點持續不睡覺
 
-t.knockout_morning = 壞的開始
-m.reqmt.knockout_morning = 在上午10點之前被擊倒
+t.knockout_morning = 一日之暈在於晨
+m.reqmt.knockout_morning = 在上午10點之前暈倒
 
 t.away_from_ranch = 出門遠行
 m.reqmt.away_from_ranch = 離開超過24小時後再回到牧場
