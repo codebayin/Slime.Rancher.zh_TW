@@ -15,14 +15,14 @@ m.inputdesc.gamepad.basic_movement.1 = 移動
 t.jumping = 追趕跑跳碰！
 m.input.jumping.1 = 空白鍵
 m.inputdesc.jumping.1 = 跳躍
-m.input.jumping.2 = 按住 Shift
+m.input.jumping.2 = 按住Shift
 m.inputdesc.jumping.2 = 衝刺
 m.input.gamepad.jumping.1 = 跳躍
 m.inputdesc.gamepad.jumping.1 = 跳躍
 m.input.gamepad.jumping.2 = 奔跑
 m.inputdesc.gamepad.jumping.2 = 衝刺
 
-t.vaccing = 像個牧場主一樣吸吸吸
+t.vaccing = 像個牧場主吸吸吸
 m.text.vaccing = 你的吸取器可以吸入東西並存放在吸取槽。
 m.input.vaccing.1 = 按住滑鼠右鍵
 m.inputdesc.vaccing.1 = 吸取
@@ -30,7 +30,7 @@ m.input.gamepad.vaccing.1 = 吸取
 m.inputdesc.gamepad.vaccing.1 = 吸取
 
 t.shooting = 你吸入了史萊姆！
-m.text.shooting = 史萊姆是你致富的關鍵。將史萊姆對著圍欄的障壁射擊，可使其「穿過」障壁進入圍欄。
+m.text.shooting = 史萊姆是你致富的關鍵。將史萊姆對著圍欄的障壁射擊，使其「穿過」障壁進入圍欄。
 m.input.shooting.1 = 滑鼠滾輪
 m.inputdesc.shooting.1 = 選擇吸取槽
 m.input.shooting.2 = 按住滑鼠左鍵
@@ -60,7 +60,7 @@ m.text.plort = 史萊姆進食後會產出結晶。\n\n\
   前往結晶市場用你的結晶來兌換現金吧。
 
 t.market = 結晶市場
-m.text.market = 結晶市場能把你得來不易的結晶兌換成現金。\n\n\
+m.text.market = 結晶市場能把得來不易的結晶兌換成現金。\n\n\
   將結晶射入結晶市場來獲得現金吧！
 m.input.market.1 = 滑鼠滾輪
 m.inputdesc.market.1 = 選擇吸取槽
@@ -74,17 +74,17 @@ m.input.gamepad.market.3 = 攻擊
 m.inputdesc.gamepad.market.3 = 射擊
 
 t.death = 歡迎回來……
-m.text.death = 你被擊倒後至少需要休息12個小時來恢復。如果不夠謹慎，你醒來時可能會被牧場上一群飢餓不受控制的史萊姆圍攻！
+m.text.death = 被擊倒後至少需要休息12個小時才能恢復。如果你不夠謹慎，醒來時可能會被牧場上一群飢餓不受控制的史萊姆圍攻！
 
 t.garden = 你建造了一座果園！
-m.text.garden = 將水果或蔬菜射入機器以開始栽種更多該品種的食物！
+m.text.garden = 將水果或蔬菜射入機器以開始栽種更多該種類的食物！
 
 t.largo = 天啊，混種！
-m.text.largo = 混種史萊姆是一種史萊姆吃了與自身不同的結晶所形成的大型配種。\n\
+m.text.largo = 混種史萊姆是一種史萊姆吃了不同於自身種類的結晶所形成的大型配種。\n\
   \n\
   按吸取把牠們吸在吸嘴上，或按射擊把牠們射飛！
 
-t.explore = 以上就是所有的基礎入門！
+t.explore = 以上就是所有的\n基礎入門！
 m.text.explore = 你已經學會了基本知識，現在是時候出去探索了！\n\
   \n\
-  切記，要成為一位專業牧場主的最佳途徑是勇於嘗試。沒有冒險就沒有收穫！
+  記住，要成為一位專業牧場主的最佳途徑是勇於嘗試。沒有冒險就沒有收穫！

@@ -71,7 +71,7 @@ t.ranch_upgraded_storage = 全副武裝
 m.reqmt.ranch_upgraded_storage = 在牧場裡擁有一個完全升級的圍欄、雞舍和筒倉
 
 t.fulfill_exchange_early = 倉促交易
-m.reqmt.fulfill_exchange_early = 完成一場中午到下午2點之間的遠遠交易所的請託
+m.reqmt.fulfill_exchange_early = 在中午到下午2點間完成一場遠遠交易所的請託
 
 t.day_collect_plorts = 放牧
 m.reqmt.day_collect_plorts = 在一天內從野外收集50顆結晶
@@ -92,7 +92,7 @@ t.launched_boom_explode = 煙火大會
 m.reqmt.launched_boom_explode = 將一隻混種的爆炸史萊姆射向空中並讓牠在落地前爆炸
 
 t.many_slimes_in_vac = 控制混亂
-m.reqmt.many_slimes_in_vac = 在野外時一口氣將15隻以上的史萊姆吸入吸取器中
+m.reqmt.many_slimes_in_vac = 在野外時一口氣將15隻以上的史萊姆吸入吸取器
 
 t.corral_slime_types = 半打裝
 m.reqmt.corral_slime_types = 在同一個圍欄裡擁有至少6種不同的史萊姆

@@ -3,7 +3,7 @@
 # Rancher names
 m.rancher.thora = 索拉．威斯特
 m.rancher.viktor = 維克特．漢弗萊斯
-m.rancher.ogden = 奧格登．歐提茲
+m.rancher.ogden = 歐格登．歐提茲
 m.rancher.mochi = 摩琪．麥爾斯
 m.rancher.bob = 波波
 
@@ -25,7 +25,7 @@ m.offer_1.ogden = 我正在研究新食譜。是否幫個忙？
 m.offer_2.ogden = 吃胡蘿蔔有助妳在黑暗中能看見東西！
 m.offer_3.ogden = 橘子最好的部分就是它的皮，但裡面的果肉也不錯。
 m.offer_4.ogden = 有時我喜歡在苔蘚之地小睡一下，但那些該死的爆炸史萊姆總是吵醒我！
-m.offer_5.ogden = 奧格登的派對雞尾酒：1份波戈果汁，1份棘梨汁，2份星火朗姆酒。盡情狂歡跳舞吧！
+m.offer_5.ogden = 歐格登的派對雞尾酒：1份波戈果汁，1份棘梨汁，2份星火朗姆酒。盡情狂歡跳舞吧！
 m.bonusoffer.ogden = 我這裡真的有麻煩了！
 
 m.offer_1.mochi = 我急需這些結晶，管妳怎麼弄來。
