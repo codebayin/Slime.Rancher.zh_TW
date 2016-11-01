@@ -344,7 +344,7 @@ m.gif_storing = 儲存GIF中
 
 # Achievements
 t.achievements = 成就
-m.achievement_unlocked = 已解鎖成就！
+m.achievement_unlocked = 已 解 鎖 成 就 ！
 m.achieve_progress = {0}/{1}
 m.achieve_overall_progress = 總數：{0}/{1}
 
