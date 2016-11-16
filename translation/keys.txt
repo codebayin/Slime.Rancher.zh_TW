@@ -33,6 +33,20 @@ m.MiddleButton = 滑鼠中鍵
 m.PositiveScrollWheel = 滑鼠滾輪向上
 m.NegativeScrollWheel = 滑鼠滾輪向下
 
+m.LeftShift = LeftShift
+m.RightShift = RightShift
+m.LeftCtrl = LeftCtrl
+m.RightCtrl = RightCtrl
+m.LeftAlt = LeftAlt
+m.RightAlt = RightAlt
+m.UpArrow = UpArrow
+m.DownArrow = DownArrow
+m.LeftArrow = LeftArrow
+m.RightArrow = RightArrow
+m.Space = Space
+m.Slash = Slash
+m.Backslash = Backslash
+
 #Gamepad
 
 m.Action1 = A

@@ -88,3 +88,50 @@ t.explore = 以上就是所有的\n基礎入門！
 m.text.explore = 你已經學會了基本知識，現在是時候出去探索了！\n\
   \n\
   記住，要成為一位專業牧場主的最佳途徑是勇於嘗試。沒有冒險就沒有收穫！
+
+t.science_barn = Slime Science!
+m.text.science_barn = You've unlocked The Lab, a special Ranch expansion that will allow you to create gadgets using \
+  Slime Science!\n\
+  \n\
+  Head on over to the barn and get started!
+
+t.science_summary = Time to get crafty!
+m.text.science_summary = This barn has all the equipment you'll need to begin crafting gadgets using Slime Science. \
+  Gadgets include useful utilities to aid in exploring, defensive turrets, decorations, and more!
+
+t.science_refinery = The Refinery
+m.text.science_refinery = In order to fabricate gadgets, you'll need resources in your Refinery. Try shooting a plort \
+  into the Refinery.\n\
+  \n\
+  But remember: any resources deposited into a Refinery CANNOT be removed.
+
+t.science_builder_shop = The Builder's Shop
+m.text.science_builder_shop = The Builder's Shop allows you to purchase blueprints. A blueprint is required to build \
+  any gadget.\n\
+  \n\
+  Be sure to check the Builder's Shop often for new blueprints!
+
+t.science_fabricator = The Fabricator
+m.text.science_fabricator = Once you have a blueprint, the Fabricator allows you to craft gadgets, using resources stored \
+  in the Refinery. \
+  Give it a try!
+
+t.science_gadget_mode = Gadget Mode
+m.text.science_gadget_mode = In order to place gadgets, you need to enable Gadget Mode.
+m.input.science_gadget_mode.1 = T
+m.inputdesc.science_gadget_mode.1 = Toggle Gadget Mode
+m.input.gamepad.science_gadget_mode.1 = ToggleGadgetMode
+m.inputdesc.gamepad.science_gadget_mode.1 = Toggle Gadget Mode
+
+t.science_sites = Build Sites
+m.text.science_sites = In Gadget Mode you cannot vac or shoot, but you can see all the build sites in the world that \
+  you can place your gadgets. \
+  Have a look around!
+
+t.science_place_site = Place Site
+m.text.science_place_site = Once you've found a build site, approach it to open to Place Gadget menu. Then simply \
+  select the gadget you wish to place!
+
+t.science_wrapup = Science Class: Passed!
+m.text.science_wrapup = That covers the basics of Slime Science! To learn more, check out the new Slime Science \
+  section in your Slimepedia. It's loaded with handy info! 
