@@ -33,19 +33,19 @@ m.MiddleButton = 滑鼠中鍵
 m.PositiveScrollWheel = 滑鼠滾輪向上
 m.NegativeScrollWheel = 滑鼠滾輪向下
 
-m.LeftShift = LeftShift
-m.RightShift = RightShift
-m.LeftCtrl = LeftCtrl
-m.RightCtrl = RightCtrl
-m.LeftAlt = LeftAlt
-m.RightAlt = RightAlt
-m.UpArrow = UpArrow
-m.DownArrow = DownArrow
-m.LeftArrow = LeftArrow
-m.RightArrow = RightArrow
-m.Space = Space
-m.Slash = Slash
-m.Backslash = Backslash
+m.LeftShift = 左Shift
+m.RightShift = 右Shift
+m.LeftCtrl = 左Ctrl
+m.RightCtrl = 右Ctrl
+m.LeftAlt = 左Alt
+m.RightAlt = 右Alt
+m.UpArrow = ↑
+m.DownArrow = ↓
+m.LeftArrow = ←
+m.RightArrow = →
+m.Space = 空白鍵
+m.Slash = /
+m.Backslash = \
 
 #Gamepad
 

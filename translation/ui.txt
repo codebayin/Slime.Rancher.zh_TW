@@ -12,7 +12,7 @@ b.slimes = 史萊姆
 b.resources = 資源
 b.ranch = 牧場
 b.world = 世界
-b.science = Slime Science
+b.science = 科學
 
 l.favored_by = 喜愛者：
 l.instructions = 操作說明：
@@ -74,10 +74,10 @@ m.needs_treasure_cracker = Treasure Pod is locked
 m.insuf_treasure_cracker = A more advanced Treasure Cracker is required
 
 b.purchase = 購買
-b.place = Install
+b.place = 安裝
 b.sold_out = 售完
 b.learn_more = 了解更多
-l.curr_count = ({0})
+l.curr_count = （{0}）
 
 b.extractors = Extractors
 b.warp_tech = Warp Tech
@@ -89,7 +89,7 @@ b.curios = Curios
 l.cost = 費用：
 m.upgrades = 升級：
 b.demolish = 拆除
-b.pick_up = Pick Up
+b.pick_up = 撿取
 l.demolish_plot = Demolish Plot
 l.demolish_gadget = Demolish Gadget
 l.demolish_linked_gadget = Demolish Linked Gadget
@@ -333,7 +333,7 @@ m.gamepad_button_pause = {0}：暫停
 m.gamepad_stick = {0}：{1}\n按壓：{2}
 l.move = 移動
 l.view = 觀看
-l.enable_vsync = Enable VSync:
+l.enable_vsync = 垂直同步：
 
 b.reset_profile = 重置選項與成就
 m.confirm_reset_profile = 是否永久重置選項設定和成就進度？
@@ -441,7 +441,7 @@ m.new_blueprint_hint = Visit the Fabricator to build this gadget.
 m.avail_blueprint = New Blueprint Available!
 m.avail_blueprint_hint = Visit the Builder's Shop to purchase.
 m.ready = Ready!
-l.installing = Installing
+l.installing = 安裝中
 b.fabricate = Fabricate
 
 l.requires = 需要：
@@ -455,8 +455,8 @@ e.cannot_pickup_gadget = 此裝置不能撿取。
 l.score = 得分：
 
 # Upgrade avail screens
-m.avail_upgrade = New Upgrade Available!
-m.avail_upgrade_hint = Visit the Upgrade Shop to purchase.
+m.avail_upgrade = 新升級發售中！
+m.avail_upgrade_hint = 請造訪升級商店購買。
 
 # Tips
 m.loadingtip.0 = 營養充足的史萊姆就是快樂的史萊姆。

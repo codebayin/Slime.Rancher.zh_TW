@@ -446,7 +446,7 @@ m.desc.pear = （說明尚未推出）
 
 t.chickadoo = 小雞
 m.intro.chickadoo = 又小又軟，你甚至會以為牠們是用棉花糖填充的。
-m.favored_by.chickadoo = (not slime food)
+m.favored_by.chickadoo = （非史萊姆食物）
 m.resource_type.chickadoo = 儲備肉類
 m.how_to_use.chickadoo = 將小雞放在安全的地方，牠們最後會長成母雞或公雞。
 m.desc.chickadoo = 小雞是雞的幼雛，最後會長成母雞或更稀有的公雞。\n\
@@ -456,7 +456,7 @@ m.desc.chickadoo = 小雞是雞的幼雛，最後會長成母雞或更稀有的�
 
 t.stony_chickadoo = 石小雞
 m.intro.stony_chickadoo = 這種小雞相當難培育。
-m.favored_by.stony_chickadoo = (not slime food)
+m.favored_by.stony_chickadoo = （非史萊姆食物）
 m.resource_type.stony_chickadoo = 儲備肉類
 m.how_to_use.stony_chickadoo = 將石小雞放在安全的地方，牠們最後會長成石母雞或公雞。
 m.desc.stony_chickadoo = 石小雞是雞的幼雛，最後會長成石母雞或更稀有的公雞。\n\
@@ -466,7 +466,7 @@ m.desc.stony_chickadoo = 石小雞是雞的幼雛，最後會長成石母雞或�
 
 t.briar_chickadoo = 野小雞
 m.intro.briar_chickadoo = 一種在叢林裡生存的小雞。
-m.favored_by.briar_chickadoo = (not slime food)
+m.favored_by.briar_chickadoo = （非史萊姆食物）
 m.resource_type.briar_chickadoo = 儲備肉類
 m.how_to_use.briar_chickadoo = 將野小雞放在安全的地方，牠們最後會長成野母雞或公雞。
 m.desc.briar_chickadoo = 野小雞是雞的幼雛，最後會長成野母雞或更稀有的公雞。\n\
