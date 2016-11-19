@@ -433,7 +433,7 @@ l.xbox_faq_a_whats_next = 我們有大量的內容正在開發，包含可探索
 # Gadget screens
 t.place_gadget = Place Gadget
 t.fabricate_gadget = 製作裝置
-t.purchase_blueprint = 購買藍圖
+t.purchase_blueprint = Builder's Shop
 t.refinery = 精鍊場
 m.gadget_pair = {0} x2
 m.new_blueprint = 已獲得藍圖！
