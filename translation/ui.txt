@@ -12,7 +12,7 @@ b.slimes = 史萊姆
 b.resources = 資源
 b.ranch = 牧場
 b.world = 世界
-b.science = 科學
+b.science = 史萊姆科學
 
 l.favored_by = 喜愛者：
 l.instructions = 操作說明：
@@ -67,11 +67,11 @@ m.press_to_use_key.pre_gamepad = 按
 m.press_to_use_key.post_gamepad = 使用史萊姆鑰匙
 m.needs_key = 需要一把史萊姆鑰匙以開啟
 m.ranch_house_unavailable = 試玩版不能使用牧場小屋
-m.press_to_open_pod = Press {0} to open pod
-m.press_to_open_pod.pre_gamepad = Press
-m.press_to_open_pod.post_gamepad = to open pod
-m.needs_treasure_cracker = Treasure Pod is locked
-m.insuf_treasure_cracker = A more advanced Treasure Cracker is required
+m.press_to_open_pod = 按 {0} 打開寶藏匣
+m.press_to_open_pod.pre_gamepad = 按
+m.press_to_open_pod.post_gamepad = 打開寶藏匣
+m.needs_treasure_cracker = 鎖住的寶藏匣
+m.insuf_treasure_cracker = 需要更進階的寶藏破解器
 
 b.purchase = 購買
 b.place = 安裝
@@ -79,36 +79,36 @@ b.sold_out = 售完
 b.learn_more = 了解更多
 l.curr_count = （{0}）
 
-b.extractors = Extractors
-b.warp_tech = Warp Tech
-b.utilities = Utilities
-b.decorations = Decorations
-b.curios = Curios
+b.extractors = 萃取
+b.warp_tech = 傳送
+b.utilities = 輔助
+b.decorations = 裝飾
+b.curios = 新奇
 
 # Plot screens
 l.cost = 費用：
 m.upgrades = 升級：
 b.demolish = 拆除
 b.pick_up = 撿取
-l.demolish_plot = Demolish Plot
-l.demolish_gadget = Demolish Gadget
-l.demolish_linked_gadget = Demolish Linked Gadget
-l.pick_up_gadget = Pick Up Gadget
-m.desc.demolish_plot = Clears this ranch plot and allows you to build something new.
-m.desc.demolish_gadget = Destroys this gadget, allowing you to place a new gadget at this build site.
-m.desc.demolish_linked_gadget = Destroys this gadget and its linked gadget installed elsewhere.
-m.desc.pick_up_gadget = Pick up this gadget, allowing you to place it again elsewhere.
+l.demolish_plot = 拆除空地
+l.demolish_gadget = 拆除裝置
+l.demolish_linked_gadget = 拆除連結裝置
+l.pick_up_gadget = 撿取裝置
+m.desc.demolish_plot = 清除此牧場空地，讓你能建造新的東西。
+m.desc.demolish_gadget = 拆除此裝置，讓你能安裝新的裝置於此。
+m.desc.demolish_linked_gadget = 拆除此裝置和其安裝在別處的連結裝置。
+m.desc.pick_up_gadget = 撿取此裝置，讓你能再安裝到別處。
 e.insuf_coins = 金額不足。
 m.select_option = 選擇一個選項以查看詳細訊息。
 e.already_has_upgrade = 已經購買升級。
-w.gadget_install_permanent = This gadget is installed permanently until demolished.
-w.destroying_gadget_destroys_contents = Demolishing this gadget will destroy its contents!
-w.pick_up_gadget_destroys_contents = Picking up this gadget will destroy its contents!
-w.destroying_silo_destroys_contents = Demolishing a silo will destroy its contents!
-w.limit_reached_drill = Drill install limit reached. Limit: 6
-w.limit_reached_pump = Pump install limit reached. Limit: 6
-w.limit_reached_apiary = Apiary install limit reached. Limit: 6
-b.limit_reached = Limit Reached
+w.gadget_install_permanent = 此裝置已永久安裝，除非被拆除。
+w.destroying_gadget_destroys_contents = 拆除此裝置將會破壞其內的東西！
+w.pick_up_gadget_destroys_contents = 撿取此裝置將會破壞其內的東西！
+w.destroying_silo_destroys_contents = 拆除筒倉將會破壞其內的東西！
+w.limit_reached_drill = 電鑽已達安裝上限：6。
+w.limit_reached_pump = 幫浦已達安裝上限：6。
+w.limit_reached_apiary = 蜂房已達安裝上限：6。
+b.limit_reached = 已達上限
 
 t.empty_plot = 牧場空地
 
@@ -296,7 +296,7 @@ key.burst = 脈衝
 key.jump = 跳躍
 key.run = 衝刺
 key.interact = 互動
-key.gadgetMode = Gadget Mode
+key.gadgetMode = 裝置模式
 key.flashlight = 手電筒
 key.radar = 雷達
 
@@ -431,18 +431,18 @@ l.xbox_faq_a_whats_next = 我們有大量的內容正在開發，包含可探索
     slimerancher.com/roadmap
 
 # Gadget screens
-t.place_gadget = Place Gadget
+t.place_gadget = 安裝裝置
 t.fabricate_gadget = 製作裝置
-t.purchase_blueprint = Builder's Shop
-t.refinery = 精鍊場
+t.purchase_blueprint = 藍圖商店
+t.refinery = 精鍊廠
 m.gadget_pair = {0} x2
 m.new_blueprint = 已獲得藍圖！
-m.new_blueprint_hint = Visit the Fabricator to build this gadget.
-m.avail_blueprint = New Blueprint Available!
-m.avail_blueprint_hint = Visit the Builder's Shop to purchase.
-m.ready = Ready!
+m.new_blueprint_hint = 請造訪製作廠以製作此裝置。
+m.avail_blueprint = 新藍圖發售中！
+m.avail_blueprint_hint = 請造訪藍圖商店購買。
+m.ready = 就緒！
 l.installing = 安裝中
-b.fabricate = Fabricate
+b.fabricate = 製作
 
 l.requires = 需要：
 m.count_of_required = {0}/{1}

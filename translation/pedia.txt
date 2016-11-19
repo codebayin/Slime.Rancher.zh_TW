@@ -851,7 +851,7 @@ m.intro.keys = 對應遠古之鎖的遠古鑰匙。
 m.desc.keys = 史萊姆鑰匙是石質的巨大鑰匙，用於開啟遠遠星球各地的遠古史萊姆大門。\
 	這些大門通常能帶領你前往未探索的區域，或建立起通往熟悉區域的捷徑。
 
-t.refinery = Refinery
+t.refinery = 精鍊廠
 m.intro.refinery = The first step to building fantastic gadgets.
 m.desc.refinery = Using advanced technology, the Refinery breaks down plorts and other resources to their molecular \
   level, allowing them to be fabricated into various Slime Science gadgets. Aside from plorts, the bulk of resources \
@@ -860,13 +860,13 @@ m.desc.refinery = Using advanced technology, the Refinery breaks down plorts and
   Be sure to choose what to deposit into the Refinery wisely: any resources you deposit cannot be removed from the \
   refinery, but instead used only for building gadgets.
 
-t.fabricator = Fabricator
+t.fabricator = 製作廠
 m.intro.fabricator = Let's get crafty.
 m.desc.fabricator = The Fabricator allows you to craft gadgets from a blueprint using resources you have stored in the \
   Refinery. You can generally build as many gadgets of a specific blueprint as you wish, however some special gadgets \
   have build limits, allowing you to only own a certain number of them at a time.
 
-t.blueprints = Blueprints
+t.blueprints = 藍圖
 m.intro.blueprints = All great scientists have a plan... most of the time.
 m.desc.blueprints = Blueprints allow you to craft gadgets at the Fabricator. Once you own a blueprint for a specific \
   gadget, you can craft it as many times as you like, provided you have the necessary resources and are not exceeding \
@@ -875,7 +875,7 @@ m.desc.blueprints = Blueprints allow you to craft gadgets at the Fabricator. Onc
   Blueprints can be purchased from the Builder's Shop, or found in treasure pods throughout the Far, Far Range. Some \
   of them are hiding in really secret spots!
 
-t.extractors = Extractors
+t.extractors = 萃取
 m.intro.extractors = Nature is a treasure hoarder.
 m.desc.extractors = Extractors are a special class of Slime Science gadgets that are essential for building all other \
   types of gadgets. Extractors include drills, pumps, and apiaries.\n\
@@ -889,14 +889,14 @@ m.desc.extractors = Extractors are a special class of Slime Science gadgets that
   Drills can find a special resource in the Indigo Quarry.\n\
   Apiaries can find a special resource in the Moss Blanket.
 
-t.utilities = Utilities
+t.utilities = 輔助
 m.intro.utilities = Tools for getting the job done.
 m.desc.utilities = Utilities are a class of Slime Science gadgets that provide useful features to aid you in managing \
   your ranch, as well as exploring the range.\n\
   \n\
   Craft utilities in order to make your slime ranching a little easier.
 
-t.warp_tech = Warp Tech
+t.warp_tech = 傳送
 m.intro.warp_tech = Try not to think about how it works.
 m.desc.warp_tech = Warp tech is a class of Slime Science gadgets that allow you to harness the power of instantaneous \
   travel. It includes teleporters that you can use to create shortcuts, as well as gadgets that allow you to transport \
@@ -904,14 +904,14 @@ m.desc.warp_tech = Warp tech is a class of Slime Science gadgets that allow you 
   \n\
   Craft warp tech in order to ranch and explore much faster and more efficiently.
 
-t.decorations = Decorations
+t.decorations = 裝飾
 m.intro.decorations = Be the best rancher, but do it in style.
 m.desc.decorations = Decorations are a class of Slime Science gadgets that allow you to decorate the world with \
   attractive objects or recreations of natural findings from the environment.\n\
   \n\
   Craft decorations in order to make your slime ranching a more beautiful experience!
 
-t.curios = Curios
+t.curios = 新奇
 m.intro.curios = Because why not?
 m.desc.curios = Curios are a class of Slime Science gadgets that while functional, are not necessarily useful. Curios \
   include toys, games, and other gimmicky gadgets that can be a great time with an equally great imagination.\n\
@@ -1013,12 +1013,12 @@ m.upgrade.name.personal.ammo_2 = 儲槽增容器II型
 m.upgrade.desc.personal.ammo_2 = 這些強化的奈米儲存空間把風險拋諸腦後，讓你能每個吸取槽塞滿40個單元。
 m.upgrade.name.personal.ammo_3 = 儲槽增容器III型
 m.upgrade.desc.personal.ammo_3 = 越多越好，但目前這是最好的。這些頂級的奈米儲存空間能每個吸取槽容納50個單元。
-m.upgrade.name.personal.treasure_cracker_1 = Treasure Cracker
-m.upgrade.desc.personal.treasure_cracker_1 = Allows you to bypass the locks on basic treasure pods.
-m.upgrade.name.personal.treasure_cracker_2 = Treasure Cracker Mk II
-m.upgrade.desc.personal.treasure_cracker_2 = Allows you to bypass the locks on more advanced treasure pods.
-m.upgrade.name.personal.treasure_cracker_3 = Treasure Cracker Mk III
-m.upgrade.desc.personal.treasure_cracker_3 = Allows you to bypass the locks on the most advanced treasure pods.
+m.upgrade.name.personal.treasure_cracker_1 = 寶藏破解器
+m.upgrade.desc.personal.treasure_cracker_1 = 讓你能繞過基本寶藏匣的鎖。
+m.upgrade.name.personal.treasure_cracker_2 = 寶藏破解器II型
+m.upgrade.desc.personal.treasure_cracker_2 = 讓你能繞過進階寶藏匣的鎖。
+m.upgrade.name.personal.treasure_cracker_3 = 寶藏破解器III型
+m.upgrade.desc.personal.treasure_cracker_3 = 讓你能繞過最進階寶藏匣的鎖。
 
 ##### For gadget panels #####
 m.gadget.name.extractor_drill_novice = 新手電鑽
@@ -1063,21 +1063,21 @@ m.gadget.desc.teleporter_amber = A set of two teleporters that can be used to cr
 m.gadget.name.teleporter_gold = 金色傳送器
 m.gadget.desc.teleporter_gold = 待定
 
-m.gadget.name.warp_depot_pink = 粉紅傳送點
+m.gadget.name.warp_depot_pink = 粉紅轉送站
 m.gadget.desc.warp_depot_pink = A set of two gadgets that allow you to remotely transfer resources between two points.
-m.gadget.name.warp_depot_blue = 藍色傳送點
+m.gadget.name.warp_depot_blue = 藍色轉送站
 m.gadget.desc.warp_depot_blue = A set of two gadgets that allow you to remotely transfer resources between two points.
-m.gadget.name.warp_depot_violet = 紫色傳送點
+m.gadget.name.warp_depot_violet = 紫色轉送站
 m.gadget.desc.warp_depot_violet = A set of two gadgets that allow you to remotely transfer resources between two points.
-m.gadget.name.warp_depot_grey = 灰色傳送點
+m.gadget.name.warp_depot_grey = 灰色轉送站
 m.gadget.desc.warp_depot_grey = A set of two gadgets that allow you to remotely transfer resources between two points.
-m.gadget.name.warp_depot_green = 綠色傳送點
+m.gadget.name.warp_depot_green = 綠色轉送站
 m.gadget.desc.warp_depot_green = A set of two gadgets that allow you to remotely transfer resources between two points.
-m.gadget.name.warp_depot_red = 紅色傳送點
+m.gadget.name.warp_depot_red = 紅色轉送站
 m.gadget.desc.warp_depot_red = A set of two gadgets that allow you to remotely transfer resources between two points.
-m.gadget.name.warp_depot_amber = 珀色傳送點
+m.gadget.name.warp_depot_amber = 珀色轉送站
 m.gadget.desc.warp_depot_amber = A set of two gadgets that allow you to remotely transfer resources between two points.
-m.gadget.name.warp_depot_gold = 金色傳送點
+m.gadget.name.warp_depot_gold = 金色轉送站
 m.gadget.desc.warp_depot_gold = 待定
 
 
@@ -1089,29 +1089,29 @@ m.gadget.name.hydro_shower = 液壓淋浴間
 m.gadget.desc.hydro_shower = 待定
 m.gadget.name.spring_pad = 彈跳板
 m.gadget.desc.spring_pad = Launches anything that touches it straight into the air!
-m.gadget.name.refinery_link = 精鍊場連結
+m.gadget.name.refinery_link = 精鍊廠連結站
 m.gadget.desc.refinery_link = Allows you to remotely deposit resources into the refinery.
 m.gadget.name.potted_tactus = 盆栽仙人掌
 m.gadget.desc.potted_tactus = 待定
 m.gadget.name.taming_bell = 馴獸鈴
 m.gadget.desc.taming_bell = The dulcet tone of this curious bell will calm the anger of any feral slime that hears it.
-m.gadget.name.slime_hoop = Slimeball Hoop
+m.gadget.name.slime_hoop = 史萊姆投籃機
 m.gadget.desc.slime_hoop = Begins a round of slimeball as soon as a single slime passes through the hoop. What's your high score?
-m.gadget.name.slime_stage = #1 Slime Stage
+m.gadget.name.slime_stage = #1史萊姆舞台
 m.gadget.desc.slime_stage = Allows you to let other slimes know who is, unequivocally, the number one slime.
-m.gadget.name.lamp_pink = Pink Slime Lamp
+m.gadget.name.lamp_pink = 粉紅史萊姆燈
 m.gadget.desc.lamp_pink = A decorative lamp housing a happy slime.
-m.gadget.name.lamp_blue = Blue Slime Lamp
+m.gadget.name.lamp_blue = 藍色史萊姆燈
 m.gadget.desc.lamp_blue = A decorative lamp housing a happy slime.
-m.gadget.name.lamp_violet = Violet Slime Lamp
+m.gadget.name.lamp_violet = 紫色史萊姆燈
 m.gadget.desc.lamp_violet = A decorative lamp housing a happy slime.
-m.gadget.name.lamp_grey = Grey Slime Lamp
+m.gadget.name.lamp_grey = 灰色史萊姆燈
 m.gadget.desc.lamp_grey = A decorative lamp housing a happy slime.
-m.gadget.name.lamp_green = Green Slime Lamp
+m.gadget.name.lamp_green = 綠色史萊姆燈
 m.gadget.desc.lamp_green = A decorative lamp housing a happy slime.
-m.gadget.name.lamp_red = Red Slime Lamp
+m.gadget.name.lamp_red = 紅色史萊姆燈
 m.gadget.desc.lamp_red = A decorative lamp housing a happy slime.
-m.gadget.name.lamp_amber = Amber Slime Lamp
+m.gadget.name.lamp_amber = 珀色史萊姆燈
 m.gadget.desc.lamp_amber = A decorative lamp housing a happy slime.
 
 m.gadget.name.sponge_tree = Sponge Tree
