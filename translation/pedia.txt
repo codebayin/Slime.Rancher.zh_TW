@@ -548,146 +548,146 @@ m.desc.elder_hen = 老母雞們經歷了完整的一生。牠們遇過夢想中�
 	牠們會叫錯無數的書、電影或演員的名。但別怪牠們，\
 	看在上帝的份上。
 
-t.primordy_oil_craft = Primordy Oil
-m.intro.primordy_oil_craft = This stuff is pre-pre-prehistoric.
-m.favored_by.primordy_oil_craft = (not slime food)
-m.resource_type.primordy_oil_craft = Crafting Material
-m.how_to_use.primordy_oil_craft = Deposit primordy oil into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.primordy_oil_craft = Primordy oil is a common resource obtained with a pump.\n\
+t.primordy_oil_craft = 太初油
+m.intro.primordy_oil_craft = 這東西可是史前前前前的。
+m.favored_by.primordy_oil_craft = （非史萊姆食物）
+m.resource_type.primordy_oil_craft = 製造材料
+m.how_to_use.primordy_oil_craft = 將太初油存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.primordy_oil_craft = 太初油是能透過幫浦取得的一種常見資源。\n\
     \n\
-    Found deep below the surface of the Far, Far Range, primordy oil is an ancient substance containing a wide array \
-    of organic compounds, making it perfect as a base for many Slime Science creations.
+    從遠遠星球深處發現的太初油，是種古老的物質，包含了各式各樣的\
+    有機化合物，使其成為許多史萊姆科學產物的完美基底。
 
-t.deep_brine_craft = Deep Brine
-m.intro.deep_brine_craft = Salt of the earth kind of stuff.
-m.favored_by.deep_brine_craft = (not slime food)
-m.resource_type.deep_brine_craft = Crafting Material
-m.how_to_use.deep_brine_craft = Deposit deep brine into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.deep_brine_craft = Deep brine is a common resource exclusive to the Dry Reef, obtained with a pump.\n\
+t.deep_brine_craft = 深海鹽水
+m.intro.deep_brine_craft = 就像是地球上的鹽那樣。
+m.favored_by.deep_brine_craft = （非史萊姆食物）
+m.resource_type.deep_brine_craft = 製造材料
+m.how_to_use.deep_brine_craft = 將深海鹽水存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.deep_brine_craft = 深海鹽水是種能透過幫浦在乾旱礁地取得的常見資源\n\
     \n\
-    Not safe for drinking, deep brine is thought to be water from the Slime Sea that has been filtered by \
-    the subterranean coral of the Dry Reef. It is significantly denser than fresh water and loaded with salt.
+    不適合飲用，深海鹽水被認為是乾旱礁地底下的珊瑚從史萊姆海所過濾出來的。\
+	很明顯的，深海鹽水比一般新鮮的水濃稠很多，並且富含鹽分。
 
-t.spiral_steam_craft = Spiral Steam
-m.intro.spiral_steam_craft = If you search for it, you'll find something wonderful.
-m.favored_by.spiral_steam_craft = (not slime food)
-m.resource_type.spiral_steam_craft = Crafting Material
-m.how_to_use.spiral_steam_craft = Deposit spiral steam into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.spiral_steam_craft = Spiral steam is an uncommon resource obtained with a pump.\n\
+t.spiral_steam_craft = 螺旋蒸氣
+m.intro.spiral_steam_craft = 如果你在尋找它，你會發現些好玩的東西。
+m.favored_by.spiral_steam_craft = （非史萊姆食物）
+m.resource_type.spiral_steam_craft = 製造材料
+m.how_to_use.spiral_steam_craft = 將螺旋蒸氣存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.spiral_steam_craft = 螺旋蒸氣是種能透過幫浦取得的少見資源\n\
     \n\
-    Found in highly pressurized vacuums of rock below the surface, spiral steam exhibits a curious behavior \
-    when released into the atmosphere, swirling into a series of dancing spirals before dissipating. It is valued \
-    for the countless micro-particles found within the steam itself. 
+    為在地底深處的高壓所形成的蒸氣，當螺旋蒸氣釋放到大氣時，會有奇特的表現：\
+    在消失之前會不斷的螺旋，就像在跳舞一般。螺旋蒸氣裡\
+    所發現的無數分子十分有價值。
 
-t.lava_dust_craft = Lava Dust
-m.intro.lava_dust_craft = A survey on the state of this matter answered 'undecided.'
-m.favored_by.lava_dust_craft = (not slime food)
-m.resource_type.lava_dust_craft = Crafting Material
-m.how_to_use.lava_dust_craft = Deposit lava dust into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.lava_dust_craft = Lava dust is a rare resource obtained with a pump.\n\
+t.lava_dust_craft = 岩漿灰
+m.intro.lava_dust_craft = 對這個狀態的問卷結果為：「未決定」
+m.favored_by.lava_dust_craft = （非史萊姆食物）
+m.resource_type.lava_dust_craft = 製造材料
+m.how_to_use.lava_dust_craft = 將岩漿灰存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.lava_dust_craft = 岩漿灰是種能透過幫浦取得的稀有資源。\n\
     \n\
-    Neither a solid or a liquid, lava dust seems to be something in between, having the characteristics of both. \
-    It is believed to be a mixture of magma and slime, though this has never been proven. And despite its name, lava dust \
-    is only warm to the touch.
+    既非固態也非液態，岩漿灰看起來像是在兩者之間，擁有兩個狀態的特質\
+    雖然尚未被證實，但普遍認為它是岩漿和史萊姆的混合物。不如其名，岩漿灰 \
+    摸起來僅溫溫的而已，並不會燙。
 
-t.buzz_wax_craft = Buzz Wax
-m.intro.buzz_wax_craft = Can be used to make a great scented candle if you enjoy the smell of bee abdominal glands.
-m.favored_by.buzz_wax_craft = (not slime food)
-m.resource_type.buzz_wax_craft = Crafting Material
-m.how_to_use.buzz_wax_craft = Deposit buzz wax into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.buzz_wax_craft = Buzz wax is a common resource obtained with an apiary.\n\
+t.buzz_wax_craft = 蜂蠟
+m.intro.buzz_wax_craft = 可以用來製作香氛蠟燭，如果你享受蜜蜂腹部腺體味道的話。
+m.favored_by.buzz_wax_craft = （非史萊姆食物）
+m.resource_type.buzz_wax_craft = 製造材料
+m.how_to_use.buzz_wax_craft = 將蜂蠟存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.buzz_wax_craft = 蜂蠟是種能透過蜂房取得的常見資源。\n\
     \n\
-    Just like bees on Earth, bees on the Far, Far Range produce a waxy substance that they use to form their hives. \
-    Buzz wax is the still malleable deposits of unused wax found in apiaries. It has many practical uses ranging \
-    from building materials to medicines. You can also chew it as the worst gum in the world.
+    跟地球上的一樣，遠遠星球上的蜜蜂也會生產蠟來建造牠們的窩。\
+    從蜂房中提出的蜂蠟仍具有延展性。在將原料製成藥品時，\
+    蜂蠟具有廣泛的應用。你也可以把它當成世上最糟的口香糖來嚼。
 
-t.wild_honey_craft = Wild Honey
-m.intro.wild_honey_craft = Tastes great in tea or in shameful handfuls when no one is looking.
-m.favored_by.wild_honey_craft = (not slime food)
-m.resource_type.wild_honey_craft = Crafting Material
-m.how_to_use.wild_honey_craft = Deposit wild honey into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.wild_honey_craft = Wild honey is a common resource exclusive to the Moss Blanket, obtained with an apiary.\n\
+t.wild_honey_craft = 野蜂蜜
+m.intro.wild_honey_craft = 配著茶或是在沒人時偷舔一口，嚐起來棒極了。
+m.favored_by.wild_honey_craft = （非史萊姆食物）
+m.resource_type.wild_honey_craft = 製造材料
+m.how_to_use.wild_honey_craft = 將蜂蠟存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.wild_honey_craft = 野蜂蜜是種能透過蜂房在苔蘚之地取得的常見資源。\n\
     \n\
-    All the rich pollens and sweet nectars found in the forests of the Moss Blanket combine in a beautiful alchemy \
-    to form some of the most delicious honey in the galaxy. Wild honey is a staple of rancher life; a dollop of it \
-    makes just about any food taste better, and it provides a natural boost of energy to get through a tough day of \
-    wrangling slimes. 
+   苔蘚之地裡豐厚的花粉和甜滋茲的花蜜的結合，造就了全銀河系中\
+    最美味的蜂蜜。野蜂蜜是牧場主生活中不可或缺的部分，一塊野蜂蜜能\
+   使得任何食物嚐起來更加美味，它也提供了對付調皮史萊姆\
+   一天的能量。
 
-t.hexacomb_craft = Hexacomb
-m.intro.hexacomb_craft = Bee stuff and geometry: the chocolate and peanut butter of nature.
-m.favored_by.hexacomb_craft = (not slime food)
-m.resource_type.hexacomb_craft = Crafting Material
-m.how_to_use.hexacomb_craft = Deposit hexacomb into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.hexacomb_craft = Hexacomb is an uncommon resource obtained with an apiary.\n\
+t.hexacomb_craft = 蜂巢
+m.intro.hexacomb_craft = 蜜蜂物品與幾何：巧克力與天然的花生奶油。
+m.favored_by.hexacomb_craft = （非史萊姆食物）
+m.resource_type.hexacomb_craft = 製造材料
+m.how_to_use.hexacomb_craft = 將蜂巢存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.hexacomb_craft = 野蜂蜜是種能透過蜂房取得的少見資源。\n\
     \n\
-    Hexacomb is the result of bees arranging buzz wax into complex patterns to store their honey and eggs. \
-    Why the hexagonal shape? Bees understand that the hexagon is the shape of the future. Bees were Sci-Fi before it was cool.
+    蜂巢是蜜蜂們將蜂蠟排列成複雜的圖形的結果，用以儲存蜂蜜和卵。\
+    為何是六邊形？蜜蜂們了解六邊形是未來的形狀。Bees were Sci-Fi before it was cool.
 
-t.royal_jelly_craft = Royal Jelly
-m.intro.royal_jelly_craft = The king of all jellies... that is, until you meet the queen.
-m.favored_by.royal_jelly_craft = (not slime food)
-m.resource_type.royal_jelly_craft = Crafting Material
-m.how_to_use.royal_jelly_craft = Deposit royal jelly into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.royal_jelly_craft = Royal jelly is a rare resource obtained with an apiary. \n\
+t.royal_jelly_craft = 蜂王漿
+m.intro.royal_jelly_craft = 果凍之王……我是說，直到你遇到了皇后。
+m.favored_by.royal_jelly_craft = （非史萊姆食物）
+m.resource_type.royal_jelly_craft = 製造材料
+m.how_to_use.royal_jelly_craft = 將蜂巢存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.royal_jelly_craft = 野蜂蜜是種能透過蜂房取得的稀有資源。\n\
     \n\
-    The royal jelly found in the hives across the Far, Far Range is special as it is unnaturally sweet compared to \
-    other varieties. It's believed that this is a result of bees collecting small deposits of slime from honey slimes \
-    and working it into their royal jelly mixture. If a rancher is lucky enough to acquire some, they'll find its \
-    unique properties are very valuable in certain Slime Science endeavors. 
+   在遠遠星球上發現的蜂王漿十分特別，尤其是將它與其他品種相比，\
+    會發現異常的甜。普遍認為這是因為蜜蜂會從蜂蜜史萊姆身上採集，\
+    並將其加入他們的蜂王漿混合物。如果牧場主幸運到能獲得一些蜂王漿的話，會發現\
+    它們獨特的特性在某些史萊姆科學項目上十分有價值。
 
 
-t.jellystone_craft = Jellystone
-m.intro.jellystone_craft = It's both solid and squishy at the same time.
-m.favored_by.jellystone_craft = (not slime food)
-m.resource_type.jellystone_craft = Crafting Material
-m.how_to_use.jellystone_craft = Deposit jellystone into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.jellystone_craft = Jellystone is a common resource obtained with a drill.\n\
+t.jellystone_craft = 凝膠石
+m.intro.jellystone_craft = 它是固態但又糊糊的。
+m.favored_by.jellystone_craft = （非史萊姆食物）
+m.resource_type.jellystone_craft = 製造材料
+m.how_to_use.jellystone_craft = 將凝膠石存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.jellystone_craft = 凝膠石是種能透過電鑽取得的常見資源。\n\
     \n\
-    Jellystone is a semi-hardened mixture of minerals and slime, possibly resulting from plorts sinking back into \
-    the earth below. Because of its softer texture, it's a favorite stone for sculptors.
+    凝膠石為礦物和史萊姆的半硬化混合物，有可能是來自沉自地底\
+    的結晶。因為其柔軟的特性，凝膠石是雕塑家們最愛的石頭。
 
-t.indigonium_craft = Indigonium
-m.intro.indigonium_craft = Heavy metal experts often call this hard rock 'deep purple.'
-m.favored_by.indigonium_craft = (not slime food)
-m.resource_type.indigonium_craft = Crafting Material
-m.how_to_use.indigonium_craft = Deposit indigonium into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.indigonium_craft = Indigonium is a common resource exclusive to the Indigo Quarry, obtained with a drill.\n\
+t.indigonium_craft = 靛青礦
+m.intro.indigonium_craft = 重金屬專家們通常將這堅硬的石頭稱作「深紫」
+m.favored_by.indigonium_craft = （非史萊姆食物）
+m.resource_type.indigonium_craft = 製造材料
+m.how_to_use.indigonium_craft = 將靛青礦存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.indigonium_craft =  靛青礦是種能透過電鑽在靛青礦場取得的常見資源。\n\
     \n\
-    Indigonium is the ore that gives the Indigo Quarry its name. There's a little indigonium found in every inch \
-    of the quarry, but the purest ore is only found deep underground.
+    靛青礦場之名便是來自靛青礦。在礦廠裡的每一吋都能發現小靛青礦 \
+    ，但最純粹的靛青礦只藏在地底深處。
 
-t.slime_fossil_craft = Slime Fossil
-m.intro.slime_fossil_craft = If history could smile, it would look like this.
-m.favored_by.slime_fossil_craft = (not slime food)
-m.resource_type.slime_fossil_craft = Crafting Material
-m.how_to_use.slime_fossil_craft = Deposit slime fossils into the Lab's Refinery where they can then be used for crafting \
-    Slime Science gadgets.
-m.desc.slime_fossil_craft = Slime fossils are an uncommon resource obtained with a drill.\n\
+t.slime_fossil_craft = 史萊姆化石
+m.intro.slime_fossil_craft = 如果歷史會笑，它看起來就像這個。
+m.favored_by.slime_fossil_craft = （非史萊姆食物）
+m.resource_type.slime_fossil_craft = 製造材料
+m.how_to_use.slime_fossil_craft =將史萊姆化石存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.slime_fossil_craft = 史萊姆化石是種能透過電鑽取得的少見資源。\n\
     \n\
-    Prized for the ancient minerals they contain, slime fossils are like nature capturing a moment in time. \
-    Specifically, that moment seems to be when a great avalanche or mudslide occurred and a slime was totally cool with it.
+    飽受讚賞的古早礦物，史萊姆化石就像天然剛捕捉到的一般。 \
+    值得一提的是，被捕捉到的那一剎那看起來像是凍極的史萊姆被雪崩或土石流淹沒。
 
-t.strange_diamond_craft = Strange Diamond
-m.intro.strange_diamond_craft = Very strange, but even more valuable.
-m.favored_by.strange_diamond_craft = (not slime food)
-m.resource_type.strange_diamond_craft = Crafting Material
-m.how_to_use.strange_diamond_craft = Deposit strange diamonds into the Lab's Refinery where they can then be used for crafting \
-    Slime Science gadgets.
-m.desc.strange_diamond_craft = Strange diamonds are a rare resource obtained with a drill.\n\
+t.strange_diamond_craft = 奇異鑽石
+m.intro.strange_diamond_craft = 非常特別，但是更有價值。
+m.favored_by.strange_diamond_craft = （非史萊姆食物）
+m.resource_type.strange_diamond_craft = 製造材料
+m.how_to_use.strange_diamond_craft = 將奇異鑽石存入實驗室裡的精鍊器以用來製作\
+    史萊姆科學工具。
+m.desc.strange_diamond_craft = 奇異鑽石是種能透過電鑽取得的稀有資源。\n\
     \n\
-    Even in the dark, these diamonds seem to shine as if light is passing through them. Strange diamonds are \
-    highly valued for their use in a variety of warp tech processes. Being almost impossibly dense and intricate \
-    in their composition, a strange diamond can reflect light within itself so profoundly that it actually bends time.
+    就算在黑暗中，只要有一絲光線照過它，這些鑽石便會閃閃發亮。奇異鑽石在 \
+    彎曲科技上的應用有相當高的價值。由於其不可思議的密度及 \
+    複雜結構，就算再多次凹折之後，奇異鑽石仍能夠完美的反射光線。
 
 # Ranch Tech
 t.corral = 圍欄
@@ -780,13 +780,13 @@ m.intro.grotto = 位於海上的幽暗陰森的洞穴，適合\n作為你小說�
 m.desc.grotto = 石窟座落在延伸自牧場一側（有點陰森）的洞穴內，它讓牧場主不需要使用遮陽網\
 	便能照顧對光敏感的史萊姆。從未有一隻螢光史萊姆感到如此自在。
 
-t.lab = The Lab
-m.intro.lab = Allows you to begin your career as an amateur, unlicensed Slime Scientist.
-m.desc.lab = The Lab is an expansion to the ranch that houses a barn containing Hobson's old, Slime Science workshop. \
-    Once unlocked, the Lab will allow you to fabricate dozens of useful gadgets using Slime Science!\n\
+t.lab = 實驗室
+m.intro.lab = 允許你開始未經授權的史萊姆業餘科學家生涯。
+m.desc.lab = 實驗室延伸自牧場後頭，上面座落著一間穀倉，裏頭有著哈伯森舊史萊姆科學工作坊。\
+    解鎖之後，實驗室允許你透過史萊姆科學製造各式各樣的實用工具！\n\
     \n\
-    It is recommended that only more experienced ranchers unlock the Lab, as Slime Science requires a great many \
-    resources and lots of newbucks to fully master.
+    建議有經驗的牧場主再解鎖實驗室，因為史萊姆科學需要\
+    許多資源和金錢來精通。
 
 # Range
 t.reef = 乾旱礁地
@@ -851,73 +851,73 @@ m.intro.keys = 對應遠古之鎖的遠古鑰匙。
 m.desc.keys = 史萊姆鑰匙是石質的巨大鑰匙，用於開啟遠遠星球各地的遠古史萊姆大門。\
 	這些大門通常能帶領你前往未探索的區域，或建立起通往熟悉區域的捷徑。
 
-t.refinery = 精鍊廠
-m.intro.refinery = The first step to building fantastic gadgets.
-m.desc.refinery = Using advanced technology, the Refinery breaks down plorts and other resources to their molecular \
-  level, allowing them to be fabricated into various Slime Science gadgets. Aside from plorts, the bulk of resources \
-  you will use in Slime Science will be obtained from extractors.\n\
+t.refinery = 精鍊器
+m.intro.refinery = 建造華麗工具的第一步。
+m.desc.refinery = 透過進階的科技，精鍊器將結晶和其他資源分解到分子等級\
+  使他們得以用來製作史萊姆科學的工具。除了結晶之外，史萊姆科學裡\
+  某些資源，必須透過萃取器來獲得。\n\
   \n\
-  Be sure to choose what to deposit into the Refinery wisely: any resources you deposit cannot be removed from the \
-  refinery, but instead used only for building gadgets.
+  對於要放進精鍊器的資源請小心謹慎：任何放進去的物品皆不能再領出，\
+  僅能用來製成工具。
 
-t.fabricator = 製作廠
+t.fabricator = 製作器
 m.intro.fabricator = Let's get crafty.
-m.desc.fabricator = The Fabricator allows you to craft gadgets from a blueprint using resources you have stored in the \
-  Refinery. You can generally build as many gadgets of a specific blueprint as you wish, however some special gadgets \
-  have build limits, allowing you to only own a certain number of them at a time.
+m.desc.fabricator = 製作器能讓你透過存放在精鍊器裡的資源來將藍圖製成工具。\
+  你可以依你所願製作任何數量的某一工具，只要你有它的藍圖。但是某些特別的工具\
+  有製作上限，你只能同時擁有一定數量。
 
 t.blueprints = 藍圖
-m.intro.blueprints = All great scientists have a plan... most of the time.
-m.desc.blueprints = Blueprints allow you to craft gadgets at the Fabricator. Once you own a blueprint for a specific \
-  gadget, you can craft it as many times as you like, provided you have the necessary resources and are not exceeding \
-  the build limit.\n\
+m.intro.blueprints = 所有偉大的科學家都有計劃……大部分的時候啦
+m.desc.blueprints = 藍圖能讓你透過製作器來製造工具。你可以依你所願製作任何數量的某一工具，\
+  只要你有它的藍圖，而且擁有足夠的資源和尚未達到\
+  製作上限\n\
   \n\
-  Blueprints can be purchased from the Builder's Shop, or found in treasure pods throughout the Far, Far Range. Some \
-  of them are hiding in really secret spots!
+  藍圖能在製作者商店裡買到，或是在遠遠星球上的寶藏匣裡發現。某些藍圖藏在\
+  十分神祕的寶藏匣裡。
 
-t.extractors = 萃取
-m.intro.extractors = Nature is a treasure hoarder.
-m.desc.extractors = Extractors are a special class of Slime Science gadgets that are essential for building all other \
-  types of gadgets. Extractors include drills, pumps, and apiaries.\n\
+t.extractors = 萃取器
+m.intro.extractors = 大自然是寶藏的囤積者。
+m.desc.extractors = 萃取器是史萊姆科學工具裡十分特別的種類， 因為它是製作其他種類工具的必需品\
+  萃取器包含電鑽、幫浦和蜂房。\n\
   \n\
-  Once placed on a build site, an extractor will begin working, collecting resources from the environment over time. \
-  Once it is full of resources, an extractor can be emptied. The best extractors can repeat this cycle multiple times \
-  before they finally break down.\n\
+  一旦放在建築地上，萃取器就會開始作業，蒐集環境裡的資源。 \
+  當它填滿時，萃取器才能被清空。最好的萃取器能在徹底毀損前\
+  重複這個循環數次。\n\
   \n\
-  Each extractor can find exclusive resources if used in the correct zone:\n\
-  Pumps can find a special resource in the Dry Reef.\n\
-  Drills can find a special resource in the Indigo Quarry.\n\
-  Apiaries can find a special resource in the Moss Blanket.
+  如果放隊地區的話，每個萃取器能採取獨特的資源：\n\
+  幫浦能在乾旱礁地發現特別資源。\n\
+  電鑽能在靛青礦場發現特別資源。\n\
+  蜂房能在苔蘚之地發現特別資源。
 
-t.utilities = 輔助
-m.intro.utilities = Tools for getting the job done.
-m.desc.utilities = Utilities are a class of Slime Science gadgets that provide useful features to aid you in managing \
-  your ranch, as well as exploring the range.\n\
+t.utilities = 輔助工具
+m.intro.utilities = 幫助工作完成的工具。
+m.desc.utilities = 輔助工具是種能幫助你管理牧場和探索遠遠星球的\
+  史萊姆科學工具。\n\
   \n\
-  Craft utilities in order to make your slime ranching a little easier.
+  製造輔助工具來使得你的史萊姆牧養生活輕鬆點。
 
-t.warp_tech = 傳送
-m.intro.warp_tech = Try not to think about how it works.
-m.desc.warp_tech = Warp tech is a class of Slime Science gadgets that allow you to harness the power of instantaneous \
-  travel. It includes teleporters that you can use to create shortcuts, as well as gadgets that allow you to transport \
-  items.\n\
+t.warp_tech = 傳送工具
+m.intro.warp_tech = 試著別去想它是如何運作的。
+m.desc.warp_tech = 傳送工具是種能讓你瞬間移動的\
+  史萊姆科學工具。它包含了傳送器能讓你快速移動，和轉送站能讓你傳送\
+  物品。\n\
   \n\
-  Craft warp tech in order to ranch and explore much faster and more efficiently.
+ 製造傳送工具來讓你牧養和探索更快並更有效率。
 
-t.decorations = 裝飾
-m.intro.decorations = Be the best rancher, but do it in style.
-m.desc.decorations = Decorations are a class of Slime Science gadgets that allow you to decorate the world with \
-  attractive objects or recreations of natural findings from the environment.\n\
+t.decorations = 裝飾工具
+m.intro.decorations = 要成為最好的牧場主，就要有自己的風格。
+m.desc.decorations = 裝飾工具是種能讓你用具有吸引力的物品\
+  或從娛樂品來裝潢環境的史萊姆科學工具\n\
   \n\
-  Craft decorations in order to make your slime ranching a more beautiful experience!
+  製造裝飾品來讓你的史萊姆牧養生活成為更美麗的經驗！
 
-t.curios = 新奇
-m.intro.curios = Because why not?
-m.desc.curios = Curios are a class of Slime Science gadgets that while functional, are not necessarily useful. Curios \
-  include toys, games, and other gimmicky gadgets that can be a great time with an equally great imagination.\n\
+t.curios = 新奇工具
+m.intro.curios = 因為為何不？
+m.desc.curios = 新奇工具是種能使用，但不一定有用的史萊姆科學工具。新奇工具\
+  包含了玩具、遊戲、和其他出乎意料的花俏工具。\n\
   \n\
-  Craft curios in order to make your slime ranching a little sillier (which is the best kind of slime ranching, to be \
-  honest).
+  新奇工具能讓你的史萊姆牧養生活變得有點愚蠢（說實話，\
+  這反倒是最好的生活）。
 
 ##### LARGOS, hud-only ######
 t.pink_rock_largo = 粉紅岩石史萊姆
@@ -1022,125 +1022,125 @@ m.upgrade.desc.personal.treasure_cracker_3 = 讓你能繞過最進階寶藏匣�
 
 ##### For gadget panels #####
 m.gadget.name.extractor_drill_novice = 新手電鑽
-m.gadget.desc.extractor_drill_novice = Allows you to drill for buried minerals. Lasts 1 cycle.
+m.gadget.desc.extractor_drill_novice = 讓你能鑽取埋藏的礦物，持續一個循環。
 m.gadget.name.extractor_drill_advanced = 專家電鑽
-m.gadget.desc.extractor_drill_advanced = A drill that unearths more minerals, with a higher chance for rare minerals. Lasts 3 cycles.
+m.gadget.desc.extractor_drill_advanced = 能鑽取地底下更多的礦物，有更高的機率取得稀有礦物。能持續三個循環。
 m.gadget.name.extractor_drill_master = 大師電鑽
 m.gadget.desc.extractor_drill_master = 待定
 m.gadget.name.extractor_drill_titan = 泰坦電鑽
 m.gadget.desc.extractor_drill_titan = 待定
 m.gadget.name.extractor_pump_novice = 新手幫浦
-m.gadget.desc.extractor_pump_novice = Allows you to siphon underground resources. Lasts 1 cycle.
+m.gadget.desc.extractor_pump_novice = 讓你能吸取地底資源，持續一個循環。
 m.gadget.name.extractor_pump_advanced = 專家幫浦
-m.gadget.desc.extractor_pump_advanced = A pump that siphons more resources, with a higher chance for rare resources. Lasts 3 cycles.
+m.gadget.desc.extractor_pump_advanced = 能吸取更多地底資源，有更高的機率取得稀有資源。能持續三個循環。
 m.gadget.name.extractor_pump_master = 大師幫浦
 m.gadget.desc.extractor_pump_master = 待定
 m.gadget.name.extractor_pump_abyssal = 深淵幫浦
 m.gadget.desc.extractor_pump_abyssal = 待定
 m.gadget.name.extractor_apiary_novice = 新手蜂房
-m.gadget.desc.extractor_apiary_novice = Allows you to collect resources from wild bees. Lasts 1 cycle.
+m.gadget.desc.extractor_apiary_novice = 讓你能從野生的蜜蜂那蒐集資源，持續一個循環。
 m.gadget.name.extractor_apiary_advanced = 專家蜂房
-m.gadget.desc.extractor_apiary_advanced = An apiary that collects more resources, with a higher chance for rare resources. Lasts 3 cycles.
+m.gadget.desc.extractor_apiary_advanced = 能蒐集更多資源，有更高的機率取得稀有資源。能持續三個循環。
 m.gadget.name.extractor_apiary_master = 大師蜂房
 m.gadget.desc.extractor_apiary_master = 待定
 m.gadget.name.extractor_apiary_royal = 皇家蜂房
 m.gadget.desc.extractor_apiary_royal = 待定
 
 m.gadget.name.teleporter_pink = 粉紅傳送器
-m.gadget.desc.teleporter_pink = A set of two teleporters that can be used to create your own quick travel link.
+m.gadget.desc.teleporter_pink =  一組兩個的傳送器，能用來產生屬於你的快速旅行連結。
 m.gadget.name.teleporter_blue = 藍色傳送器
-m.gadget.desc.teleporter_blue = A set of two teleporters that can be used to create your own quick travel link.
+m.gadget.desc.teleporter_blue = 一組兩個的傳送器，能用來產生屬於你的快速旅行連結。
 m.gadget.name.teleporter_violet = 紫色傳送器
-m.gadget.desc.teleporter_violet = A set of two teleporters that can be used to create your own quick travel link.
+m.gadget.desc.teleporter_violet = 一組兩個的傳送器，能用來產生屬於你的快速旅行連結。
 m.gadget.name.teleporter_grey = 灰色傳送器
-m.gadget.desc.teleporter_grey = A set of two teleporters that can be used to create your own quick travel link.
+m.gadget.desc.teleporter_grey = 一組兩個的傳送器，能用來產生屬於你的快速旅行連結。
 m.gadget.name.teleporter_green = 綠色傳送器
-m.gadget.desc.teleporter_green = A set of two teleporters that can be used to create your own quick travel link.
+m.gadget.desc.teleporter_green = 一組兩個的傳送器，能用來產生屬於你的快速旅行連結。
 m.gadget.name.teleporter_red = 紅色傳送器
-m.gadget.desc.teleporter_red = A set of two teleporters that can be used to create your own quick travel link.
+m.gadget.desc.teleporter_red = 一組兩個的傳送器，能用來產生屬於你的快速旅行連結。
 m.gadget.name.teleporter_amber = 珀色傳送器
-m.gadget.desc.teleporter_amber = A set of two teleporters that can be used to create your own quick travel link.
+m.gadget.desc.teleporter_amber = 一組兩個的傳送器，能用來產生屬於你的快速旅行連結。
 m.gadget.name.teleporter_gold = 金色傳送器
 m.gadget.desc.teleporter_gold = 待定
 
 m.gadget.name.warp_depot_pink = 粉紅轉送站
-m.gadget.desc.warp_depot_pink = A set of two gadgets that allow you to remotely transfer resources between two points.
+m.gadget.desc.warp_depot_pink = 一組兩個的轉送站，能用來產生在兩點間傳送資源。
 m.gadget.name.warp_depot_blue = 藍色轉送站
-m.gadget.desc.warp_depot_blue = A set of two gadgets that allow you to remotely transfer resources between two points.
+m.gadget.desc.warp_depot_blue = 一組兩個的轉送站，能用來產生在兩點間傳送資源。
 m.gadget.name.warp_depot_violet = 紫色轉送站
-m.gadget.desc.warp_depot_violet = A set of two gadgets that allow you to remotely transfer resources between two points.
+m.gadget.desc.warp_depot_violet = 一組兩個的轉送站，能用來產生在兩點間傳送資源。
 m.gadget.name.warp_depot_grey = 灰色轉送站
-m.gadget.desc.warp_depot_grey = A set of two gadgets that allow you to remotely transfer resources between two points.
+m.gadget.desc.warp_depot_grey = 一組兩個的轉送站，能用來產生在兩點間傳送資源。
 m.gadget.name.warp_depot_green = 綠色轉送站
-m.gadget.desc.warp_depot_green = A set of two gadgets that allow you to remotely transfer resources between two points.
+m.gadget.desc.warp_depot_green = 一組兩個的轉送站，能用來產生在兩點間傳送資源。
 m.gadget.name.warp_depot_red = 紅色轉送站
-m.gadget.desc.warp_depot_red = A set of two gadgets that allow you to remotely transfer resources between two points.
+m.gadget.desc.warp_depot_red = 一組兩個的轉送站，能用來產生在兩點間傳送資源。
 m.gadget.name.warp_depot_amber = 珀色轉送站
-m.gadget.desc.warp_depot_amber = A set of two gadgets that allow you to remotely transfer resources between two points.
+m.gadget.desc.warp_depot_amber = 一組兩個的轉送站，能用來產生在兩點間傳送資源。
 m.gadget.name.warp_depot_gold = 金色轉送站
 m.gadget.desc.warp_depot_gold = 待定
 
 
 m.gadget.name.med_station = 醫療站
-m.gadget.desc.med_station = Rapidly drains your energy to restore health. Fixes you up fast!
+m.gadget.desc.med_station = 快速的將你的能量轉為生命，迅速的治癒你！
 m.gadget.name.hydro_turret = 液壓炮塔
-m.gadget.desc.hydro_turret = A defensive cannon that will automatically target tarr and blast them with water.
+m.gadget.desc.hydro_turret = 能自動瞄準焦油史萊姆並對他們噴水的防禦砲塔
 m.gadget.name.hydro_shower = 液壓淋浴間
 m.gadget.desc.hydro_shower = 待定
 m.gadget.name.spring_pad = 彈跳板
-m.gadget.desc.spring_pad = Launches anything that touches it straight into the air!
+m.gadget.desc.spring_pad = 使每一樣碰到它的東西彈到空中！
 m.gadget.name.refinery_link = 精鍊廠連結站
-m.gadget.desc.refinery_link = Allows you to remotely deposit resources into the refinery.
+m.gadget.desc.refinery_link = 讓你能遠距離的將資源存放進精鍊器
 m.gadget.name.potted_tactus = 盆栽仙人掌
 m.gadget.desc.potted_tactus = 待定
 m.gadget.name.taming_bell = 馴獸鈴
-m.gadget.desc.taming_bell = The dulcet tone of this curious bell will calm the anger of any feral slime that hears it.
+m.gadget.desc.taming_bell = 這新奇的鈴鐺所發出的悅耳鈴響能安撫任何狂暴史萊姆的怒氣。
 m.gadget.name.slime_hoop = 史萊姆投籃機
-m.gadget.desc.slime_hoop = Begins a round of slimeball as soon as a single slime passes through the hoop. What's your high score?
+m.gadget.desc.slime_hoop = 當任一史萊姆穿過上頭的圓環便能成為一顆史萊姆球。你最高幾分呢？
 m.gadget.name.slime_stage = #1史萊姆舞台
-m.gadget.desc.slime_stage = Allows you to let other slimes know who is, unequivocally, the number one slime.
+m.gadget.desc.slime_stage = 讓你能使其他史萊姆知道誰是，最獨特的，第一名的史萊姆。
 m.gadget.name.lamp_pink = 粉紅史萊姆燈
-m.gadget.desc.lamp_pink = A decorative lamp housing a happy slime.
+m.gadget.desc.lamp_pink = 一盞快樂史萊姆的裝飾燈
 m.gadget.name.lamp_blue = 藍色史萊姆燈
-m.gadget.desc.lamp_blue = A decorative lamp housing a happy slime.
+m.gadget.desc.lamp_blue = 一盞快樂史萊姆的裝飾燈
 m.gadget.name.lamp_violet = 紫色史萊姆燈
-m.gadget.desc.lamp_violet = A decorative lamp housing a happy slime.
+m.gadget.desc.lamp_violet = 一盞快樂史萊姆的裝飾燈
 m.gadget.name.lamp_grey = 灰色史萊姆燈
-m.gadget.desc.lamp_grey = A decorative lamp housing a happy slime.
+m.gadget.desc.lamp_grey = 一盞快樂史萊姆的裝飾燈
 m.gadget.name.lamp_green = 綠色史萊姆燈
-m.gadget.desc.lamp_green = A decorative lamp housing a happy slime.
+m.gadget.desc.lamp_green = 一盞快樂史萊姆的裝飾燈
 m.gadget.name.lamp_red = 紅色史萊姆燈
-m.gadget.desc.lamp_red = A decorative lamp housing a happy slime.
+m.gadget.desc.lamp_red = 一盞快樂史萊姆的裝飾燈
 m.gadget.name.lamp_amber = 珀色史萊姆燈
-m.gadget.desc.lamp_amber = A decorative lamp housing a happy slime.
+m.gadget.desc.lamp_amber = 一盞快樂史萊姆的裝飾燈
 
-m.gadget.name.sponge_tree = Sponge Tree
-m.gadget.desc.sponge_tree = A squishy sponge tree that can store a lot of water during dry months.
-m.gadget.name.sponge_shrub = Sponge Shrub
-m.gadget.desc.sponge_shrub = Chunks of these shrubs are great for scrubbing up in the bath.
-m.gadget.name.pink_coral_columns = Pink Coral Columns
-m.gadget.desc.pink_coral_columns = These coral towers are a reminder that the dry reef was once below the slime sea.
-m.gadget.name.coral_grass_patch = Coral Grass Patch
-m.gadget.desc.coral_grass_patch = This soft, pink grass makes for a lovely place to take a nap.
+m.gadget.name.sponge_tree = 海棉樹
+m.gadget.desc.sponge_tree = 當口渴時，海棉樹能儲放許多水分。
+m.gadget.name.sponge_shrub = 海綿灌木
+m.gadget.desc.sponge_shrub = 這些灌木最適合拿來在洗澡時擦洗身體了。
+m.gadget.name.pink_coral_columns = 粉紅珊瑚條
+m.gadget.desc.pink_coral_columns =這些珊瑚條是乾旱礁地曾在史萊姆海底下的提醒。
+m.gadget.name.coral_grass_patch = 珊瑚草皮
+m.gadget.desc.coral_grass_patch = 這柔軟、粉紅的草地是打盹的好去處
 
-m.gadget.name.mossy_tree = Mossy Tree
-m.gadget.desc.mossy_tree = A deeply verdant tree found in the tangled thicket of the Moss Blanket.
-m.gadget.name.mossy_tree_stump = Mossy Tree Stump
-m.gadget.desc.mossy_tree_stump = All that remains of one of the great trees found in the Moss Blanket.
-m.gadget.name.glow_cones = Glow Cones
-m.gadget.desc.glow_cones = A strange flora that explorers often used to find their way in the night.
-m.gadget.name.wildflower_patch = Wildflower Patch
-m.gadget.desc.wildflower_patch = A patch of the sweet-smelling flowers that honey slimes enjoy.
-m.gadget.name.jumbo_shroom = Jumbo Shroom
-m.gadget.desc.jumbo_shroom = Not a regular shroom, or even a large one. No, something more.
+m.gadget.name.mossy_tree = 苔蘚樹
+m.gadget.desc.mossy_tree = 在苔蘚之地錯縱灌木裡發現的鬱綠樹木。
+m.gadget.name.mossy_tree_stump = 苔蘚樹根
+m.gadget.desc.mossy_tree_stump = 苔蘚之地裡其中之一最大的樹所留下的一切。
+m.gadget.name.glow_cones = 夜光松果
+m.gadget.desc.glow_cones = 一種奇異的松果，探索者們大都用來在夜間探路。
+m.gadget.name.wildflower_patch = 野花草皮
+m.gadget.desc.wildflower_patch = 蜂蜜史萊姆最愛的草皮，上頭有著甜蜜香氣的花簇。
+m.gadget.name.jumbo_shroom = 巨大蘑菇
+m.gadget.desc.jumbo_shroom = 既不是普通蘑菇，或是更大的。不，還更多。
 
-m.gadget.name.minty_grass_patch = Minty Grass Patch
-m.gadget.desc.minty_grass_patch = Though this grass does indeed have a pleasant, minty aroma, the taste is quite bitter.
-m.gadget.name.blue_coral_columns = Blue Coral Columns
-m.gadget.desc.blue_coral_columns = Coral towers whose color has shifted to the minerals found in the Indigo Quarry.
-m.gadget.name.hexium_formation = Hexium Formation
-m.gadget.desc.hexium_formation = A strange ore whose geometric array is consistent on even a molecular level.
-m.gadget.name.crystal_cluster = Crystal Cluster
-m.gadget.desc.crystal_cluster = You may think this is a clutch or even a collection of crystals. You would be wrong.
-m.gadget.name.fireflower_patch = Fireflower Patch
-m.gadget.desc.fireflower_patch = Flowers grown from volcanic ash that take on a burning hue.
+m.gadget.name.minty_grass_patch = 薄荷草皮
+m.gadget.desc.minty_grass_patch = 雖然這些草的確有著令人愉悅的薄荷香，但嚐起來卻是苦的。
+m.gadget.name.blue_coral_columns = 藍色珊瑚條
+m.gadget.desc.blue_coral_columns = 顏色隨著靛青礦廠裡的礦物而變的珊瑚條。
+m.gadget.name.hexium_formation = 十六制組合
+m.gadget.desc.hexium_formation = 一種奇怪的礦物，在物理排列上恆定，就算到了分子等級也是一樣。
+m.gadget.name.crystal_cluster = 水晶簇
+m.gadget.desc.crystal_cluster = 你可能覺得這是一堆水晶，那你就錯了。
+m.gadget.name.fireflower_patch = 火花草皮
+m.gadget.desc.fireflower_patch = 生長自火山灰的花，有著火熱的顏色。
