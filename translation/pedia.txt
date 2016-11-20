@@ -548,146 +548,146 @@ m.desc.elder_hen = 老母雞們經歷了完整的一生。牠們遇過夢想中�
 	牠們會叫錯無數的書、電影或演員的名。但別怪牠們，\
 	看在上帝的份上。
 
-t.primordy_oil_craft = Primordy Oil
-m.intro.primordy_oil_craft = This stuff is pre-pre-prehistoric.
-m.favored_by.primordy_oil_craft = (not slime food)
-m.resource_type.primordy_oil_craft = Crafting Material
-m.how_to_use.primordy_oil_craft = Deposit primordy oil into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.primordy_oil_craft = Primordy oil is a common resource obtained with a pump.\n\
+t.primordy_oil_craft = 太初油
+m.intro.primordy_oil_craft = 這東西可是史前前前前的。
+m.favored_by.primordy_oil_craft = （非史萊姆食物）
+m.resource_type.primordy_oil_craft = 製造材料
+m.how_to_use.primordy_oil_craft = 將太初油存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.primordy_oil_craft = 太初油是能透過幫浦取得的一種常見資源。\n\
     \n\
-    Found deep below the surface of the Far, Far Range, primordy oil is an ancient substance containing a wide array \
-    of organic compounds, making it perfect as a base for many Slime Science creations.
+    從遠遠星球深處發現的太初油，是種古老的物質，包含了各式各樣的\
+    有機化合物，使其成為許多史萊姆科學產物的完美基底。
 
-t.deep_brine_craft = Deep Brine
-m.intro.deep_brine_craft = Salt of the earth kind of stuff.
-m.favored_by.deep_brine_craft = (not slime food)
-m.resource_type.deep_brine_craft = Crafting Material
-m.how_to_use.deep_brine_craft = Deposit deep brine into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.deep_brine_craft = Deep brine is a common resource exclusive to the Dry Reef, obtained with a pump.\n\
+t.deep_brine_craft = 深海鹽水
+m.intro.deep_brine_craft = 就像是地球上的鹽那樣。
+m.favored_by.deep_brine_craft = （非史萊姆食物）
+m.resource_type.deep_brine_craft = 製造材料
+m.how_to_use.deep_brine_craft = 將深海鹽水存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.deep_brine_craft = 深海鹽水是種能透過幫浦在乾旱礁地取得的常見資源\n\
     \n\
-    Not safe for drinking, deep brine is thought to be water from the Slime Sea that has been filtered by \
-    the subterranean coral of the Dry Reef. It is significantly denser than fresh water and loaded with salt.
+    不適合飲用，深海鹽水被認為是乾旱礁地底下的珊瑚從史萊姆海所過濾出來的。\
+	很明顯的，深海鹽水比一般新鮮的水濃稠很多，並且富含鹽分。
 
-t.spiral_steam_craft = Spiral Steam
-m.intro.spiral_steam_craft = If you search for it, you'll find something wonderful.
-m.favored_by.spiral_steam_craft = (not slime food)
-m.resource_type.spiral_steam_craft = Crafting Material
-m.how_to_use.spiral_steam_craft = Deposit spiral steam into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.spiral_steam_craft = Spiral steam is an uncommon resource obtained with a pump.\n\
+t.spiral_steam_craft = 螺旋蒸氣
+m.intro.spiral_steam_craft = 如果你在尋找它，你會發現些好玩的東西。
+m.favored_by.spiral_steam_craft = （非史萊姆食物）
+m.resource_type.spiral_steam_craft = 製造材料
+m.how_to_use.spiral_steam_craft = 將螺旋蒸氣存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.spiral_steam_craft = 螺旋蒸氣是種能透過幫浦取得的少見資源\n\
     \n\
-    Found in highly pressurized vacuums of rock below the surface, spiral steam exhibits a curious behavior \
-    when released into the atmosphere, swirling into a series of dancing spirals before dissipating. It is valued \
-    for the countless micro-particles found within the steam itself. 
+    為在地底深處的高壓所形成的蒸氣，當螺旋蒸氣釋放到大氣時，會有奇特的表現：\
+    在消失之前會不斷的螺旋，就像在跳舞一般。螺旋蒸氣裡\
+    所發現的無數分子十分有價值。
 
-t.lava_dust_craft = Lava Dust
-m.intro.lava_dust_craft = A survey on the state of this matter answered 'undecided.'
-m.favored_by.lava_dust_craft = (not slime food)
-m.resource_type.lava_dust_craft = Crafting Material
-m.how_to_use.lava_dust_craft = Deposit lava dust into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.lava_dust_craft = Lava dust is a rare resource obtained with a pump.\n\
+t.lava_dust_craft = 岩漿灰
+m.intro.lava_dust_craft = 對這個狀態的問卷結果為：「未決定」
+m.favored_by.lava_dust_craft = （非史萊姆食物）
+m.resource_type.lava_dust_craft = 製造材料
+m.how_to_use.lava_dust_craft = 將岩漿灰存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.lava_dust_craft = 岩漿灰是種能透過幫浦取得的稀有資源。\n\
     \n\
-    Neither a solid or a liquid, lava dust seems to be something in between, having the characteristics of both. \
-    It is believed to be a mixture of magma and slime, though this has never been proven. And despite its name, lava dust \
-    is only warm to the touch.
+    既非固態也非液態，岩漿灰看起來像是在兩者之間，擁有兩個狀態的特質\
+    雖然尚未被證實，但普遍認為它是岩漿和史萊姆的混合物。不如其名，岩漿灰 \
+    摸起來僅溫溫的而已，並不會燙。
 
-t.buzz_wax_craft = Buzz Wax
-m.intro.buzz_wax_craft = Can be used to make a great scented candle if you enjoy the smell of bee abdominal glands.
-m.favored_by.buzz_wax_craft = (not slime food)
-m.resource_type.buzz_wax_craft = Crafting Material
-m.how_to_use.buzz_wax_craft = Deposit buzz wax into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.buzz_wax_craft = Buzz wax is a common resource obtained with an apiary.\n\
+t.buzz_wax_craft = 蜂蠟
+m.intro.buzz_wax_craft = 可以用來製作香氛蠟燭，如果你享受蜜蜂腹部腺體味道的話。
+m.favored_by.buzz_wax_craft = （非史萊姆食物）
+m.resource_type.buzz_wax_craft = 製造材料
+m.how_to_use.buzz_wax_craft = 將蜂蠟存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.buzz_wax_craft = 蜂蠟是種能透過蜂房取得的常見資源。\n\
     \n\
-    Just like bees on Earth, bees on the Far, Far Range produce a waxy substance that they use to form their hives. \
-    Buzz wax is the still malleable deposits of unused wax found in apiaries. It has many practical uses ranging \
-    from building materials to medicines. You can also chew it as the worst gum in the world.
+    跟地球上的一樣，遠遠星球上的蜜蜂也會生產蠟來建造牠們的窩。\
+    從蜂房中提出的蜂蠟仍具有延展性。在將原料製成藥品時，\
+    蜂蠟具有廣泛的應用。你也可以把它當成世上最糟的口香糖來嚼。
 
-t.wild_honey_craft = Wild Honey
-m.intro.wild_honey_craft = Tastes great in tea or in shameful handfuls when no one is looking.
-m.favored_by.wild_honey_craft = (not slime food)
-m.resource_type.wild_honey_craft = Crafting Material
-m.how_to_use.wild_honey_craft = Deposit wild honey into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.wild_honey_craft = Wild honey is a common resource exclusive to the Moss Blanket, obtained with an apiary.\n\
+t.wild_honey_craft = 野蜂蜜
+m.intro.wild_honey_craft = 配著茶或是在沒人時偷舔一口，嚐起來棒極了。
+m.favored_by.wild_honey_craft = （非史萊姆食物）
+m.resource_type.wild_honey_craft = 製造材料
+m.how_to_use.wild_honey_craft = 將蜂蠟存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.wild_honey_craft = 野蜂蜜是種能透過蜂房在苔蘚之地取得的常見資源。\n\
     \n\
-    All the rich pollens and sweet nectars found in the forests of the Moss Blanket combine in a beautiful alchemy \
-    to form some of the most delicious honey in the galaxy. Wild honey is a staple of rancher life; a dollop of it \
-    makes just about any food taste better, and it provides a natural boost of energy to get through a tough day of \
-    wrangling slimes. 
+   苔蘚之地裡豐厚的花粉和甜滋茲的花蜜的結合，造就了全銀河系中\
+    最美味的蜂蜜。野蜂蜜是牧場主生活中不可或缺的部分，一塊野蜂蜜能\
+   使得任何食物嚐起來更加美味，它也提供了對付調皮史萊姆\
+   一天的能量。
 
-t.hexacomb_craft = Hexacomb
-m.intro.hexacomb_craft = Bee stuff and geometry: the chocolate and peanut butter of nature.
-m.favored_by.hexacomb_craft = (not slime food)
-m.resource_type.hexacomb_craft = Crafting Material
-m.how_to_use.hexacomb_craft = Deposit hexacomb into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.hexacomb_craft = Hexacomb is an uncommon resource obtained with an apiary.\n\
+t.hexacomb_craft = 蜂巢
+m.intro.hexacomb_craft = 蜜蜂物品與幾何：巧克力與天然的花生奶油。
+m.favored_by.hexacomb_craft = （非史萊姆食物）
+m.resource_type.hexacomb_craft = 製造材料
+m.how_to_use.hexacomb_craft = 將蜂巢存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.hexacomb_craft = 野蜂蜜是種能透過蜂房取得的少見資源。\n\
     \n\
-    Hexacomb is the result of bees arranging buzz wax into complex patterns to store their honey and eggs. \
-    Why the hexagonal shape? Bees understand that the hexagon is the shape of the future. Bees were Sci-Fi before it was cool.
+    蜂巢是蜜蜂們將蜂蠟排列成複雜的圖形的結果，用以儲存蜂蜜和卵。\
+    為何是六邊形？蜜蜂們了解六邊形是未來的形狀。Bees were Sci-Fi before it was cool.
 
-t.royal_jelly_craft = Royal Jelly
-m.intro.royal_jelly_craft = The king of all jellies... that is, until you meet the queen.
-m.favored_by.royal_jelly_craft = (not slime food)
-m.resource_type.royal_jelly_craft = Crafting Material
-m.how_to_use.royal_jelly_craft = Deposit royal jelly into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.royal_jelly_craft = Royal jelly is a rare resource obtained with an apiary. \n\
+t.royal_jelly_craft = 蜂王漿
+m.intro.royal_jelly_craft = 果凍之王……我是說，直到你遇到了皇后。
+m.favored_by.royal_jelly_craft = （非史萊姆食物）
+m.resource_type.royal_jelly_craft = 製造材料
+m.how_to_use.royal_jelly_craft = 將蜂巢存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.royal_jelly_craft = 野蜂蜜是種能透過蜂房取得的稀有資源。\n\
     \n\
-    The royal jelly found in the hives across the Far, Far Range is special as it is unnaturally sweet compared to \
-    other varieties. It's believed that this is a result of bees collecting small deposits of slime from honey slimes \
-    and working it into their royal jelly mixture. If a rancher is lucky enough to acquire some, they'll find its \
-    unique properties are very valuable in certain Slime Science endeavors. 
+   在遠遠星球上發現的蜂王漿十分特別，尤其是將它與其他品種相比，\
+    會發現異常的甜。普遍認為這是因為蜜蜂會從蜂蜜史萊姆身上採集，\
+    並將其加入他們的蜂王漿混合物。如果牧場主幸運到能獲得一些蜂王漿的話，會發現\
+    它們獨特的特性在某些史萊姆科學項目上十分有價值。
 
 
-t.jellystone_craft = Jellystone
-m.intro.jellystone_craft = It's both solid and squishy at the same time.
-m.favored_by.jellystone_craft = (not slime food)
-m.resource_type.jellystone_craft = Crafting Material
-m.how_to_use.jellystone_craft = Deposit jellystone into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.jellystone_craft = Jellystone is a common resource obtained with a drill.\n\
+t.jellystone_craft = 凝膠石
+m.intro.jellystone_craft = 它是固態但又糊糊的。
+m.favored_by.jellystone_craft = （非史萊姆食物）
+m.resource_type.jellystone_craft = 製造材料
+m.how_to_use.jellystone_craft = 將凝膠石存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.jellystone_craft = 凝膠石是種能透過電鑽取得的常見資源。\n\
     \n\
-    Jellystone is a semi-hardened mixture of minerals and slime, possibly resulting from plorts sinking back into \
-    the earth below. Because of its softer texture, it's a favorite stone for sculptors.
+    凝膠石為礦物和史萊姆的半硬化混合物，有可能是來自沉自地底\
+    的結晶。因為其柔軟的特性，凝膠石是雕塑家們最愛的石頭。
 
-t.indigonium_craft = Indigonium
-m.intro.indigonium_craft = Heavy metal experts often call this hard rock 'deep purple.'
-m.favored_by.indigonium_craft = (not slime food)
-m.resource_type.indigonium_craft = Crafting Material
-m.how_to_use.indigonium_craft = Deposit indigonium into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.indigonium_craft = Indigonium is a common resource exclusive to the Indigo Quarry, obtained with a drill.\n\
+t.indigonium_craft = 靛青礦
+m.intro.indigonium_craft = 重金屬專家們通常將這堅硬的石頭稱作「深紫」
+m.favored_by.indigonium_craft = （非史萊姆食物）
+m.resource_type.indigonium_craft = 製造材料
+m.how_to_use.indigonium_craft = 將靛青礦存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.indigonium_craft =  靛青礦是種能透過電鑽在靛青礦場取得的常見資源。\n\
     \n\
-    Indigonium is the ore that gives the Indigo Quarry its name. There's a little indigonium found in every inch \
-    of the quarry, but the purest ore is only found deep underground.
+    靛青礦場之名便是來自靛青礦。在礦廠裡的每一吋都能發現小靛青礦 \
+    ，但最純粹的靛青礦只藏在地底深處。
 
-t.slime_fossil_craft = Slime Fossil
-m.intro.slime_fossil_craft = If history could smile, it would look like this.
-m.favored_by.slime_fossil_craft = (not slime food)
-m.resource_type.slime_fossil_craft = Crafting Material
-m.how_to_use.slime_fossil_craft = Deposit slime fossils into the Lab's Refinery where they can then be used for crafting \
-    Slime Science gadgets.
-m.desc.slime_fossil_craft = Slime fossils are an uncommon resource obtained with a drill.\n\
+t.slime_fossil_craft = 史萊姆化石
+m.intro.slime_fossil_craft = 如果歷史會笑，它看起來就像這個。
+m.favored_by.slime_fossil_craft = （非史萊姆食物）
+m.resource_type.slime_fossil_craft = 製造材料
+m.how_to_use.slime_fossil_craft =將史萊姆化石存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.slime_fossil_craft = 史萊姆化石是種能透過電鑽取得的少見資源。\n\
     \n\
-    Prized for the ancient minerals they contain, slime fossils are like nature capturing a moment in time. \
-    Specifically, that moment seems to be when a great avalanche or mudslide occurred and a slime was totally cool with it.
+    飽受讚賞的古早礦物，史萊姆化石就像天然剛捕捉到的一般。 \
+    值得一提的是，被捕捉到的那一剎那看起來像是凍極的史萊姆被雪崩或土石流淹沒。
 
-t.strange_diamond_craft = Strange Diamond
-m.intro.strange_diamond_craft = Very strange, but even more valuable.
-m.favored_by.strange_diamond_craft = (not slime food)
-m.resource_type.strange_diamond_craft = Crafting Material
-m.how_to_use.strange_diamond_craft = Deposit strange diamonds into the Lab's Refinery where they can then be used for crafting \
-    Slime Science gadgets.
-m.desc.strange_diamond_craft = Strange diamonds are a rare resource obtained with a drill.\n\
+t.strange_diamond_craft = 奇異鑽石
+m.intro.strange_diamond_craft = 非常特別，但是更有價值。
+m.favored_by.strange_diamond_craft = （非史萊姆食物）
+m.resource_type.strange_diamond_craft = 製造材料
+m.how_to_use.strange_diamond_craft = 將奇異鑽石存入實驗室裡的精煉廠以用來製作\
+    史萊姆科學道具。
+m.desc.strange_diamond_craft = 奇異鑽石是種能透過電鑽取得的稀有資源。\n\
     \n\
-    Even in the dark, these diamonds seem to shine as if light is passing through them. Strange diamonds are \
-    highly valued for their use in a variety of warp tech processes. Being almost impossibly dense and intricate \
-    in their composition, a strange diamond can reflect light within itself so profoundly that it actually bends time.
+    就算在黑暗中，只要有一絲光線照過它，這些鑽石便會閃閃發亮。奇異鑽石在 \
+    彎曲科技上的應用有相當高的價值。由於其不可思議的密度及 \
+    複雜結構，就算再多次凹折之後，奇異鑽石仍能夠完美的反射光線。
 
 # Ranch Tech
 t.corral = 圍欄
