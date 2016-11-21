@@ -89,49 +89,43 @@ m.text.explore = 你已經學會了基本知識，現在是時候出去探索了
   \n\
   記住，要成為一位專業牧場主的最佳途徑是勇於嘗試。沒有冒險就沒有收穫！
 
-t.science_barn = Slime Science!
-m.text.science_barn = You've unlocked The Lab, a special Ranch expansion that will allow you to create gadgets using \
-  Slime Science!\n\
+t.science_barn = 史萊姆科學！
+m.text.science_barn = 你解鎖了實驗室，那是一個延伸自牧場，讓你能透過史萊姆科學來製作裝置的特殊地點！\n\
   \n\
-  Head on over to the barn and get started!
+  前往穀倉並準備開始吧！
 
-t.science_summary = Time to get crafty!
-m.text.science_summary = This barn has all the equipment you'll need to begin crafting gadgets using Slime Science. \
-  Gadgets include useful utilities to aid in exploring, defensive turrets, decorations, and more!
+t.science_summary = 是時候來製作了！
+m.text.science_summary = 這棟穀倉擁有透過史萊姆科學來製作裝置所需要的一切設備。\
+  裝置包含能幫助探險的輔助工具、防禦炮塔、裝飾品，還有更多更多！
 
-t.science_refinery = The Refinery
-m.text.science_refinery = In order to fabricate gadgets, you'll need resources in your Refinery. Try shooting a plort \
-  into the Refinery.\n\
+t.science_refinery = 精鍊爐
+m.text.science_refinery = 為了製作裝置，你需要在精鍊爐放入資源。試著把結晶射入精鍊爐吧！\n\
   \n\
-  But remember: any resources deposited into a Refinery CANNOT be removed.
+  切記：任何資源放入精鍊爐後，皆不能再領出。
 
-t.science_builder_shop = The Builder's Shop
-m.text.science_builder_shop = The Builder's Shop allows you to purchase blueprints. A blueprint is required to build \
-  any gadget.\n\
+t.science_builder_shop = 製作者商店
+m.text.science_builder_shop = 製作者商店讓你能購買藍圖。藍圖是製作任何裝置的必需品。\n\
   \n\
-  Be sure to check the Builder's Shop often for new blueprints!
+  請務必經常確認製作者商店是否有新藍圖上架！
 
-t.science_fabricator = The Fabricator
-m.text.science_fabricator = Once you have a blueprint, the Fabricator allows you to craft gadgets, using resources stored \
-  in the Refinery. \
-  Give it a try!
+t.science_fabricator = 製作機
+m.text.science_fabricator = 只要擁有藍圖，製作機就能讓你使用存放在精鍊爐裡的資源製作裝置。\
+  試試看吧！
 
-t.science_gadget_mode = Gadget Mode
-m.text.science_gadget_mode = In order to place gadgets, you need to enable Gadget Mode.
+t.science_gadget_mode = 裝置模式
+m.text.science_gadget_mode = 為了安裝裝置，你需要啟用裝置模式。
 m.input.science_gadget_mode.1 = T
-m.inputdesc.science_gadget_mode.1 = Toggle Gadget Mode
-m.input.gamepad.science_gadget_mode.1 = ToggleGadgetMode
-m.inputdesc.gamepad.science_gadget_mode.1 = Toggle Gadget Mode
+m.inputdesc.science_gadget_mode.1 = 切換裝置模式
+m.input.gamepad.science_gadget_mode.1 = 切換裝置模式
+m.inputdesc.gamepad.science_gadget_mode.1 = 切換裝置模式
 
-t.science_sites = Build Sites
-m.text.science_sites = In Gadget Mode you cannot vac or shoot, but you can see all the build sites in the world that \
-  you can place your gadgets. \
-  Have a look around!
+t.science_sites = 安裝點
+m.text.science_sites = 在裝置模式下，你不能吸取或射擊，但你能看到所有可以安裝裝置的點。\
+  到處走走看一看吧！
 
-t.science_place_site = Place Site
-m.text.science_place_site = Once you've found a build site, approach it to open to Place Gadget menu. Then simply \
-  select the gadget you wish to place!
+t.science_place_site = 安裝裝置
+m.text.science_place_site = 一旦找到安裝點，靠近後會開啟安裝裝置選單。然後只要選擇你想要安裝的裝置就可以了！
 
-t.science_wrapup = Science Class: Passed!
-m.text.science_wrapup = That covers the basics of Slime Science! To learn more, check out the new Slime Science \
-  section in your Slimepedia. It's loaded with handy info! 
+t.science_wrapup = 科學課：及格！
+m.text.science_wrapup = 以上就是史萊姆科學的入門課程！要了解更多的話，請查看史萊姆百科內新增的科學章節。\
+  上面記載了很多有用的資訊！

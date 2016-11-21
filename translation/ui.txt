@@ -12,7 +12,7 @@ b.slimes = 史萊姆
 b.resources = 資源
 b.ranch = 牧場
 b.world = 世界
-b.science = 史萊姆科學
+b.science = 科學
 
 l.favored_by = 喜愛者：
 l.instructions = 操作說明：
@@ -79,11 +79,11 @@ b.sold_out = 售完
 b.learn_more = 了解更多
 l.curr_count = （{0}）
 
-b.extractors = 萃取
-b.warp_tech = 傳送
-b.utilities = 輔助
-b.decorations = 裝飾
-b.curios = 新奇
+b.extractors = 萃取器
+b.warp_tech = 傳送科技
+b.utilities = 輔助工具
+b.decorations = 裝飾品
+b.curios = 新奇玩物
 
 # Plot screens
 l.cost = 費用：
@@ -433,13 +433,13 @@ l.xbox_faq_a_whats_next = 我們有大量的內容正在開發，包含可探索
 # Gadget screens
 t.place_gadget = 安裝裝置
 t.fabricate_gadget = 製作裝置
-t.purchase_blueprint = 藍圖商店
-t.refinery = 精鍊廠
+t.purchase_blueprint = 製作者商店
+t.refinery = 精鍊爐
 m.gadget_pair = {0} x2
-m.new_blueprint = 已獲得藍圖！
-m.new_blueprint_hint = 請造訪製作廠以製作此裝置。
-m.avail_blueprint = 新藍圖發售中！
-m.avail_blueprint_hint = 請造訪藍圖商店購買。
+m.new_blueprint = 已 獲 得 藍 圖 ！
+m.new_blueprint_hint = 請造訪製作機以製作此裝置。
+m.avail_blueprint = 新 藍 圖 發 售 中 ！
+m.avail_blueprint_hint = 請造訪製作者商店購買。
 m.ready = 就緒！
 l.installing = 安裝中
 b.fabricate = 製作
@@ -455,7 +455,7 @@ e.cannot_pickup_gadget = 此裝置不能撿取。
 l.score = 得分：
 
 # Upgrade avail screens
-m.avail_upgrade = 新升級發售中！
+m.avail_upgrade = 新 升 級 發 售 中 ！
 m.avail_upgrade_hint = 請造訪升級商店購買。
 
 # Tips
