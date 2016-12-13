@@ -7,7 +7,7 @@ l.version = v{0}
 # Slimepedia pages (Note: for per-topic info, see pedia.txt)
 t.pedia = 史萊姆百科
 m.new_pedia_entry = 新 百 科 條 目 ：
-b.vacpack = 吸取器
+b.tutorials = Tutorials
 b.slimes = 史萊姆
 b.resources = 資源
 b.ranch = 牧場
@@ -108,6 +108,7 @@ w.destroying_silo_destroys_contents = 拆除筒倉將會破壞其內的東西！
 w.limit_reached_drill = 電鑽已達安裝上限：6。
 w.limit_reached_pump = 幫浦已達安裝上限：6。
 w.limit_reached_apiary = 蜂房已達安裝上限：6。
+w.cannot_demolish_corral_tutorial = You cannot demolish the corral at this time.
 b.limit_reached = 已達上限
 
 t.empty_plot = 牧場空地

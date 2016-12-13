@@ -100,3 +100,10 @@ l.jellystone_craft = 凝膠石
 l.indigonium_craft = 靛青礦
 l.slime_fossil_craft = 史萊姆化石
 l.strange_diamond_craft = 奇異鑽石
+
+l.handlebar_fashion = Handlebar Moustache
+l.shady_fashion = Shades
+l.clip_on_fashion = Bow Tie
+l.googly_fashion = Googly Eyes
+l.serious_fashion = Serious Eyebrows
+l.smart_fashion = Glasses

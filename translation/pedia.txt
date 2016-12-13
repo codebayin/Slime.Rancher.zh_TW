@@ -13,69 +13,163 @@ m.favored_by.locked = ???
 m.how_to_use.locked = ???
 m.resource_type.locked = ???
 
-# Intro
-t.splash = 歡迎來到《史萊姆牧場》！
-m.intro.splash = 請記住不要在Monomi Park論壇之外的地方分享擷圖或影片。
-m.desc.splash = 您正在遊玩《史萊姆牧場》準預覽版v3。\
-身為勇敢的碧翠絲．樂博，您出發前往了遠遠星球生活，以準備征服這令人興奮的史萊姆牧場世界。\n\
-\n\
-您可以透過飼養史萊姆、餵食牠們並獲得結晶來賺錢。將結晶拿到結晶市場兌現，\
-並使用獲得的現金來將您的牧場升級成結晶製造所吧！\n\
-\n\
-幾項重要的注意事項：\n\
-- 這是非常早期版本的遊戲，所以有很多錯誤、臨時的圖像、不平衡的內容……等等。敬請多加包容體諒。\n\
-- 野外的夜晚是十分危險的。按F來使用手電筒。\n\
-- 目前除了靛青礦場之外沒有更多關卡。\n\
-- 按F2來回報問題。\n\
-- 請造訪forums.monomipark.com來提供我們您的遊戲建議。\n\
-\n\
-感謝您幫忙測試《史萊姆牧場》！
-
 # General
 t.basics = 基本操作
 m.intro.basics = 動次動次動起來。
-m.instructions.basics = 移動（預設：W、A、S、D鍵）可透過衝刺（預設：Shift鍵）來加速，但會消耗能量。\n\
+m.instructions.basics = <b>W</b>: Move forward \n\
+<b>A</b>: Move left \n\
+<b>S</b>: Move backward \n\
+<b>D</b>: Move right \n\
 \n\
-跳躍（預設：空白鍵）可到達更高的地方，或者單純練練身體。按住跳躍可跳得更遠。\n\
+<b>Shift</b>: Sprint (uses energy) \n\
 \n\
-你可以在提示跳出時和某些物件互動（預設：E鍵）。如果你沒有看到提示的話，就當那個東西害羞了吧。
-m.instructions.gamepad.basics = 移動（預設：左搖桿）可透過衝刺（預設：按壓左搖桿）來加速，但會消耗能量。\n\
+<b>Space</b>: Jump (hold to use jetpack, if available) \n\
 \n\
-跳躍（預設：A鈕）可到達更高的地方，或者單純練練身體。按住跳躍可跳得更遠。\n\
+<b>E</b>: Interact (when prompted)
+m.instructions.gamepad.basics = <b>Left Stick</b>: Move\n\
 \n\
-你可以在提示跳出時和某些物件互動（預設：X鈕），如果你沒有看到提示的話，就當那個東西害羞了吧。
+<b>Hold Left Stick</b>: Sprint (uses energy) \n\
+\n\
+<b>A</b>: Jump (hold to use jetpack, if available) \n\
+\n\
+<b>X</b>: Interact (when prompted)
 m.desc.basics =
 
-t.vacing = 吸取器：吸取
+t.vacing = Vacpack: Vac-ing and Shooting
 m.intro.vacing = 成為大師級牧場主的第一步。
-m.instructions.vacing = 按住吸取鍵（預設：滑鼠右鍵）來吸取史萊姆或其它東西。\n\
+m.instructions.vacing = <b>Right Mouse Button</b>: Vacuum slimes or other objects \n\
 \n\
-較大的物體會被吸在吸嘴上，可以透過放開吸取鍵將其放下或按射擊鍵將其射出。
-m.instructions.gamepad.vacing = 按住吸取鍵（預設：LT鈕）來吸取史萊姆或其它東西。\n\
+較大的物體會被吸在吸嘴上，可以透過放開吸取鍵將其放下或按射擊鍵將其射出。\n\
 \n\
-較大的物體會被吸在吸嘴上，可以透過放開吸取鍵將其放下或按射擊鍵將其射出。
+<b>Left Mouse Button</b>: Shoot slime or other object from the selected vac tank \n\
+\n\
+Hold the shoot key to continuously shoot.
+m.instructions.gamepad.vacing = <b>Left Trigger</b>: Vacuum slimes or other objects \n\
+\n\
+Larger objects will be held at the nozzle and can be dropped \
+by releasing vac or fired by pressing shoot. \n\
+\n\
+<b>Right Trigger</b>: Shoot slime or other object from the selected vac tank \n\
+\n\
+Hold the shoot button to continuously shoot.
 m.desc.vacing =
 
-t.shooting = 吸取器：射擊
-m.intro.shooting = 有沒有射過一整槍的雞啊？沒錯，\n就跟聽起來的一樣好玩。
-m.instructions.shooting =  按射擊鍵（預設：滑鼠左鍵）來射出選定的吸取槽裡的史萊姆或其它東西。\n\
-	\n\
-	按住射擊鍵來連續射擊。
-m.instructions.gamepad.shooting = 按射擊鍵（預設：RT鈕）來射出選定的吸取槽裡的史萊姆或其它東西。\n\
-	\n\
-	按住射擊鍵來連續射擊。
-m.desc.shooting =
-
-t.capturetanks = 吸取器：吸取槽
+t.capturetanks = Vacpack: Vac Tanks
 m.intro.capturetanks = 奈米科技使萬事成真、萬物皆微。
-m.instructions.capturetanks =  按對應的按鍵（預設：1、2、3、4鍵）來選取吸取槽，或使用（預設：滑鼠滾輪）來循環切換。
-m.instructions.gamepad.capturetanks = 使用按鍵（預設：LB/RB鈕）來循環切換吸取槽。
+m.instructions.capturetanks = Vac tanks allow you to easily collect, sort, and transport \
+slimes and other resources. \n\
+\n\
+<b>1, 2, 3, 4, 5</b>: Select vac tank \n\
+<b>Mouse Wheel</b>: Cycle through vac tanks
+m.instructions.gamepad.capturetanks = Vac tanks allow you to easily collect, sort, and transport \
+slimes and other resources. \n\
+\n\
+<b>Left Bumper/Right Bumper</b>: Cycle through vac tanks
 m.desc.capturetanks =
 
-t.energy = 吸取器：能量
+t.energy = Vacpack: Health and Energy
 m.intro.energy = 有得必有失。
-m.instructions.energy = 利用介面上的能量計來監控你的能量。
+m.instructions.energy = Monitor your health and energy levels with the Health Meter and Energy Meter on the lower left \
+of the screen. \n\
+\n\
+Health will be automatically restored after not taking damage for a period of time. \n\
+\n\
+Energy will be automatically restored after not using energy for a period of time.
 m.desc.energy =
+
+t.corralling = Ranching Basics: Corralling Slimes
+m.intro.corralling = You can contain them, but you can't stop the wiggle.
+m.instructions.corralling = Shoot slimes through corral walls to contain them and make them easier \
+to manage. But remember: hungry slimes will always find a way out of their corrals! \n\
+\n\
+<b>Mouse Wheel</b>: Select vac tank \n\
+<b>Left Mouse Button</b>: Shoot
+m.instructions.gamepad.corralling = Shoot slimes through corral walls to contain them and make them easier \
+to manage. But remember: hungry slimes will always find a way out of their corrals! \n\
+\n\
+<b>Left Bumper/Right Bumper</b>: Select vac tank \n\
+<b>Right Trigger</b>: Shoot
+m.desc.corralling = 
+
+t.feeding = Ranching Basics: Feeding Slimes
+m.intro.feeding = A well-fed slime makes for a happy (and wealthy) rancher.
+m.instructions.feeding = Each slime has a particular diet. Most prefer either fruit, veggies, or meat. \
+When a slime eats, it produces a plort. \n\
+\n\
+However, most slimes have a favorite food. When a slime eats its favorite food it produces double plorts! \n\
+\n\
+<b>Mouse Wheel</b>: Select vac tank \n\
+<b>Left Mouse Button</b>: Shoot
+m.instructions.gamepad.feeding = Each slime has a particular diet. Most prefer either fruit, veggies, or meat. \
+When a slime eats, it produces a plort. \n\
+\n\
+However, most slimes have a favorite food. When a slime eats its favorite food it produces double plorts! \n\
+\n\
+<b>Left Bumper/Right Bumper</b>: Select vac tank \n\
+<b>Right Trigger</b>: Shoot
+m.desc.feeding =
+
+t.plorts = Ranching Basics: Plorts and the Plort Market
+m.intro.plorts = SELL! SELL! SELL!
+m.instructions.plorts = Vac up plorts and shoot them into the Plort Market to get newbucks. \
+Plort values fluctuate daily depending on the types of plorts you've recently sold. \n\
+\n\
+<b>Mouse Wheel</b>: Select vac tank \n\
+<b>Left Mouse Button</b>: Shoot
+m.instructions.gamepad.plorts = Vac up plorts and shoot them into the Plort Market to get newbucks. \
+Plort values fluctuate daily depending on the types of plorts you've recently sold. \n\
+\n\
+<b>Left Bumper/Right Bumper</b>: Select vac tank \n\
+<b>Right Trigger</b>: Shoot
+m.desc.plorts =
+
+t.ssbasics = Slime Science: Basics
+m.intro.ssbasics = Definitely weird.
+m.instructions.ssbasics = Slime Science allows you to use plorts and other resources to make \
+fantastic gadgets that you can install all over the world. \n\
+\n\
+Slime Science basics: \n\
+- Shoot plorts and resources into the Refinery (cannot be withdrawn once deposited) \n\
+- Buy new blueprints or discover them in treasure pods \n\
+- Use the Fabricator to make new gadgets \n\
+- <b>T</b>: Enter Gadget Mode \n\
+- Place gadgets in Gadget Mode \n\
+- <b>Left Mouse Button/Right Mouse Button</b>: Rotate gadget (when in Gadget Mode) \n\
+\n\
+Visit the Slime Science section of the Slimepedia for more details on Slime Science.
+m.instructions.gamepad.ssbasics = Slime Science allows you to use plorts and other resources to make \
+fantastic gadgets that you can install all over the world. \n\
+\n\
+Slime Science basics: \n\
+- Shoot plorts and resources into the Refinery (cannot be withdrawn once deposited) \n\
+- Buy new blueprints or discover them in treasure pods \n\
+- Use the Fabricator to make new gadgets \n\
+- <b>Down</b>: Enter Gadget Mode \n\
+- Place gadgets in Gadget Mode \n\
+- <b>Left Trigger/Right Trigger</b>: Rotate gadget (when in Gadget Mode) \n\
+\n\
+Visit the Slime Science section of the Slimepedia for more details on Slime Science.
+m.desc.ssbasics =
+
+t.gadgetmode = Slime Science: Gadget Mode
+m.intro.gadgetmode = A more scientific perspective.
+m.instructions.gadgetmode = In Gadget Mode you can see all available build sites where \
+you can install gadgets. \n\
+\n\
+<b>T</b>: Toggle Gadget Mode \n\
+<b>Left Mouse Button</b>: Rotate gadget clockwise \n\
+<b>Right Mouse Button</b>: Rotate gadget counter-clockwise \n\
+\n\
+NOTE: Your vacpack cannot vac or shoot while in Gadget Mode.
+m.instructions.gamepad.gadgetmode = In Gadget Mode you can see all available build sites where \
+you can install gadgets. \n\
+\n\
+<b>Down</b>: Toggle Gadget Mode \n\
+<b>Left Trigger</b>: Rotate gadget clockwise \n\
+<b>Right Trigger</b>: Rotate gadget counter-clockwise \n\
+\n\
+NOTE: Your vacpack cannot vac or shoot while in Gadget Mode.
+m.desc.gadgetmode =
 
 # Slimes
 t.pink_slime = 粉紅史萊姆
@@ -1113,6 +1207,25 @@ m.gadget.name.lamp_red = 紅色史萊姆燈
 m.gadget.desc.lamp_red = 一盞住著快樂史萊姆的裝飾燈。
 m.gadget.name.lamp_amber = 珀色史萊姆燈
 m.gadget.desc.lamp_amber = 一盞住著快樂史萊姆的裝飾燈。
+
+m.gadget.name.fashion_pod_handlebar = Handlebar Fashion Pod
+m.gadget.desc.fashion_pod_handlebar = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_shady = Shady Fashion Pod
+m.gadget.desc.fashion_pod_shady = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_clip_on = Clip-On Fashion Pod
+m.gadget.desc.fashion_pod_clip_on = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_googly = Googly Fashion Pod
+m.gadget.desc.fashion_pod_googly = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_serious = Serious Fashion Pod
+m.gadget.desc.fashion_pod_serious = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_smart = Smart Fashion Pod
+m.gadget.desc.fashion_pod_smart = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
 
 m.gadget.name.sponge_tree = 海棉樹
 m.gadget.desc.sponge_tree = 海棉樹能在乾旱的數個月裡儲存大量水分。
