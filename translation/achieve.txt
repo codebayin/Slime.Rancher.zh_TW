@@ -58,7 +58,7 @@ m.reqmt.burst_gordo = 讓一隻胖胖史萊姆撐炸
 t.open_slime_gate = 芝麻開門
 m.reqmt.open_slime_gate = 開啟一扇史萊姆大門
 
-t.incinerate_elder_chicken = 旋轉木馬
+t.incinerate_elder_chicken = 沙威瑪
 m.reqmt.incinerate_elder_chicken = 燒死一隻老雞
 
 t.incinerate_chick = 禽獸不如！
